@@ -764,20 +764,20 @@
     "sha256": "1abf9b5668be8d2208dc2d4559a155e6f09dd25c9f9f16fd42f57109ea51ec03"
   },
   "final/downtrend-explanations-ko.md": {
-    "bytes": 31887,
-    "sha256": "e4be7478c548c7fb921081f8bf863b7625a2672ca2f8d275eaf979c7db441052"
+    "bytes": 33155,
+    "sha256": "66981d0b3537185e6122f13605dd17aedb7a6e88243446cbb7be375887fe85c4"
   },
   "final/downtrend-interpretation-ko.md": {
-    "bytes": 10044,
-    "sha256": "74c35e2d0166df12601f97e25793b15ec8b3fd2d14141cb06ab6d2aa40df38d6"
+    "bytes": 10688,
+    "sha256": "4ff9c81c6253a67ba98d918559a38fe9b0bdd5ba892de090c78fb01c080fba44"
   },
   "final/uptrend-explanations-ko.md": {
-    "bytes": 24430,
-    "sha256": "d08d60449dc679cdaf6b9ecc2162c031fbf6a6b42b7eb41cc60c2b26af3d5ca1"
+    "bytes": 25014,
+    "sha256": "edb49ac7e92188da7da4183ebdb57e21e76a0692d289f575403aa83b8292b590"
   },
   "final/uptrend-interpretation-ko.md": {
-    "bytes": 5735,
-    "sha256": "e22a17ff7c1b292c33b0c5b67294822c92714f7f14763c2a55ac949663356ad2"
+    "bytes": 5795,
+    "sha256": "0b14f6a0755691dd7da6f20b6a7bd333cf3ce8b10fb70297bb8af4a7b4a95e8c"
   },
   "historical-code/downtrend-extension-20261029/downtrend_confirmation/audit.py": {
     "bytes": 5230,
