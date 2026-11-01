@@ -1,0 +1,32 @@
+{
+  "receipts": [
+    {
+      "market": "KR",
+      "cache_stocks": 2610,
+      "risk_days": 6121110,
+      "risk21_days": 6257578,
+      "max_mean_reconciliation_error": 4.711489705322425e-11,
+      "all81_denominators_match": true,
+      "all81_positive_counts_match": true
+    },
+    {
+      "market": "US",
+      "cache_stocks": 4683,
+      "risk_days": 9865765,
+      "risk21_days": 9916993,
+      "max_mean_reconciliation_error": 7.934813570087407e-11,
+      "all81_denominators_match": true,
+      "all81_positive_counts_match": true
+    }
+  ],
+  "replicates": 1999,
+  "month_blocks": [
+    3,
+    6
+  ],
+  "code_sha256": "73def3d64e1eab290a74b701b01bf6af307a90789eabedb85db56bc9adbbcfe2",
+  "scalar_checks": 1088265,
+  "missing_cache": 190,
+  "category_identity": "negative + zero + positive = signals, every stock/month/rule",
+  "prior_path_summary_sha256": "4326224a6b7267d0bc3b6d8c212dcbd88ae2c94bea83e0c3866eff3763692497"
+}

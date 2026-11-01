@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "coverage_checks": [
+    {
+      "market": "KR",
+      "inventory_rows": 2637,
+      "no_unaccounted_active_symbols": true,
+      "all_three_windows_exhaustive_accounting": true
+    },
+    {
+      "market": "US",
+      "inventory_rows": 4846,
+      "no_unaccounted_active_symbols": true,
+      "all_three_windows_exhaustive_accounting": true
+    }
+  ],
+  "supplemental_attempts": 57,
+  "supplemental_valid_caches": 56,
+  "supplemental_too_short": "US:NUTR (38 valid bars)",
+  "four_original_cache_preprocessing_and_longest_segment_fits": "exact match, zero fit difference",
+  "coverage_audit_code_sha256": "0ef4a726a7ecb11c2ac05a756f9cda8cc425c390a2a0a4ebd7c4f9b1cbd7c29c"
+}

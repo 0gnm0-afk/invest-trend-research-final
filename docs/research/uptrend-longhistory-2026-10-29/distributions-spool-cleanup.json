@@ -1,0 +1,778 @@
+{
+  "status": "COMPLETE",
+  "scope": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1",
+  "files": [
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30_all_signals.f32",
+      "bytes": 3115440,
+      "sha256": "e446bda3dc1c526d6004b6b6fa2458d9d0b8c3513f1d430997b06f7366310b10"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30_early_confirmation_success.f32",
+      "bytes": 838944,
+      "sha256": "c2ab593c0849d51cf0344c70c0aea0239f18d855d79c58e571353bd659d0a2a2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20_all_signals.f32",
+      "bytes": 3198564,
+      "sha256": "2a764e5a1eaa5367ef231493767b5f2cf3df3cbb6b6d246cd30ad66dd87ca2a6"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20_early_confirmation_success.f32",
+      "bytes": 748656,
+      "sha256": "8dc89d039579c346bb2b6af5f0b2b57bd850da387915f7278cbce5c18cdcbc95"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__and20_all_signals.f32",
+      "bytes": 61344,
+      "sha256": "ad5bf991a728ac87e028a2e0c6e2406cded6eb6e3a2b5e1264b10cc14064491c"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__and20_early_confirmation_success.f32",
+      "bytes": 20592,
+      "sha256": "e8c76a4bedd6d504394cd6dd2c4d75676d2d5851d98ef0ab81500aa0318b0e77"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__then20_all_signals.f32",
+      "bytes": 822564,
+      "sha256": "6d781f66038cb343aef080f69df68641bc701db556900e1eadde03c789145f73"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__then20_early_confirmation_success.f32",
+      "bytes": 265608,
+      "sha256": "18c5bf3c4e1312d96520715cd59dd91c3fc8ce6f7fa70edfce6bdb711f3d28d9"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__persist3_all_signals.f32",
+      "bytes": 340956,
+      "sha256": "10b4dd4f73185e94c47c2764d472ef7a5fc365236e324942ae9f85240a4d9630"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__persist3_early_confirmation_success.f32",
+      "bytes": 30420,
+      "sha256": "69651e2e7a15d9176b507a4473f98ec14ac43eace1b8749e7025ac01ee8136ef"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__and20_all_signals.f32",
+      "bytes": 228240,
+      "sha256": "f5fcf63d44724b2a2f77ca42e16cc1b1a690133fa500f66a7167ecb842be7202"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__and20_early_confirmation_success.f32",
+      "bytes": 48096,
+      "sha256": "37e33377bcb1799001e0ae2e963c9c3d43a22123ada1ed7ee3e61b6288712ab1"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__then20_all_signals.f32",
+      "bytes": 1116108,
+      "sha256": "a5ac0f9537f751796f08478a38cf95572f1527147d4ec8831d15c4da1f94efde"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__then20_early_confirmation_success.f32",
+      "bytes": 258984,
+      "sha256": "e74fbaca06acba3a7f2548a5e627b67acb4828dc041a399d95e8e6695d846ca9"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__persist3_all_signals.f32",
+      "bytes": 550656,
+      "sha256": "b5493d732a9a23db5a64ca92b5940cfe8e90d59a1cc0c592b1f433f37c3f2dbb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__persist3_early_confirmation_success.f32",
+      "bytes": 31932,
+      "sha256": "c94bbf08cb49400da435c98c1b887af8610504e18ed0e08fdd76adcbdefa5b9e"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_rsi40_all_signals.f32",
+      "bytes": 2782008,
+      "sha256": "0010891e267f2f4b2d9411873df38f74987015c0e7bfb6fdea84f2a86b2c35bd"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_rsi40_early_confirmation_success.f32",
+      "bytes": 953388,
+      "sha256": "741c35edf3f0edf4218337668a70a65de569bff02495095486d054aaaa8b8f7f"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_negative_all_signals.f32",
+      "bytes": 5660748,
+      "sha256": "a58c83ce27a7e1b91bd1280443b6a1056693af5e8b880f1ef18a32c0fe9aa218"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_negative_early_confirmation_success.f32",
+      "bytes": 1639584,
+      "sha256": "c86a03b1d2373f244fd30c00b835f539c3f46570759724a9344a49b4abb62cda"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci_recovery_all_signals.f32",
+      "bytes": 9709308,
+      "sha256": "6c057bc2665a016d74ef134485f7b97ea4ac676e9a3089c75599d91c451e3433"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci_recovery_early_confirmation_success.f32",
+      "bytes": 2183436,
+      "sha256": "6eebd03ec90567907ff278a5fbfca9b4186f1a04f1da53f29c345ec223bd5f31"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_high20_volume_all_signals.f32",
+      "bytes": 4542660,
+      "sha256": "20c25af4ebed577ade91770d10e0fcc042f354135be5129727aa2145709f4f91"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_high20_volume_early_confirmation_success.f32",
+      "bytes": 63936,
+      "sha256": "2dd922190a3cf0a7a9c6ff0cb1f5676235f3c5d09af547d3d3b5bf9e55f77726"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price5_all_signals.f32",
+      "bytes": 28567260,
+      "sha256": "cb96f32e16a7be43521dc913c53b850f135899e5302f8852a86c7b29f9e38bbe"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price5_early_confirmation_success.f32",
+      "bytes": 2941992,
+      "sha256": "c740a5b58626406711086ae4ba09e976969daef76fec459998be93f373ed872c"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price20_all_signals.f32",
+      "bytes": 12415824,
+      "sha256": "4843b628b16cfb2abb239e1efc1d63d70481681e99b4944dc08bcacae7b93b2f"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price20_early_confirmation_success.f32",
+      "bytes": 1322928,
+      "sha256": "f6dff9f30ce958a1889811323a521a1f7e927ca2093742e465cdd43ffdf39a6a"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_supertrend_all_signals.f32",
+      "bytes": 2639196,
+      "sha256": "52ec2b6eda90b1d851dcaac32d51fc6d3dffd65f6c8fc86c2cf50b996c3fe7c9"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_supertrend_early_confirmation_success.f32",
+      "bytes": 175284,
+      "sha256": "56bcd0aa09a162fb52cf8ce09db991bf46e703d6096dff2ddf10b73c226adfcb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_psar_all_signals.f32",
+      "bytes": 9122976,
+      "sha256": "cb7b98619e76acbcce0c2e330065e409775b5f528249bbc1abafad5d7dc4481b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_psar_early_confirmation_success.f32",
+      "bytes": 1569780,
+      "sha256": "9af4cf333728dd5e6052c513b91ceb27b665856eca42bd01e45233aad65a0f06"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_zero_all_signals.f32",
+      "bytes": 2288052,
+      "sha256": "d6493bcf884b2229faf21400ffb3549385a8f06daf068eeba582d3804de249c6"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_zero_early_confirmation_success.f32",
+      "bytes": 3348,
+      "sha256": "c2d74b78c951ee69884489c66f9fa62d26778347d35e62d2d32e75a88b2f6315"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_signal_all_signals.f32",
+      "bytes": 4527000,
+      "sha256": "2398dd6896a62ce49481ada7de5d9fc6725342f787ed180df663ea7bd84874e1"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_signal_early_confirmation_success.f32",
+      "bytes": 164772,
+      "sha256": "ac0f6bcc8ff87dd352ddb69698721d438ff19e536c8b61e506a4179c6727f392"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi20_all_signals.f32",
+      "bytes": 10713348,
+      "sha256": "d521c15633bbabcfff335b7b40e15190f5f12ee3cc7eba9b412b535a23743267"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi20_early_confirmation_success.f32",
+      "bytes": 1752444,
+      "sha256": "c16cabc38a13f575c19c3774ce61beff62674eea0410c90ac5b2f482358b1cd2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi_cross_all_signals.f32",
+      "bytes": 13681980,
+      "sha256": "4115ac989ab97d0e79accb518536671e61c127c75d5d101f6406473040c81917"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi_cross_early_confirmation_success.f32",
+      "bytes": 1438704,
+      "sha256": "b725baf6c0ab63545837af2f7df1552da3f41dd2d4d8e0bb27fb0bbda351b7c9"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi30_all_signals.f32",
+      "bytes": 3258072,
+      "sha256": "257820aeb4d4ab16f5f0666bf9c3dc9cdecd61e593cd50d79ce13f7a16e21caa"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi30_early_confirmation_success.f32",
+      "bytes": 714636,
+      "sha256": "dfe22403fb8b04f664c9d9410a8d7dd4bf07748741876081666ed0a9d03a90f6"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi50_all_signals.f32",
+      "bytes": 4791312,
+      "sha256": "fb4544762d198a76817308649e555e5ab414fbc200ecac8df387cb2ffe03d2fa"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi50_early_confirmation_success.f32",
+      "bytes": 234540,
+      "sha256": "2588c79dd79f85a3f498960c0d7425f6a1e06cb80647626e44f4cfd2711eaa45"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_chaikin_all_signals.f32",
+      "bytes": 9316044,
+      "sha256": "9e7debe228b5eb85b06d1e00cfaf456ca02ab8ba712a896a187f76acaece7334"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_chaikin_early_confirmation_success.f32",
+      "bytes": 986364,
+      "sha256": "16a7f5a841509ecd61abc9957443648827f28e62ef1437a3e754278c4e4e5706"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_avwap_quarter_all_signals.f32",
+      "bytes": 10164132,
+      "sha256": "4f54fac827da03261fb65a6d2f8c160588dfe87a94e5a3d7c75457140ec75298"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_avwap_quarter_early_confirmation_success.f32",
+      "bytes": 775476,
+      "sha256": "8584b8637765f96b46c30da24795a187d1d91b86f42af176ad35f09801ade825"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_volume_osc_all_signals.f32",
+      "bytes": 7355124,
+      "sha256": "49936a83e301ed8322d9b42757cffa34ed83936ea7e1f8756ee7afc928971ca5"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_volume_osc_early_confirmation_success.f32",
+      "bytes": 646020,
+      "sha256": "2b04ce8dc3674d93f47ba5d9b90aab93f41e27e05e4ac65f7ad569c6a3aa62af"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci-100_all_signals.f32",
+      "bytes": 10851516,
+      "sha256": "2a22ba0d1ed0be7ff905b347eb4ed4220e9c28e47a43bd49427fe27f71608dc8"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci-100_early_confirmation_success.f32",
+      "bytes": 2215764,
+      "sha256": "40cf7ee52f102e636384bf98770e48650e08118bf5789544426106bdddd7e573"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30_all_signals.f32",
+      "bytes": 4352112,
+      "sha256": "06abdd6fe10949407fd8538a1de911b0890f9fa2b30b20c56c16181cbaf08eb2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30_early_confirmation_success.f32",
+      "bytes": 1106496,
+      "sha256": "525ee35b3bc5aa704438ef7aa8d08ae68f0fb5da206450c9200a939cadbc02aa"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100_all_signals.f32",
+      "bytes": 16849656,
+      "sha256": "8b15ed947392a80088fbd7f027b7e4dad4b51e0369a3fd160f0004a33c1c67e1"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100_early_confirmation_success.f32",
+      "bytes": 3558420,
+      "sha256": "cc6218d4a648e6ed30936850808d052cfa6a899c8505174e3f67b1e7ce6d6b76"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__and20_all_signals.f32",
+      "bytes": 83916,
+      "sha256": "804ed0fe94d3a3dd0e1dfe46cf526bfaf2572a8738e7d7159669e1d75a2db792"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__and20_early_confirmation_success.f32",
+      "bytes": 29448,
+      "sha256": "4bc1e053a2becf725394789cc2f352e219ff4aa68762940864cb9fd689f57050"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__then20_all_signals.f32",
+      "bytes": 1086444,
+      "sha256": "9f2c0da48b043709476a140da99f2639e37ce7e5e1caf67fdf0b12c8af263e94"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__then20_early_confirmation_success.f32",
+      "bytes": 346968,
+      "sha256": "23610eb7718e98d530d3f09d1839203a0e4ed55a455a2fbe0b6ee2ee19d7f2f5"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__persist3_all_signals.f32",
+      "bytes": 425880,
+      "sha256": "9a019dfdc6dd070e6131bb8bb9db6ada60db27129cb73832da90f8bfb3432b7a"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__persist3_early_confirmation_success.f32",
+      "bytes": 31536,
+      "sha256": "5ed3ad515fbddf0453b45268bea1e487bf5d3cdbfaa2b00f65b4324381875862"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__and20_all_signals.f32",
+      "bytes": 1826028,
+      "sha256": "520b70896905469d5189d7396176597847ca19ead15086f198e8ac8e920086e7"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__and20_early_confirmation_success.f32",
+      "bytes": 312588,
+      "sha256": "7d1e6cdf1b3f10e36848bc9493046b204ab1bb0f28c714a2b1290c58467e25f8"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__then20_all_signals.f32",
+      "bytes": 7793964,
+      "sha256": "a1f5293d9a2a7820509c7e0cdb660409a25db38ce892bda265cc10f37b0bb25b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__then20_early_confirmation_success.f32",
+      "bytes": 1766088,
+      "sha256": "ed4bd623d51b8f7af519965f72fb23a8434addcb521c2d4bbdc41e750826b185"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__persist3_all_signals.f32",
+      "bytes": 3998268,
+      "sha256": "e679e627801520c7551805fce6a5584917b1d32ea8ed7104a2e01dc299d3676f"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__persist3_early_confirmation_success.f32",
+      "bytes": 320364,
+      "sha256": "3be5344a38089272014afbd5c2081cee0fb034693ad8c9412ba3c807b50a0319"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_rsi40_all_signals.f32",
+      "bytes": 3915612,
+      "sha256": "4050f079a33fa609d0b2388871ae1848157f51bb800ce5d209ff9d096ae52f2b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_rsi40_early_confirmation_success.f32",
+      "bytes": 1432404,
+      "sha256": "f19595a5ac7b01095c82b3432d736d643adff67c52856ba80d9521da6e14d1c3"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_negative_all_signals.f32",
+      "bytes": 8446140,
+      "sha256": "2fee9ddc53ec7bd82ae126c7aea84a5495017a98f23b1b85a99c96c9ccff8802"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_negative_early_confirmation_success.f32",
+      "bytes": 2557620,
+      "sha256": "02071125a4c2835e6424fa05716d141ff8ba17bddcea3da98282d990d90bacd2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci_recovery_all_signals.f32",
+      "bytes": 14814900,
+      "sha256": "a5111d631fa5540c46fce2f304c5d168323330653a550ff50265d23a55bb903a"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci_recovery_early_confirmation_success.f32",
+      "bytes": 3505680,
+      "sha256": "85b60984bb96d70b52d80ac974815ca11cc8eceeed85dc19728e9ccd8bdb4cd7"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_high20_volume_all_signals.f32",
+      "bytes": 4771728,
+      "sha256": "e62abc235d4f6c89e326d2b1d653f6a23fe6d96135a42399a6543d5e5f09cb92"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_high20_volume_early_confirmation_success.f32",
+      "bytes": 74772,
+      "sha256": "c3606ebe0b43ea5a75a8243d8c8b9b3d45eeb94b223e2f72f70e4f3c4f711e72"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price5_all_signals.f32",
+      "bytes": 47966112,
+      "sha256": "587958a0a5841f0baa491902a35509ce2e9c1a92ace2f5476b0a37f17b777708"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price5_early_confirmation_success.f32",
+      "bytes": 4858704,
+      "sha256": "fec76eefb43f1b5cfcd637addea622efe9dd257fd10b9fb7cc4904bc25d581c2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price20_all_signals.f32",
+      "bytes": 21898080,
+      "sha256": "e6f072e830834b5b9c2b51172198f9253ebe2aeb49bf78dcf5611dfa3467dea0"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price20_early_confirmation_success.f32",
+      "bytes": 2333412,
+      "sha256": "96c3d59c780a6ce65541ce99afb2d1eaedc05aeed948dfb172c9c6671e963a28"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_supertrend_all_signals.f32",
+      "bytes": 4749048,
+      "sha256": "501dac4ee5de64a7e862e3ed866b20a78781d3256cd06dc83967e45c8a45507d"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_supertrend_early_confirmation_success.f32",
+      "bytes": 297324,
+      "sha256": "b64ce06e8accec3c1838daba898305c87f5b2585a92f29ea54c0567a109640a9"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_psar_all_signals.f32",
+      "bytes": 15854256,
+      "sha256": "efaf9a0e03f34b1f9a191c71169435a0af7407382f48628b6287d4fac678eee2"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_psar_early_confirmation_success.f32",
+      "bytes": 2611728,
+      "sha256": "a95115591eb3167186c485503c316a226a630428faf77dbee0ca0f43b66efe82"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_zero_all_signals.f32",
+      "bytes": 3569292,
+      "sha256": "1284e4f57eadd8f8a90d29f40437bb9997425b4c634d5002bfd0f81d3dbd8477"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_zero_early_confirmation_success.f32",
+      "bytes": 4716,
+      "sha256": "8efe2a8e2e6c00e94761d4358429da12fa781bcc321f42484aaff254af5c3459"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_signal_all_signals.f32",
+      "bytes": 7406172,
+      "sha256": "9e3d8aa06db5bc28e002ad2bf40d9120a9e01c6e92b15e87cf94970b09810164"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_signal_early_confirmation_success.f32",
+      "bytes": 240336,
+      "sha256": "58dc51c70edf4b61a51f7c22c7065f8c21b6fb608b5de5ed810014987234e4d6"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi20_all_signals.f32",
+      "bytes": 17114436,
+      "sha256": "9ecca81edd5c58c8d9e5b6ab5fe20dab23d5db5b151bb386b4b4979682938fd1"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi20_early_confirmation_success.f32",
+      "bytes": 2736756,
+      "sha256": "c3f03d29a0329427109a41accfe112e1473ee9f3b962ceda27bdfbd64b469d5e"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi_cross_all_signals.f32",
+      "bytes": 21326040,
+      "sha256": "38e3157fd4411817f5f72cfb21225b8c356b36a21da35e7eb2851935b455cbcb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi_cross_early_confirmation_success.f32",
+      "bytes": 2213748,
+      "sha256": "c5c39ff0aae3bd39f2fd7446b3b9ef839c6468d37ae9ce4dad005d18aa1cd5dd"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi30_all_signals.f32",
+      "bytes": 4701240,
+      "sha256": "17984d69a4ea04f2d801165834bf6eeb85dafaf3b4d3e986de31d5019fc534dc"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi30_early_confirmation_success.f32",
+      "bytes": 1171836,
+      "sha256": "30ff88a5497d40a3dacf55b2247ab3267317c88079203a9b7c8144787b25af7e"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi50_all_signals.f32",
+      "bytes": 7631424,
+      "sha256": "6626738d8845a58556e2b2e01892f7210d9a3ece1ea5cebd9242a39ab90c707e"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi50_early_confirmation_success.f32",
+      "bytes": 400356,
+      "sha256": "a9a08de53c4a6ace9007b48f067b50d470c49dd140c34036a22ded40cbe56682"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_chaikin_all_signals.f32",
+      "bytes": 18283140,
+      "sha256": "8b0ce18ffedb3fef7cf81ba56530dcff66e5ed41f041af3724fe355b588a7ebb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_chaikin_early_confirmation_success.f32",
+      "bytes": 1970532,
+      "sha256": "c613a1fb3e63ebad9992d8cf34d9161e33a6055a68f5c6673ff89b3d200c4201"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_avwap_quarter_all_signals.f32",
+      "bytes": 16962840,
+      "sha256": "1c8f6b93c8c237d5c5d91440faacc749e703b9062e4ccbc17c9137eaa19a04ff"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_avwap_quarter_early_confirmation_success.f32",
+      "bytes": 1659924,
+      "sha256": "e0f1a3ef092b632fae8ab5448344c05c10342ee87e00bf534ea1850f82c2230d"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_volume_osc_all_signals.f32",
+      "bytes": 11387772,
+      "sha256": "d465451ab3f8ed61218bb978fdbe3de8f49296fe7ebf56afbe67876c012a5538"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_volume_osc_early_confirmation_success.f32",
+      "bytes": 856188,
+      "sha256": "157c4c725a60be658e022806618a5e64cadad2d5ddaa7777e35718257226186c"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30_first.f32",
+      "bytes": 87624,
+      "sha256": "6b72ac23914da73bbccaae1497f3ba6ec8db4c3fac6f3b4feb0f7b3700efe7f7"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20_first.f32",
+      "bytes": 78392,
+      "sha256": "a1dc1aef45ba170192dc6a9d12ce24923bc2fe9478874582fd086cc386f5b4a5"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__and20_first.f32",
+      "bytes": 2276,
+      "sha256": "a91c184bde65835f0c92fec8f02fb2e4c608ee365842fdd3c51240b83c804fde"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__then20_first.f32",
+      "bytes": 29440,
+      "sha256": "c947dd90221b684b8cfa84d8268da64d5c3d89a8e349cdf800037aebc06b9c78"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rsi30__persist3_first.f32",
+      "bytes": 3380,
+      "sha256": "b2b032991de232b5f6de06c9a77a3bfe4f837f5510369e4a87e8e1d1ae1e3d84"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__and20_first.f32",
+      "bytes": 5300,
+      "sha256": "e6b330bf5ba551dd533c7797ce3c126d0e5538e288ae1642accccddb13638bdb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__then20_first.f32",
+      "bytes": 28668,
+      "sha256": "ab99c0a348aead6a3779f2b826065539698697a14e9299e0968a4e35fe58d8b5"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_mfi20__persist3_first.f32",
+      "bytes": 3544,
+      "sha256": "1091114f45d686456af0ca290ae9b6e3df9bdb51b958ad822a688b1d4e850428"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_rsi40_first.f32",
+      "bytes": 104868,
+      "sha256": "9c2826c8a75160f62a9bb52a50cae9512e34fc88858c496e5770dd061c9f994d"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_macd_negative_first.f32",
+      "bytes": 179452,
+      "sha256": "d3eaa0f4ab1ca598c2403cab2c40acacfbdbab53bb4e45606b653c3e113a893b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci_recovery_first.f32",
+      "bytes": 225392,
+      "sha256": "378ae3b41cc351b5284b5eff44c86f66693f39076a3ea33677c1390446035e90"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_high20_volume_first.f32",
+      "bytes": 7004,
+      "sha256": "35c503f600356a673fdb5105b0723a9b6c4a44d50552fdcdd05b8617dc89d70a"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price5_first.f32",
+      "bytes": 276452,
+      "sha256": "2739fc7d99460e593bbd88bc943745131f46a4e2ce674f8571af837bf139d0ce"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_price20_first.f32",
+      "bytes": 137436,
+      "sha256": "6058d399b1aa54d8b8c3990d473e7229737b11c1cc954bf33ed0bb2d5cfe7d47"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_supertrend_first.f32",
+      "bytes": 19404,
+      "sha256": "c3204b6fbe2fdf736944dfb61db26393ce2a3f87ae4cbaffdd6caa1b795bbc29"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_psar_first.f32",
+      "bytes": 172320,
+      "sha256": "43a809f563e9ab7512251168857931bd7a4724c23b9d7fefc8f441f3c72a1d48"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_zero_first.f32",
+      "bytes": 372,
+      "sha256": "5cf8858e20b8314fda964079f7ccd6bffb2cdabe3a30a2a24253b9f2c2808941"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_trix_signal_first.f32",
+      "bytes": 18156,
+      "sha256": "589193d442d71180e0de729f67a44233bc13d00c021205c867ea9f8e0069f429"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi20_first.f32",
+      "bytes": 190556,
+      "sha256": "2d7e5af5fe9df1a62c71a06f9f40b6f7147c37c0b62ad215c00050169cab5a98"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_stochrsi_cross_first.f32",
+      "bytes": 154272,
+      "sha256": "8980aa0475c81cb4a500c316f14c492e7490a5085b6d2ba3931c4f46199fc191"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi30_first.f32",
+      "bytes": 78316,
+      "sha256": "4a80b3470daa19be62a2d98c6b875e2719fcd620c82efcf8338032aaa8ea9b22"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_rmi50_first.f32",
+      "bytes": 25684,
+      "sha256": "e800fd15a0bb629fd0ef2d932ab0f0ec55f3e947528de9a7a2ef1a3e15208f89"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_chaikin_first.f32",
+      "bytes": 105236,
+      "sha256": "871539d09669f1cf87041b51a5dba73a093e25c60d0e26143240634696faa602"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_avwap_quarter_first.f32",
+      "bytes": 66052,
+      "sha256": "deedd359b912974b5b4da3f120a22b34c008dcb232476cafd5dbb577f60a0774"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_volume_osc_first.f32",
+      "bytes": 69196,
+      "sha256": "4c1af1c93e018c8e0e2a56be3c817c7a5e022fee11a1fdcc82404e564bcf5e56"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\KR_cci-100_first.f32",
+      "bytes": 228548,
+      "sha256": "ab12e2e1885dc60cc43e10ed6223ad8168023d8e80c14b7decb0fde522baec4f"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30_first.f32",
+      "bytes": 113860,
+      "sha256": "ffe5f946bddda8b141f102db61bca78fb69f884eb457896a34c762a8437ae7fa"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100_first.f32",
+      "bytes": 364572,
+      "sha256": "925705f102e7a869c3498df9b0556f0faa20837d77cd8848d95a2cda9c9365dd"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__and20_first.f32",
+      "bytes": 3248,
+      "sha256": "7cba8a7ac75a45a62a62ca3df45efffe85573adf18402ade4fcbd559a8ac400b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__then20_first.f32",
+      "bytes": 38504,
+      "sha256": "16f3a22b056c39fe21b09a5f6dc16575d51a2e8dc7ee6a2283def743c2a9e98c"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rsi30__persist3_first.f32",
+      "bytes": 3500,
+      "sha256": "8de8d2989eeb79596d5e19b7ae5a9fa526a4b623f54990d45bee769a37adb776"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__and20_first.f32",
+      "bytes": 34392,
+      "sha256": "72e354c845d1d523e24399d4b49cbd26a1002a0b9dbd67234fd797a8bcb3dfec"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__then20_first.f32",
+      "bytes": 195448,
+      "sha256": "7ea95de01d9b7f3e70294cf1f8cb9bb9652aa8c56c610ba515273b2cbb3bcc4f"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci-100__persist3_first.f32",
+      "bytes": 35552,
+      "sha256": "4fc030268d73e8c5a02fbc8162f92b232f845370b02ad543630db281847365c8"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_rsi40_first.f32",
+      "bytes": 157824,
+      "sha256": "9e64fcf66f1fe0db220f7a974629bdb2525fdeed733e9c3cfcc90d2e9630eb38"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_macd_negative_first.f32",
+      "bytes": 279740,
+      "sha256": "53373a5413db2e6490a9f1e6190aedd256e4c4a9570485c06a10ec8fd7e64661"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_cci_recovery_first.f32",
+      "bytes": 359396,
+      "sha256": "3fc6ae84300898e1b72931c0f78628a6cd3897956ab1ab9174451a651458b892"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_high20_volume_first.f32",
+      "bytes": 8212,
+      "sha256": "f8460e209c3b273497efdd575c119e577c26e1f31dead1ef822a729678e970bb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price5_first.f32",
+      "bytes": 441836,
+      "sha256": "fa69f77b260a2ca28f0f264d4c6fa03572ee1e0a1b00bfc623bb547f676e1787"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_price20_first.f32",
+      "bytes": 238088,
+      "sha256": "3984c67840843b6fa1e5df605a68a92092faa31d052259dfbcc4db496903d62b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_supertrend_first.f32",
+      "bytes": 32952,
+      "sha256": "c05f602504d623b59a3e246fe368f1888fa55349db1863af8f05a4a0878b6dd3"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_psar_first.f32",
+      "bytes": 286752,
+      "sha256": "99754a6bdd0b448642b9f4093ce8b1e53d25040e4a9ba5401bcf9eccf7fb8887"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_zero_first.f32",
+      "bytes": 520,
+      "sha256": "bff2b2eee1a88926519c81a2cd1399e362a6a08c11437ca825266bc575b528fe"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_trix_signal_first.f32",
+      "bytes": 26548,
+      "sha256": "985227ded0a16fa48fc6fe4251f2db96f1d1f2e10bc4ad0005a54cb3e9431073"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi20_first.f32",
+      "bytes": 298056,
+      "sha256": "eaf0d18482467add8ff96b1da620fef6b4a79e49fe4d9c48eff254a11b2f91e3"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_stochrsi_cross_first.f32",
+      "bytes": 237996,
+      "sha256": "0d559480d330c437494697b7d39d28d642efc569614ced2fae987cc598a5c203"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi30_first.f32",
+      "bytes": 128408,
+      "sha256": "56482a38f634874064e86c7f3b0917738ba1700ca2a8945a990f32c2cb39e55b"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_rmi50_first.f32",
+      "bytes": 43824,
+      "sha256": "cee5b3dc52e383ba2488365463b21c07d0a5ebbacd25b84e097373a7328b14eb"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_chaikin_first.f32",
+      "bytes": 208320,
+      "sha256": "ab913e31687bd2212b6378a7cef82463befc79762eeb4939a6ad5c35a22ef244"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_avwap_quarter_first.f32",
+      "bytes": 142560,
+      "sha256": "8d1df472cf809bf64d4e9c5a62a2753c2a9fe495163880f0037d707917929b7e"
+    },
+    {
+      "path": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\uptrend-longhistory-20261029\\distributions\\spool-v1\\US_volume_osc_first.f32",
+      "bytes": 91660,
+      "sha256": "3d673949ab1e0b1cf340a09ffd2e0f6aa1c71e77cf1a7d2d0eb62b65eade7600"
+    }
+  ],
+  "bytes": 493527612,
+  "spool_receipt_sha256": "496c0efd81623b60a14937510dc179f1bdf33371be3478e723ed5f24cd407027",
+  "verification_sha256": "1c64c823c4268bed7c01aec35f9fb70048deeb9631f19f64a6ea5f92445f3cae",
+  "preserved": "All CSVs, verification/extreme/complete receipts and every source/features/evaluate/paths NPZ",
+  "regeneration": "python scripts/research/uptrend_longhistory/distributions.py --rebuild-spool",
+  "reason": "Reclaim this task temporary scratch after verified quantiles; no other study touched",
+  "files_removed": 153
+}

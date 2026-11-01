@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "scalar_path_horizons": 1260,
+  "L1_invariant_risk_population": true,
+  "classification_fixture": true,
+  "conditions_per_market": 81,
+  "focal": {
+    "KR": 18,
+    "US": 18
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "seed": 231023,
+  "replicates": 1999,
+  "months": 180,
+  "blocks": [
+    3,
+    6
+  ],
+  "start_month": "2010-10",
+  "end_month": "2025-09",
+  "family": 486,
+  "event_rate_family": 162,
+  "paired_family": 288,
+  "conditions_per_market": 81,
+  "stocks": {
+    "KR": 2610,
+    "US": 4683
+  },
+  "stock_chunk": 8,
+  "method": "Crossed stock Poisson x common stationary-month counts",
+  "numerical": "float32 multiplication, float64 accumulation; streamed stock chunks"
+}

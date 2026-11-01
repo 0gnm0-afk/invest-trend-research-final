@@ -1,0 +1,11 @@
+{
+  "prefix_cells": 379584,
+  "shared_extension_cells": 23040,
+  "label_boundary": "PASS",
+  "confirmation_clock": "PASS",
+  "conditions": {
+    "KR": 72,
+    "US": 72
+  },
+  "finished_utc": "2026-10-29T04:26:57.024870+00:00"
+}

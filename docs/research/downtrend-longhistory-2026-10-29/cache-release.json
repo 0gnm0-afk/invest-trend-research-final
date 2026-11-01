@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "released_at": "2026-10-29T05:33:06.659053+00:00",
+  "files": 7293,
+  "bytes": 2196421212,
+  "reason": "Local disk capacity: verified disposable aggregates removed before finishing paths.",
+  "prerequisites": [
+    "verification-longhistory PASS",
+    "classification-inference complete",
+    "all classification CSVs retained"
+  ],
+  "reproduction": "Run frozen study.py evaluate again before re-running per-stock verification or classification inference.",
+  "source_prices_and_prior_results_preserved": true
+}

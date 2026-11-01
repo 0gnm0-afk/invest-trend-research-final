@@ -1,0 +1,56 @@
+{
+  "focal": {
+    "KR": [
+      "supertrend",
+      "psar",
+      "trix_zero",
+      "trix_signal",
+      "stochrsi80",
+      "stochrsi_cross",
+      "rmi70",
+      "rmi50",
+      "chaikin",
+      "avwap_quarter",
+      "volume_osc",
+      "fractal_break",
+      "macd_rsi60",
+      "macd_positive",
+      "cci100_up20",
+      "rsi60",
+      "stoch80",
+      "price5"
+    ],
+    "US": [
+      "supertrend",
+      "psar",
+      "trix_zero",
+      "trix_signal",
+      "stochrsi80",
+      "stochrsi_cross",
+      "rmi70",
+      "rmi50",
+      "chaikin",
+      "avwap_quarter",
+      "volume_osc",
+      "fractal_break",
+      "macd_rsi60",
+      "macd_positive",
+      "cci100_up20",
+      "rsi60",
+      "stoch80",
+      "price5"
+    ]
+  },
+  "months": 180,
+  "start": "2010-10-01",
+  "end": "2025-09-30",
+  "path_population": "All signals; no retrospective L1 condition",
+  "counts": {
+    "cached": 2833,
+    "no_cache": 190,
+    "ok": 4460
+  },
+  "files": 7293,
+  "code_sha256": "4670efc3ef24209a151875c6638ab2771e8704e74fa256e42df40565b71c5034",
+  "finished_utc": "2026-10-29T05:43:36.007749+00:00"
+}

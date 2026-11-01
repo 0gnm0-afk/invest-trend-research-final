@@ -1,0 +1,93 @@
+{
+  "old_window": "2023-04-01..2025-09-30",
+  "primary_month_slice": "150:180",
+  "stocks_checked": 12,
+  "cells_checked": 1432080,
+  "tolerance": "absolute1e-5 +relative1e-6; float32 stored statistics",
+  "rows": [
+    {
+      "market": "KR",
+      "file": "KR_000020.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 1.1102230246251565e-16
+    },
+    {
+      "market": "KR",
+      "file": "KR_000040.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 5.551115123125783e-17
+    },
+    {
+      "market": "KR",
+      "file": "KR_000050.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 2.220446049250313e-16
+    },
+    {
+      "market": "KR",
+      "file": "KR_000070.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 1.1102230246251565e-16
+    },
+    {
+      "market": "KR",
+      "file": "KR_000080.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 6.245004513516506e-17
+    },
+    {
+      "market": "KR",
+      "file": "KR_000100.KS.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 6.938893903907228e-17
+    },
+    {
+      "market": "US",
+      "file": "US_A.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 4.440892098500626e-16
+    },
+    {
+      "market": "US",
+      "file": "US_AA.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 7.37257477290143e-17
+    },
+    {
+      "market": "US",
+      "file": "US_AACP.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 0.0
+    },
+    {
+      "market": "US",
+      "file": "US_AADX.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 0.0
+    },
+    {
+      "market": "US",
+      "file": "US_AAL.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 5.551115123125783e-17
+    },
+    {
+      "market": "US",
+      "file": "US_AAME.npz",
+      "events": 18,
+      "cells": 119340,
+      "max_absolute_error": 1.1102230246251565e-16
+    }
+  ]
+}

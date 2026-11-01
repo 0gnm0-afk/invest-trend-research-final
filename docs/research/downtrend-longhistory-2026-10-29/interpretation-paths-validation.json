@@ -1,0 +1,151 @@
+{
+  "status": "PASS",
+  "checked": 110,
+  "errors": [],
+  "scope": "All numeric tables: main comparisons, new12, SMD/ESS, horizons, eras and equal stock. Prose separately reviewed against CSV queries and source definitions.",
+  "document_sha256": "e6db12a6aeea36fe9a3dac6b5877b673754f28909f9b4006bbf663689963fd88",
+  "sources": {
+    "matched-paths.csv": "18b5012b19667df276433fa8f26944ee823f96a9705e0b16d705f339e032af64",
+    "balance.csv": "cb31bf0eddbed071ecb9c4ced5f394a8c439c653473118a7607d92f3a17a0cdc",
+    "path-periods.csv": "7c2aa59412ccdb4f1e568a29260202cda44245d30662a2994a2ab231db8ac3b0",
+    "path-equal-stock.csv": "576cbb3f1ad981bd9c7a5708a124d1875846ee998098fd7710853aafd5329161",
+    "all81-path-summary.csv": "4326224a6b7267d0bc3b6d8c212dcbd88ae2c94bea83e0c3866eff3763692497"
+  },
+  "repaired_rounding": [
+    {
+      "comparison": [
+        "core-ci",
+        "US",
+        "cci100_up20"
+      ],
+      "previous_display": [
+        0.31,
+        -1.05,
+        1.67
+      ],
+      "verified_display": [
+        0.31,
+        -1.05,
+        1.68
+      ]
+    },
+    {
+      "comparison": [
+        "new",
+        "US",
+        "supertrend"
+      ],
+      "previous_display": [
+        6.09,
+        3.6,
+        8.58
+      ],
+      "verified_display": [
+        6.09,
+        3.59,
+        8.58
+      ]
+    },
+    {
+      "comparison": [
+        "new",
+        "US",
+        "stochrsi80"
+      ],
+      "previous_display": [
+        -1.32,
+        -2.72,
+        0.07
+      ],
+      "verified_display": [
+        -1.33,
+        -2.72,
+        0.07
+      ]
+    },
+    {
+      "comparison": [
+        "horizon",
+        "KR",
+        "macd_rsi60",
+        63
+      ],
+      "previous_display": [
+        4.13,
+        0.57,
+        7.69
+      ],
+      "verified_display": [
+        4.13,
+        0.57,
+        7.68
+      ]
+    },
+    {
+      "comparison": [
+        "horizon",
+        "US",
+        "cci100_up20",
+        5
+      ],
+      "previous_display": [
+        0.11,
+        -1.05,
+        1.26
+      ],
+      "verified_display": [
+        0.11,
+        -1.04,
+        1.26
+      ]
+    },
+    {
+      "comparison": [
+        "horizon",
+        "US",
+        "cci100_up20",
+        21
+      ],
+      "previous_display": [
+        0.31,
+        -1.05,
+        1.67
+      ],
+      "verified_display": [
+        0.31,
+        -1.05,
+        1.68
+      ]
+    },
+    {
+      "comparison": [
+        "equal",
+        "rmi70"
+      ],
+      "previous_display": [
+        3.32,
+        1.25
+      ],
+      "verified_display": [
+        3.32,
+        1.24
+      ]
+    },
+    {
+      "comparison": [
+        "era",
+        "cci100_up20",
+        2
+      ],
+      "previous_display": [
+        0.17,
+        -0.13
+      ],
+      "verified_display": [
+        0.18,
+        -0.13
+      ]
+    }
+  ],
+  "notes": "110 displayed numeric comparisons verified; eight double-rounding differences corrected and rechecked against unchanged source hashes. Added prose raw-US-MACD return corrected to +0.53%."
+}

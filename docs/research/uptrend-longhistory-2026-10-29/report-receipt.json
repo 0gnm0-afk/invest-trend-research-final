@@ -1,0 +1,9 @@
+{
+  "report": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\docs\\research\\uptrend-longhistory-2026-10-29.md",
+  "sha256": "cf125c61440a5d852fc779f5bd5dcb622b9ae2ddfb82cb8e1184e1bb7087bb25",
+  "conditions": 144,
+  "main_display_per_market": 18,
+  "cases": 16,
+  "primary_summary_sha256": "f493a105f1a54dd275b28ffce7683144737801af0382b5b343ef9af4e27a03a7",
+  "matched_summary_sha256": "06ff591ef24625dbce48a519f2cc27a1951054426926a045a31cb5f3608c22ab"
+}

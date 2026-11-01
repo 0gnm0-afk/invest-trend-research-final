@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-29T06:15:44.586292+00:00",
+  "csv_files": 50,
+  "zip_members": 60,
+  "zip_bytes": 7428582,
+  "zip_byte_comparison": true,
+  "local_links": 44,
+  "image_integrity_checks": 12,
+  "protected_prior_files": 168
+}

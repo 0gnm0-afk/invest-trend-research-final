@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "fixed_sample": 40,
+  "prefix_fit_files": 120,
+  "stock_arm_rows": 240,
+  "all_prefix_classes_equal_original_labels": true,
+  "all_confusion_matrices_reconcile": true,
+  "all_solver_gaps_below_1e_8": true,
+  "frozen_code_hash_matches": true,
+  "sample_counts": "20 permarket,2 supplemental permarket"
+}

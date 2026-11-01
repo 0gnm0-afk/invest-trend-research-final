@@ -1,0 +1,60 @@
+{
+  "seed": 231023,
+  "replicates": 1999,
+  "months": 180,
+  "blocks": [
+    3,
+    6
+  ],
+  "family": 3456,
+  "focal": {
+    "KR": [
+      "supertrend",
+      "psar",
+      "trix_zero",
+      "trix_signal",
+      "stochrsi80",
+      "stochrsi_cross",
+      "rmi70",
+      "rmi50",
+      "chaikin",
+      "avwap_quarter",
+      "volume_osc",
+      "fractal_break",
+      "macd_rsi60",
+      "macd_positive",
+      "cci100_up20",
+      "rsi60",
+      "stoch80",
+      "price5"
+    ],
+    "US": [
+      "supertrend",
+      "psar",
+      "trix_zero",
+      "trix_signal",
+      "stochrsi80",
+      "stochrsi_cross",
+      "rmi70",
+      "rmi50",
+      "chaikin",
+      "avwap_quarter",
+      "volume_osc",
+      "fractal_break",
+      "macd_rsi60",
+      "macd_positive",
+      "cci100_up20",
+      "rsi60",
+      "stoch80",
+      "price5"
+    ]
+  },
+  "all_signal_descriptive_conditions_per_market": 81,
+  "stocks": {
+    "KR": 2610,
+    "US": 4683
+  },
+  "stock_chunk": 8,
+  "control_uncertainty": "First-order, actual control month. Fixed cells/support; approximate, not full rematching.",
+  "period_control_convention": "Fixed full-quarter cell means; monthly correction is assigned to actual control dates."
+}

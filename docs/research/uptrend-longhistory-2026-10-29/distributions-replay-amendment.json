@@ -1,0 +1,6 @@
+{
+  "computed_code_sha256": "45049c5cf31f817a10d3b777056576972144fd41d9d7e4ad3021ac1b533d301a",
+  "replay_code_sha256": "26a5610f75fe0b40462b8efd8ac5b375b376e9a136dd54dab9db3f4bc082afd8",
+  "change": "Added explicit --rebuild-spool after verified temporary-spool cleanup; optional missing-feature replay. Quantile/path/episode formulas and statistics unchanged.",
+  "checks": "py_compile and --help passed; no recomputation represented as performed"
+}

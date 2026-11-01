@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "reviewed_at_utc": "2026-10-29T05:27:15.022587+00:00",
+  "figures": [
+    {
+      "file": "01-accuracy-capture.png",
+      "pixels": [
+        2736,
+        1383
+      ],
+      "sha256": "efbbf3a0cdf5f47ae89d94e76461e484ce108f95381e956a69ced0598812f5f6",
+      "review": "PASS; viewed at original resolution"
+    },
+    {
+      "file": "02-early-whole-baselines.png",
+      "pixels": [
+        2929,
+        1770
+      ],
+      "sha256": "8c82958bf10c8c5ec3c59137940c155e30a713dcb8b5accf26e9f9ead064b26c",
+      "review": "PASS; viewed at original resolution"
+    },
+    {
+      "file": "03-fixed-eras.png",
+      "pixels": [
+        2723,
+        1364
+      ],
+      "sha256": "d7ba8349dee0a651f55f3f9449115bd029b270030ed8737005f6a1dad08410fd",
+      "review": "PASS; viewed at original resolution"
+    },
+    {
+      "file": "04-strict-matched-return.png",
+      "pixels": [
+        2925,
+        1751
+      ],
+      "sha256": "4540e1fc777d415bac1bf256aeaae75af30cc8475d92241eaacddb4974b8cb38",
+      "review": "PASS; viewed at original resolution"
+    },
+    {
+      "file": "05-history-coverage.png",
+      "pixels": [
+        2735,
+        1199
+      ],
+      "sha256": "40b3cb3847b1026f97eddc6186b92e647e50a2bc7e4404cbe48043ea4f119fd7",
+      "review": "PASS; viewed at original resolution"
+    }
+  ],
+  "checks": [
+    "All five images viewed with view_image detail=original.",
+    "Titles, axes, percentage/percentage-point units, legends and source-scope captions are readable.",
+    "Market panels share scales and named conditions retain consistent colours; different shapes/line styles supplement colour.",
+    "Pointwise and family-adjusted intervals are distinguished; era estimates have no invented uncertainty bands.",
+    "Strict path chart shows matched support and maximum residual SMD next to each effect.",
+    "No clipping or label collision remains after the scatter alignment repair."
+  ],
+  "repair": "Layout only: moved right-side scatter labels left of their points to clear the US CCI marker; no data, candidate, denominator or interval change.",
+  "source_validation": {
+    "primary_rows": 144,
+    "matched21_rows": 204,
+    "max_rounding_difference": 1.9512440552205135e-09
+  },
+  "mainreport_status_git_touched": false
+}

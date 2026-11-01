@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "scope": "Top-five table across both markets: estimates, marginal CI envelopes, capture; MACD age4-5 denominator; simultaneous RMI-vs-MACD direction; remaining prose manually reconciled to CSV reads. Not a new model or independent result-validation exercise.",
+  "checks": [
+    {
+      "market": "KR",
+      "id": "rmi70",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "US",
+      "id": "rmi70",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "KR",
+      "id": "macd_rsi60",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "US",
+      "id": "macd_rsi60",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "KR",
+      "id": "cci100_up20",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "US",
+      "id": "cci100_up20",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "KR",
+      "id": "psar",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "US",
+      "id": "psar",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "KR",
+      "id": "stochrsi80",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "US",
+      "id": "stochrsi80",
+      "precision_ci_and_capture": "PASS"
+    },
+    {
+      "market": "KR",
+      "macd_rsi60_signal_days_age4_5_pct": 67.04019006137399,
+      "unit": "signal occurrences, not episode first hits"
+    },
+    {
+      "market": "KR",
+      "rmi70_minus_macd_rsi60": "precision",
+      "sim_high_max": -0.06669732430631273,
+      "family": 288
+    },
+    {
+      "market": "KR",
+      "rmi70_minus_macd_rsi60": "capture",
+      "sim_high_max": -0.014043762972153585,
+      "family": 288
+    },
+    {
+      "market": "US",
+      "macd_rsi60_signal_days_age4_5_pct": 63.62447569701456,
+      "unit": "signal occurrences, not episode first hits"
+    },
+    {
+      "market": "US",
+      "rmi70_minus_macd_rsi60": "precision",
+      "sim_high_max": -0.08514380131908647,
+      "family": 288
+    },
+    {
+      "market": "US",
+      "rmi70_minus_macd_rsi60": "capture",
+      "sim_high_max": -0.05493545159870087,
+      "family": 288
+    }
+  ],
+  "document_sha256": "a984f526aadd8a7cd4e5031e137f867b9d8c2e358c8981fdfce0de7550490080",
+  "sources": {
+    "evaluate-metrics.csv": "1f59b76d1afa8b8fc0b02dc2c53519423a614b7a1fd9d153eb101b44e6093ad8",
+    "base-rates.csv": "58e655bc3023d11b8dddf23d45e5e5196e57831be1ad9714b881fc7463813954",
+    "paired-benchmarks.csv": "b6c74a563899b44e720e5b01f8ced4c0b7691f9c7a953fffcd9c7ec0bfa6fee9"
+  }
+}

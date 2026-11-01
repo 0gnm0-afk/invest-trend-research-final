@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "months": 9,
+  "stocks": 7,
+  "replicates": 31,
+  "chunks": [
+    1,
+    3,
+    16
+  ],
+  "maximum_absolute_error": 1.0812655091285706e-05,
+  "checks": [
+    "explicit crossed products",
+    "zero stock",
+    "negative cells",
+    "condition slices share draws",
+    "degenerate p-value guard"
+  ]
+}

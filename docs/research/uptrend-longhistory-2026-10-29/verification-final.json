@@ -1,0 +1,12 @@
+{
+  "usable_caches": 7293,
+  "all_inventory": 7483,
+  "prior_window_values": 2310,
+  "protected_prior_files": 94,
+  "aggregate_cells_checked": 77189112,
+  "monthly_conservation": "PASS",
+  "episode_conservation": "PASS",
+  "partition_conservation": "PASS",
+  "source_hashes": "PASS",
+  "finished_utc": "2026-10-29T04:58:41.605739+00:00"
+}

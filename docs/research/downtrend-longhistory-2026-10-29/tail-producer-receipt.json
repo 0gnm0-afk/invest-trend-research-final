@@ -1,0 +1,10 @@
+{
+  "records": 3500,
+  "counts": {
+    "ok": 2969,
+    "no_cache": 122,
+    "cached": 409
+  },
+  "failures": [],
+  "study_sha256": "3d83a5ffe8546deb3bfaaa5b814e67b4dfdf5d9f368072153bc9da7f7ae05d07"
+}

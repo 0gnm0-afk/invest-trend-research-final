@@ -1,0 +1,447 @@
+{
+  "records": 57,
+  "results": [
+    {
+      "market": "KR",
+      "symbol": "000300.KS",
+      "status": "ok",
+      "used_bars": 10468,
+      "cache_sha256": "e1267642db1cb6d76c14dfc78299a91798b9a634d8d1dffaafc3cbf6c5122023"
+    },
+    {
+      "market": "KR",
+      "symbol": "001570.KS",
+      "status": "ok",
+      "used_bars": 11715,
+      "cache_sha256": "5e44d55dbcc315dda56baab78de2e581870d8db083d0de18e2e92fdb6a09a499"
+    },
+    {
+      "market": "KR",
+      "symbol": "001380.KS",
+      "status": "ok",
+      "used_bars": 12352,
+      "cache_sha256": "d16f14885b56e782e023d77fdcee873f4938af056b7d839c483f25b3c661a6c2"
+    },
+    {
+      "market": "KR",
+      "symbol": "001470.KS",
+      "status": "ok",
+      "used_bars": 12787,
+      "cache_sha256": "dc78ad9a6436e74a07900456cb59cee25ad9e634204e4df8f10529150aeb7dc7"
+    },
+    {
+      "market": "KR",
+      "symbol": "001770.KS",
+      "status": "ok",
+      "used_bars": 9673,
+      "cache_sha256": "39d6fbd33c77d43d61d18d9789d123d0d5ec5f483be2fd1b106576d212c15184"
+    },
+    {
+      "market": "KR",
+      "symbol": "002410.KS",
+      "status": "ok",
+      "used_bars": 8977,
+      "cache_sha256": "082271e823ff083caf4ad07e36d6b0db7c02d7fd2daac79cd6b5504d1622aaec"
+    },
+    {
+      "market": "KR",
+      "symbol": "009310.KS",
+      "status": "ok",
+      "used_bars": 7816,
+      "cache_sha256": "c6c6a2815862eb5278a81f79278cb8a6c2ab01dd6b40dab554566222f7e9f07c"
+    },
+    {
+      "market": "KR",
+      "symbol": "008600.KS",
+      "status": "ok",
+      "used_bars": 9448,
+      "cache_sha256": "442c5a9e46e730e31fee5209182220b16b9083c7557da17057a5982aa892594b"
+    },
+    {
+      "market": "KR",
+      "symbol": "005360.KS",
+      "status": "ok",
+      "used_bars": 12696,
+      "cache_sha256": "0f7f833804d08a3ba15aadf436693439cf65b2b9ca6a49af868221875616ad68"
+    },
+    {
+      "market": "KR",
+      "symbol": "009440.KS",
+      "status": "ok",
+      "used_bars": 7389,
+      "cache_sha256": "d0fda9df2b12508de543ecdc7248d969fd06be4f7698cce99d9f4ad2b391410b"
+    },
+    {
+      "market": "KR",
+      "symbol": "011000.KS",
+      "status": "ok",
+      "used_bars": 9625,
+      "cache_sha256": "e68834ea89b3c12f0fd2bc62c8fb754c8de8b618f60674718c6500f52a4b888b"
+    },
+    {
+      "market": "KR",
+      "symbol": "011810.KS",
+      "status": "ok",
+      "used_bars": 8477,
+      "cache_sha256": "19adbdb09bfd43042ac86333f6786ba62cc96f8be424dfa02f871e1e0545f2c1"
+    },
+    {
+      "market": "KR",
+      "symbol": "014160.KS",
+      "status": "ok",
+      "used_bars": 9139,
+      "cache_sha256": "ec1ba8ccacb30456fa63670cf3004617d96b5dd22cd916b6931e9b59868cb5dd"
+    },
+    {
+      "market": "KR",
+      "symbol": "020760.KS",
+      "status": "ok",
+      "used_bars": 5816,
+      "cache_sha256": "2e7ea5a301e20d1df54a4c6decfa7db81325078bf5f0305cdbbd2fe0b65b32e4"
+    },
+    {
+      "market": "KR",
+      "symbol": "015020.KS",
+      "status": "ok",
+      "used_bars": 9570,
+      "cache_sha256": "ab8e9ae52e8394924ff7140f308ca1a65cbedbdf5ccff50295495b3918658ff4"
+    },
+    {
+      "market": "KR",
+      "symbol": "019490.KS",
+      "status": "ok",
+      "used_bars": 6836,
+      "cache_sha256": "f6497f452db39645022d48c2b1e5c84a10d902743a8faca0c96a41562b2b7aa9"
+    },
+    {
+      "market": "KR",
+      "symbol": "017040.KS",
+      "status": "ok",
+      "used_bars": 8972,
+      "cache_sha256": "7243afe64d8d86a806aa177ec8418f510982283c5eff1acc6cfeb8b22046f3c4"
+    },
+    {
+      "market": "KR",
+      "symbol": "047400.KS",
+      "status": "ok",
+      "used_bars": 4174,
+      "cache_sha256": "41b843846a8293d71fb95cac73e45a35a2dbe87c4d6e3143c1cdb9ae50d79504"
+    },
+    {
+      "market": "KR",
+      "symbol": "044380.KS",
+      "status": "ok",
+      "used_bars": 4867,
+      "cache_sha256": "b14946f8636d4fbf41337be0b545d56e0d58a11d8624741e43a98f628e69df4c"
+    },
+    {
+      "market": "KR",
+      "symbol": "069460.KS",
+      "status": "ok",
+      "used_bars": 5616,
+      "cache_sha256": "a88c19d41aac1e10f0b2f5980ac174978c69d936e41112922c71cb8bacddf760"
+    },
+    {
+      "market": "KR",
+      "symbol": "101530.KS",
+      "status": "ok",
+      "used_bars": 2541,
+      "cache_sha256": "86d3f1dff2e48e0340252f68da096a20f676156b4d5da5318dc2018b276a80e8"
+    },
+    {
+      "market": "KR",
+      "symbol": "093240.KS",
+      "status": "ok",
+      "used_bars": 4180,
+      "cache_sha256": "824d8e3ea1d08b5cc5f3b5d458a87cf188b0b1e8600bd4c19faa936edd037cbd"
+    },
+    {
+      "market": "KR",
+      "symbol": "074610.KS",
+      "status": "ok",
+      "used_bars": 5242,
+      "cache_sha256": "e05a763b01781504eba23a8a16699316c50c0587e67963954922c97958fbd711"
+    },
+    {
+      "market": "KR",
+      "symbol": "143210.KS",
+      "status": "ok",
+      "used_bars": 2279,
+      "cache_sha256": "542697d8b7c3b1323388ef26cc24b16d7b46901ae21374a6075689a9a8e181db"
+    },
+    {
+      "market": "KR",
+      "symbol": "119650.KS",
+      "status": "ok",
+      "used_bars": 3727,
+      "cache_sha256": "1f34aa527b39fffc72274f3cb34858a13f73c7bec635f6a98562f2bbbf3c8efc"
+    },
+    {
+      "market": "US",
+      "symbol": "ADAMG",
+      "status": "ok",
+      "used_bars": 429,
+      "cache_sha256": "5168f37ebbda35d5e5db7280686674934b516eb17944f2aefe4715d1266aef06"
+    },
+    {
+      "market": "KR",
+      "symbol": "145210.KS",
+      "status": "ok",
+      "used_bars": 2142,
+      "cache_sha256": "e6c8c627512398ee7aa712c58a4d8164cdeaa4527513ed7e9652de1ecc302d80"
+    },
+    {
+      "market": "US",
+      "symbol": "ADAMH",
+      "status": "ok",
+      "used_bars": 310,
+      "cache_sha256": "9312c12ad6b6bebd8a7f205dbb36a5d4b90ea38875a4a22f89a0eabdfbe0e102"
+    },
+    {
+      "market": "US",
+      "symbol": "ADAMI",
+      "status": "ok",
+      "used_bars": 565,
+      "cache_sha256": "c92d6dd42f0b02dfcbe98a7fc5ca3fbaad564e2dcf047c6b546d14d33baec5e4"
+    },
+    {
+      "market": "US",
+      "symbol": "ATAI",
+      "status": "ok",
+      "used_bars": 1313,
+      "cache_sha256": "aff272ff1f86b7d6501f0a43ff3b46cd02b5cda2c87e76546a42f93cb12495ab"
+    },
+    {
+      "market": "US",
+      "symbol": "APGE",
+      "status": "ok",
+      "used_bars": 788,
+      "cache_sha256": "cded59723399ecf9599aeb77684b6fb1b0d0cf2c3716b67e1710ca72803b719c"
+    },
+    {
+      "market": "US",
+      "symbol": "BKYI",
+      "status": "ok",
+      "used_bars": 5452,
+      "cache_sha256": "31580662f7a5abb3a6b51e8ed7f69e3e617b1730f12cbe26a8c7bad866eed8bc"
+    },
+    {
+      "market": "US",
+      "symbol": "CODX",
+      "status": "ok",
+      "used_bars": 2280,
+      "cache_sha256": "5d0b285a1b9e03879b2d21d485c06734cddbb807f34a0f20d26ce805451ff4eb"
+    },
+    {
+      "market": "US",
+      "symbol": "AVB",
+      "status": "ok",
+      "used_bars": 8160,
+      "cache_sha256": "370459a88299791001e83acdf277d023c0bc913f7434a504cbea150b017c6d96"
+    },
+    {
+      "market": "US",
+      "symbol": "ALOT",
+      "status": "ok",
+      "used_bars": 8442,
+      "cache_sha256": "79b967c722ea8eecbe8280cd2fda35a122e3a1aaa0b6fff2616b5017e6c36ccb"
+    },
+    {
+      "market": "US",
+      "symbol": "CRNX",
+      "status": "ok",
+      "used_bars": 2041,
+      "cache_sha256": "000d3be424336cd0d124199dbebb09a086f0ce322ed025924ecbb726c841fb5e"
+    },
+    {
+      "market": "US",
+      "symbol": "FBRX",
+      "status": "ok",
+      "used_bars": 1557,
+      "cache_sha256": "e19030a69b9b0080a9640cc2d32b92e50390278dbc649f2db33d2d76697ed65e"
+    },
+    {
+      "market": "US",
+      "symbol": "BLFS",
+      "status": "ok",
+      "used_bars": 8630,
+      "cache_sha256": "081d1114e1985b7abc695c4b0b756db81ef333bcd573607c7dc224bf19386075"
+    },
+    {
+      "market": "US",
+      "symbol": "GBTG",
+      "status": "ok",
+      "used_bars": 1467,
+      "cache_sha256": "0306b7286a378a5150f8b6ee1e91562509e42f070e53b30fe0310b425d3cb063"
+    },
+    {
+      "market": "US",
+      "symbol": "LBRDA",
+      "status": "ok",
+      "used_bars": 2964,
+      "cache_sha256": "f1a276cfe2ef0c0ef8e7ede969180656d9757666558a2857feeb5943eb200cfd"
+    },
+    {
+      "market": "US",
+      "symbol": "LBRDK",
+      "status": "ok",
+      "used_bars": 2964,
+      "cache_sha256": "40a22e76da8fd55ef86d8de40c5290a3d11bd980381e9dd6e1bee36b11df810a"
+    },
+    {
+      "market": "US",
+      "symbol": "MDV",
+      "status": "ok",
+      "used_bars": 1127,
+      "cache_sha256": "d91632b9ef9b39bb7f3436e2797243705b0ee6ee0ff95c7b077f270109130cff"
+    },
+    {
+      "market": "US",
+      "symbol": "NUTR",
+      "status": "too_short",
+      "used_bars": 38,
+      "cache_sha256": null
+    },
+    {
+      "market": "US",
+      "symbol": "EA",
+      "status": "ok",
+      "used_bars": 9213,
+      "cache_sha256": "c8b25ac1f64bae8ffbd7b7f2f9db5c7e605ced2a8a3fb45a1053a721080dd2ff"
+    },
+    {
+      "market": "US",
+      "symbol": "LPSN",
+      "status": "ok",
+      "used_bars": 6640,
+      "cache_sha256": "c40043e101c6dd0c6d9b42d73e9f7374a7356ae8d24c5e16bc74da2a3b3cc80e"
+    },
+    {
+      "market": "US",
+      "symbol": "LEG",
+      "status": "ok",
+      "used_bars": 8759,
+      "cache_sha256": "122c9c4ddf228d437dc0158c1d9f1d477a7dcf9858f415e86d7f74a610b3adcd"
+    },
+    {
+      "market": "US",
+      "symbol": "PTN",
+      "status": "ok",
+      "used_bars": 6853,
+      "cache_sha256": "728fddddff2580fa536d53e164d223bb2c7c921e7c0a1b03b97c54969de26378"
+    },
+    {
+      "market": "US",
+      "symbol": "QRVO",
+      "status": "ok",
+      "used_bars": 2953,
+      "cache_sha256": "0a4a15e76a20aae9db2ac27245e9f74b3e19fe26c8262451c66429495a7380b3"
+    },
+    {
+      "market": "US",
+      "symbol": "RMAX",
+      "status": "ok",
+      "used_bars": 3242,
+      "cache_sha256": "15a746ba8d5c438419f23c156e2ee76f900135699145858b7c69cffb6d5527e7"
+    },
+    {
+      "market": "US",
+      "symbol": "RWTS",
+      "status": "ok",
+      "used_bars": 86,
+      "cache_sha256": "8f2241c63fb3b80e65d8b9958555be73c8de3ee3951d2571bcae475aa850764d"
+    },
+    {
+      "market": "US",
+      "symbol": "NVRI",
+      "status": "ok",
+      "used_bars": 8781,
+      "cache_sha256": "6740cd6e51ec6ef42fd167bd5a6d1ec7a31d5932e4a78f46a5c474e68e7105b0"
+    },
+    {
+      "market": "US",
+      "symbol": "TALK",
+      "status": "ok",
+      "used_bars": 1292,
+      "cache_sha256": "4c0fb4c22dab9f2580892c541ce9fef91457ff56c84360e23712a674b0736703"
+    },
+    {
+      "market": "US",
+      "symbol": "WBD",
+      "status": "ok",
+      "used_bars": 1127,
+      "cache_sha256": "63f944c4a3a0f0bff1af01e72cccceb1995c113a3b44d611b824cade15781771"
+    },
+    {
+      "market": "US",
+      "symbol": "TBPH",
+      "status": "ok",
+      "used_bars": 3100,
+      "cache_sha256": "90a89b5c392f9fbe23b75a8b033a03ca44614eca9dcd13897650874500bebcbe"
+    },
+    {
+      "market": "US",
+      "symbol": "TWO",
+      "status": "ok",
+      "used_bars": 4229,
+      "cache_sha256": "d6f5de62246733db58c269bdf97948823e68946d3aef53cded6bec874702d7b6"
+    },
+    {
+      "market": "US",
+      "symbol": "SLP",
+      "status": "ok",
+      "used_bars": 6930,
+      "cache_sha256": "9a4f1cb8a8788e8370f3885821f23a0ffb5feb593dcc5d068dc4ccee25f54744"
+    },
+    {
+      "market": "US",
+      "symbol": "WBS",
+      "status": "ok",
+      "used_bars": 8712,
+      "cache_sha256": "07d5c918aac9c1a0cb3558f8c054ed42ad2bb78d0f7331132991f33c4c3a8154"
+    }
+  ],
+  "failures": [],
+  "preprocessing_verification": [
+    {
+      "market": "KR",
+      "symbol": "005930.KS",
+      "preprocessing_exact": true,
+      "segment": 63,
+      "fit_bars": 4805,
+      "maximum_fit_difference": 0.0,
+      "primal_dual_gap": 1.5560489689682243e-09
+    },
+    {
+      "market": "KR",
+      "symbol": "000020.KS",
+      "preprocessing_exact": true,
+      "segment": 681,
+      "fit_bars": 2756,
+      "maximum_fit_difference": 0.0,
+      "primal_dual_gap": 5.9048103312100155e-09
+    },
+    {
+      "market": "US",
+      "symbol": "AAPL",
+      "preprocessing_exact": true,
+      "segment": 0,
+      "fit_bars": 9254,
+      "maximum_fit_difference": 0.0,
+      "primal_dual_gap": 2.971991301193123e-09
+    },
+    {
+      "market": "US",
+      "symbol": "TSLA",
+      "preprocessing_exact": true,
+      "segment": 0,
+      "fit_bars": 4089,
+      "maximum_fit_difference": 0.0,
+      "primal_dual_gap": 8.92991817647628e-09
+    }
+  ],
+  "l1_solver_sha256": "de7bd90ddeab44cfe658e6b5566eede130ff710e7562bfac09517e5cc72f45e9",
+  "features_sha256": "5c4bbea959db7175308faa3c655d7c61dfca15cab8b101a4b7ae65b3f990e425",
+  "code_sha256": "c18823d70cc4a4c1ce104eafaaee4a20f21749a3e4a7ab5ef97ed42bb280062a",
+  "seconds": 20.56299999996554
+}

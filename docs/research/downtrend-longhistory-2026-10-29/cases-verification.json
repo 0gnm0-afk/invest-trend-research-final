@@ -1,0 +1,272 @@
+{
+  "status": "PASS",
+  "path_files": 7293,
+  "ledger_rows": 11059506,
+  "groups": [
+    {
+      "market": "KR",
+      "id": "supertrend",
+      "signals": 73328,
+      "early_hits": 4539
+    },
+    {
+      "market": "KR",
+      "id": "psar",
+      "signals": 254389,
+      "early_hits": 44919
+    },
+    {
+      "market": "KR",
+      "id": "trix_zero",
+      "signals": 63249,
+      "early_hits": 67
+    },
+    {
+      "market": "KR",
+      "id": "trix_signal",
+      "signals": 125772,
+      "early_hits": 4081
+    },
+    {
+      "market": "KR",
+      "id": "stochrsi80",
+      "signals": 288483,
+      "early_hits": 46190
+    },
+    {
+      "market": "KR",
+      "id": "stochrsi_cross",
+      "signals": 353238,
+      "early_hits": 36174
+    },
+    {
+      "market": "KR",
+      "id": "rmi70",
+      "signals": 81570,
+      "early_hits": 22487
+    },
+    {
+      "market": "KR",
+      "id": "rmi50",
+      "signals": 133324,
+      "early_hits": 7645
+    },
+    {
+      "market": "KR",
+      "id": "chaikin",
+      "signals": 259258,
+      "early_hits": 28422
+    },
+    {
+      "market": "KR",
+      "id": "avwap_quarter",
+      "signals": 292456,
+      "early_hits": 39993
+    },
+    {
+      "market": "KR",
+      "id": "volume_osc",
+      "signals": 143791,
+      "early_hits": 7701
+    },
+    {
+      "market": "KR",
+      "id": "fractal_break",
+      "signals": 292740,
+      "early_hits": 15906
+    },
+    {
+      "market": "KR",
+      "id": "macd_rsi60",
+      "signals": 69486,
+      "early_hits": 25252
+    },
+    {
+      "market": "KR",
+      "id": "macd_positive",
+      "signals": 143301,
+      "early_hits": 44013
+    },
+    {
+      "market": "KR",
+      "id": "cci100_up20",
+      "signals": 247452,
+      "early_hits": 63496
+    },
+    {
+      "market": "KR",
+      "id": "rsi60",
+      "signals": 236112,
+      "early_hits": 58595
+    },
+    {
+      "market": "KR",
+      "id": "stoch80",
+      "signals": 173162,
+      "early_hits": 37647
+    },
+    {
+      "market": "KR",
+      "id": "price5",
+      "signals": 795374,
+      "early_hits": 84392
+    },
+    {
+      "market": "US",
+      "id": "supertrend",
+      "signals": 131988,
+      "early_hits": 10659
+    },
+    {
+      "market": "US",
+      "id": "psar",
+      "signals": 441008,
+      "early_hits": 74832
+    },
+    {
+      "market": "US",
+      "id": "trix_zero",
+      "signals": 98978,
+      "early_hits": 151
+    },
+    {
+      "market": "US",
+      "id": "trix_signal",
+      "signals": 206369,
+      "early_hits": 8454
+    },
+    {
+      "market": "US",
+      "id": "stochrsi80",
+      "signals": 476405,
+      "early_hits": 76841
+    },
+    {
+      "market": "US",
+      "id": "stochrsi_cross",
+      "signals": 593341,
+      "early_hits": 62368
+    },
+    {
+      "market": "US",
+      "id": "rmi70",
+      "signals": 150475,
+      "early_hits": 31858
+    },
+    {
+      "market": "US",
+      "id": "rmi50",
+      "signals": 212295,
+      "early_hits": 11634
+    },
+    {
+      "market": "US",
+      "id": "chaikin",
+      "signals": 508298,
+      "early_hits": 53042
+    },
+    {
+      "market": "US",
+      "id": "avwap_quarter",
+      "signals": 468946,
+      "early_hits": 46221
+    },
+    {
+      "market": "US",
+      "id": "volume_osc",
+      "signals": 296973,
+      "early_hits": 22538
+    },
+    {
+      "market": "US",
+      "id": "fractal_break",
+      "signals": 479119,
+      "early_hits": 28938
+    },
+    {
+      "market": "US",
+      "id": "macd_rsi60",
+      "signals": 128794,
+      "early_hits": 40530
+    },
+    {
+      "market": "US",
+      "id": "macd_positive",
+      "signals": 257095,
+      "early_hits": 69345
+    },
+    {
+      "market": "US",
+      "id": "cci100_up20",
+      "signals": 453224,
+      "early_hits": 100130
+    },
+    {
+      "market": "US",
+      "id": "rsi60",
+      "signals": 422126,
+      "early_hits": 88009
+    },
+    {
+      "market": "US",
+      "id": "stoch80",
+      "signals": 374753,
+      "early_hits": 80658
+    },
+    {
+      "market": "US",
+      "id": "price5",
+      "signals": 1332834,
+      "early_hits": 135784
+    }
+  ],
+  "ledger_source": "Exact paths/ledgers union; full paths preferred for duplicate names",
+  "selected_file_counts": {
+    "paths": 2081,
+    "ledgers": 5212
+  },
+  "disk_preflight": [
+    {
+      "market": "KR",
+      "rows": 4026485,
+      "bytes_per_row": 81,
+      "expected_spool_bytes": 326145285,
+      "reserve_bytes": 268435456,
+      "free_before_market": 5096001536
+    },
+    {
+      "market": "US",
+      "rows": 7033021,
+      "bytes_per_row": 81,
+      "expected_spool_bytes": 569674701,
+      "reserve_bytes": 268435456,
+      "free_before_market": 5452832768
+    }
+  ],
+  "cases": 12,
+  "plots": [
+    "KR-cases.png",
+    "US-cases.png"
+  ],
+  "fixed_conditions": [
+    "rmi70",
+    "macd_rsi60"
+  ],
+  "fixed_classes": [
+    "early_success",
+    "not_early",
+    "late"
+  ],
+  "distribution_rows": 1764,
+  "scan_policy": "One full ledger/source pass; selected12 sources reread for causal-flag/scalar checks and plots",
+  "quantiles": "Exact numpy linear quantiles from float64 scalar price ratios; bounded per-group disk buffers removed",
+  "path_basis": "open[t+1]; close[t+h]; high/low t+1..t+h inclusive; h=5,21,63",
+  "code_sha256": "6ba1c872167e8acc375569fd07ec26b6d931d4bb946c07c0e08ad5e85a7d0de2",
+  "finished_utc": "2026-10-29T06:11:18.628106+00:00",
+  "aggregate_reconciliation": {
+    "status": "PASS",
+    "mean_and_count_rows": 1728,
+    "tolerance": "float32 monthly sums: rtol2e-5,atol2e-7"
+  },
+  "presentation_revision": "Outside-down example label clarified as UP/FLAT; calculations and case choices unchanged"
+}

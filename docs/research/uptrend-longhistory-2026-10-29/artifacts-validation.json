@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "checks": {
+    "primary_rows": 144,
+    "matched21_rows": 204,
+    "max_rounding_difference": 1.9512440552205135e-09
+  },
+  "figures": [
+    "01-accuracy-capture",
+    "02-early-whole-baselines",
+    "03-fixed-eras",
+    "04-strict-matched-return",
+    "05-history-coverage"
+  ],
+  "primary_period": "2010-10-01..2025-09-30",
+  "fixed_focus": [
+    "rmi30",
+    "macd_rsi40",
+    "cci_recovery",
+    "rsi30",
+    "price5",
+    "supertrend",
+    "psar",
+    "stochrsi20"
+  ],
+  "fixed_dozen": [
+    "rmi30",
+    "macd_rsi40",
+    "cci_recovery",
+    "rsi30",
+    "price5",
+    "supertrend",
+    "psar",
+    "stochrsi20",
+    "mfi20",
+    "cci-100",
+    "high20_volume",
+    "price20"
+  ],
+  "fixed_era_conditions": [
+    "rmi30",
+    "macd_rsi40",
+    "cci_recovery",
+    "rsi30",
+    "price5",
+    "supertrend"
+  ],
+  "inputs": {
+    "evaluate-metrics.csv": "7438c8bb6f3ba63a492e7d4a7ab2259b2faed2963fcb01313cd89931054d8584",
+    "base-rates.csv": "f368fc2273195aabff2cf926e0d7916713dcff406156a5f18cccecdae2f20ba1",
+    "classification-intervals.csv": "8ff2fb6a3f6bbac247a7716715365f5ecef3601aa6024ddd55438d55b3a7ebb2",
+    "classification-eras.csv": "0d47163c69de3a17667ec1584dece4ebd35078abe1102eb86ba9a09ba8542160",
+    "matched-paths.csv": "ecaf5abbb1f68b1250289b9e8f794fb135a7723e9937b3451fc6b61da563748d",
+    "balance.csv": "23cd4e1c8d3423dd0f82ac5ef86388a8654af09046e8171878d273459adb8529",
+    "classification-inference.json": "6a9b8fc9603be1a71c89cf429fcc4646f9b9b7086984ab6a3acdd7fb04862ac7",
+    "paths-inference.json": "48579043b4f4e6285f5ef4ef7aabad74273cce6abc227d45807e5732cd1c4f3d",
+    "evaluate-errors.json": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+    "paths-errors.json": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+  },
+  "outputs": {
+    "primary-summary.csv": "f493a105f1a54dd275b28ffce7683144737801af0382b5b343ef9af4e27a03a7",
+    "matched-summary21.csv": "06ff591ef24625dbce48a519f2cc27a1951054426926a045a31cb5f3608c22ab",
+    "01-accuracy-capture.png": "efbbf3a0cdf5f47ae89d94e76461e484ce108f95381e956a69ced0598812f5f6",
+    "01-accuracy-capture-data.csv": "53e61201e2a5f1d5e7716142c148492e73af5eadf916216872cb75949c8677e3",
+    "02-early-whole-baselines.png": "8c82958bf10c8c5ec3c59137940c155e30a713dcb8b5accf26e9f9ead064b26c",
+    "02-early-whole-baselines-data.csv": "407ac5bb2fe1161722420e769eec794dce1c296c445b03ccae2f3afc187fccfb",
+    "03-fixed-eras.png": "d7ba8349dee0a651f55f3f9449115bd029b270030ed8737005f6a1dad08410fd",
+    "03-fixed-eras-data.csv": "a3fde76ffea5c9330133883844d52ed2f8f45a0f85c5a8d882755d68a74f3b3e",
+    "04-strict-matched-return.png": "4540e1fc777d415bac1bf256aeaae75af30cc8475d92241eaacddb4974b8cb38",
+    "04-strict-matched-return-data.csv": "d0414885160e6355e98abb76a1b71454a1dc759955fa36389543f74d6cb8e810",
+    "05-history-coverage.png": "40b3cb3847b1026f97eddc6186b92e647e50a2bc7e4404cbe48043ea4f119fd7",
+    "05-history-coverage-data.csv": "21108fb44b261376d9e32af03f3eeade44ce395add5bbae942555f49f557d0df"
+  },
+  "code_sha256": "792cff2d3503a74d7072980a13785073629bb3a10c205b8dcc38aad312ca6b63",
+  "notes": [
+    "Pointwise bounds and simultaneous family bounds are kept separate.",
+    "Envelope lower=min across3/6; upper=max; conservative adjusted p=max.",
+    "No retrospective L1 condition enters the principal future-path sample.",
+    "Image inspection is a separate explicit step after rendering."
+  ],
+  "visual_review": "artifacts-visual-review.json"
+}

@@ -1,0 +1,25 @@
+{
+  "files": 111,
+  "zip_bytes": 9375217,
+  "zip_sha256": "69a6ed6719103cfd0ef0a388dca8961efb4d7a5840675896314b2c93fc398bb8",
+  "checks": {
+    "status": "PASS",
+    "rows": {
+      "primary-summary": 144,
+      "matched-summary21": 204,
+      "conditions": 144,
+      "base-rates": 864,
+      "paired-benchmarks": 440,
+      "matched-paths": 9792,
+      "all72-path-summary": 27648,
+      "representative-cases": 16,
+      "path-distributions": 918,
+      "first-confirmation-distributions": 51,
+      "first-confirmation-extremes": 153
+    },
+    "local_links_checked": 68,
+    "complete_inventory": true,
+    "era_conservation": true,
+    "finished_utc": "2026-10-29T05:32:03.971078+00:00"
+  }
+}

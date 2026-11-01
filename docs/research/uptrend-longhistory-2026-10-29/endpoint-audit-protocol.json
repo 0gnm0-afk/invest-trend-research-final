@@ -1,0 +1,260 @@
+{
+  "salt": "uptrend-longhistory-endpoint-v1|",
+  "selection_rule": "Two supplemental and18 inherited per market, ascending SHA256(salt+market:symbol); cached history starts<=2014-12-31 and ends>=2025-09-30; no outcome/signal screen",
+  "cutoffs": [
+    "2015-09-30",
+    "2020-09-30",
+    "2025-09-30"
+  ],
+  "comparison_start": "2010-10-01",
+  "eligible_pool": {
+    "KR:inherited": 1503,
+    "US:inherited": 2235,
+    "KR:supplemental": 23,
+    "US:supplemental": 16
+  },
+  "selected": [
+    {
+      "market": "KR",
+      "symbol": "009440.KS",
+      "group": "supplemental",
+      "hash": "0af3f11fb16423c95e75081c204b36c915219fc68761a055901cfba65f1db0be"
+    },
+    {
+      "market": "KR",
+      "symbol": "015020.KS",
+      "group": "supplemental",
+      "hash": "2f9155f782c709fd00671eb1f3df95268f65df4809f1d753a1bea24b63f61dbd"
+    },
+    {
+      "market": "KR",
+      "symbol": "134580.KQ",
+      "group": "inherited",
+      "hash": "00208cd3073c5a704ab5d60749c509de2b09a4cf53eaf43f78f877a08f3a916d"
+    },
+    {
+      "market": "KR",
+      "symbol": "090350.KS",
+      "group": "inherited",
+      "hash": "00299e6feefdc2f033940145797cf8b51272e83303fa3aaa196f0434fd0c1bd9"
+    },
+    {
+      "market": "KR",
+      "symbol": "003220.KS",
+      "group": "inherited",
+      "hash": "0062ca6fce6e17acfb714c57dcdce7c465bfba12c61b60edb7e18c9d63ceec7c"
+    },
+    {
+      "market": "KR",
+      "symbol": "009580.KS",
+      "group": "inherited",
+      "hash": "00751dfba1c8cf7b9ba7f899d4c1f57b68d2f7ed42b76d057db5828d1f52a109"
+    },
+    {
+      "market": "KR",
+      "symbol": "059090.KQ",
+      "group": "inherited",
+      "hash": "0086f703cc914e0454cc419bd26873f7cfda8c51bbfd2c401987940d276f0fdd"
+    },
+    {
+      "market": "KR",
+      "symbol": "095720.KS",
+      "group": "inherited",
+      "hash": "008d2eb75451151bae31d0c8821e2768e2f74dc80cf458f9a19622fdd7c714ba"
+    },
+    {
+      "market": "KR",
+      "symbol": "064550.KQ",
+      "group": "inherited",
+      "hash": "00abd2e19988d9f61b394f0e43aa77a2e1cf75d3c4b448e3011bc345d67d4bc9"
+    },
+    {
+      "market": "KR",
+      "symbol": "005070.KS",
+      "group": "inherited",
+      "hash": "00d8ad4a67bba159bcf1af3fac46d67c60a7586968efeeb702d906e0ed0e7aaf"
+    },
+    {
+      "market": "KR",
+      "symbol": "078070.KQ",
+      "group": "inherited",
+      "hash": "00ea33b90a3398b7cba166277eb45535fcfae9188052a6c4cc64c60604546208"
+    },
+    {
+      "market": "KR",
+      "symbol": "006650.KS",
+      "group": "inherited",
+      "hash": "0146eb2d52f131795184f711776d0b3fb53b411b8b8036d47a9dd1251cfc8d0e"
+    },
+    {
+      "market": "KR",
+      "symbol": "080580.KQ",
+      "group": "inherited",
+      "hash": "015f61deca50c5e23df1cf81c83aa2144950f417461a095e0fa8bb75d4daf1fe"
+    },
+    {
+      "market": "KR",
+      "symbol": "007610.KS",
+      "group": "inherited",
+      "hash": "016551a1ac47f674f23ac8ac0b67e3d42a18c96991fb2823d845b5209485d96b"
+    },
+    {
+      "market": "KR",
+      "symbol": "006050.KQ",
+      "group": "inherited",
+      "hash": "016da7be8bed58042e5c99336476326f2411ecbe3819f13322d9655afee3a1fc"
+    },
+    {
+      "market": "KR",
+      "symbol": "006660.KS",
+      "group": "inherited",
+      "hash": "017dd91b3a8785620a506be0f7d019d21b9671affd6184915c5123deb16017c8"
+    },
+    {
+      "market": "KR",
+      "symbol": "053290.KQ",
+      "group": "inherited",
+      "hash": "0185136713de2cbbaebc5efafe8ea9fdaa29d97ac41bae160c992b5bbb6381f3"
+    },
+    {
+      "market": "KR",
+      "symbol": "080530.KQ",
+      "group": "inherited",
+      "hash": "01e5178e740d8eb802d6c6f94cc55095bb0d7a4709c0f761456b3f04d800322f"
+    },
+    {
+      "market": "KR",
+      "symbol": "096530.KQ",
+      "group": "inherited",
+      "hash": "0202f92141caa290703a85931a7057d68fe0d56e8832d26e19b333dfd8f2831b"
+    },
+    {
+      "market": "KR",
+      "symbol": "208710.KQ",
+      "group": "inherited",
+      "hash": "020503f61edf6dd5d842572ec23203f778f58736f4e58e6fa24cf7915ec9f268"
+    },
+    {
+      "market": "US",
+      "symbol": "TBPH",
+      "group": "supplemental",
+      "hash": "0b1613b07006fc8a294cfe99c4eac6bb0443181a8d6b37a35ddbfb2ae16e67f5"
+    },
+    {
+      "market": "US",
+      "symbol": "LEG",
+      "group": "supplemental",
+      "hash": "3f8587eeaa68bb38d90d463dca1f8177fb6f2e920d8ca266cc9f1874780e4071"
+    },
+    {
+      "market": "US",
+      "symbol": "PBF",
+      "group": "inherited",
+      "hash": "001e1b72b443933f076863a0c5324c18ef9b49d033dc1664ba0c1f8f98c7a129"
+    },
+    {
+      "market": "US",
+      "symbol": "FF",
+      "group": "inherited",
+      "hash": "003343412effef74502403f19f4bfa9e56453c47ba6db6503bffd23697fb759d"
+    },
+    {
+      "market": "US",
+      "symbol": "CYD",
+      "group": "inherited",
+      "hash": "0046e63afd4fc6ebc08b1de280b06755cd5b8aa3c95c305212b985880cc588ff"
+    },
+    {
+      "market": "US",
+      "symbol": "FBIN",
+      "group": "inherited",
+      "hash": "00596c766c425b07410f041e32699a3aa9e100d240dbb141ea2e7fcfa9ce3882"
+    },
+    {
+      "market": "US",
+      "symbol": "CTO",
+      "group": "inherited",
+      "hash": "0080e8cb44bcc359d2d7680cbaec86a1e379d1653b00b0fa0a380583d370c49e"
+    },
+    {
+      "market": "US",
+      "symbol": "NGNE",
+      "group": "inherited",
+      "hash": "00894beebca71c423b2ebfc7a5b3288eeaa10268d659ba8ba6f0a8b829bb581d"
+    },
+    {
+      "market": "US",
+      "symbol": "BCBP",
+      "group": "inherited",
+      "hash": "00b10aaed22acbdb289cdb36bbf37a8bb6cc3f62c686b535aa2a60ae2bab6865"
+    },
+    {
+      "market": "US",
+      "symbol": "ECL",
+      "group": "inherited",
+      "hash": "00c242610eea19c4f986c55ca4910b8ce38875f81930f3e3d8bfaa51f1078345"
+    },
+    {
+      "market": "US",
+      "symbol": "TISI",
+      "group": "inherited",
+      "hash": "00d6298a72b70440c170ce3fea8548bb39d76ddfecc4c19b2c21bc8fca3b0682"
+    },
+    {
+      "market": "US",
+      "symbol": "CGEN",
+      "group": "inherited",
+      "hash": "0137725fcc65cdddd83114d2abede4e9436659e241e3356dcc599a49c1323380"
+    },
+    {
+      "market": "US",
+      "symbol": "CW",
+      "group": "inherited",
+      "hash": "01434bf4df3f82ad3ac6d6e509ac25186cacbf655fee45756200ef7df6190434"
+    },
+    {
+      "market": "US",
+      "symbol": "HP",
+      "group": "inherited",
+      "hash": "0144b8f637aab3a08011830dd84426aa17c90c27e0fa19044df33373c7a4ec1c"
+    },
+    {
+      "market": "US",
+      "symbol": "CTRN",
+      "group": "inherited",
+      "hash": "0153f8d0e0a4ed9a1189f986de80d2068f877c6ce923bf47af3fa19ff3a08262"
+    },
+    {
+      "market": "US",
+      "symbol": "TRP",
+      "group": "inherited",
+      "hash": "01701f98b58d79425192bef6a13d69ad2ff1718b41cac7c3dea5ff2e40751530"
+    },
+    {
+      "market": "US",
+      "symbol": "TPL",
+      "group": "inherited",
+      "hash": "01c60a80a7c3dbefcf38164d9dcdbf3a51540cb10ac76a187839bc5a1551ef7e"
+    },
+    {
+      "market": "US",
+      "symbol": "VMC",
+      "group": "inherited",
+      "hash": "01da3155c4ed60b8c86021596a1736c580c546f8b4f9fef76daf7f2204ee1a92"
+    },
+    {
+      "market": "US",
+      "symbol": "INTG",
+      "group": "inherited",
+      "hash": "01dec1458892d85b22729054a7abcb5117a650cd4863fe6d77c138f8a7ec865d"
+    },
+    {
+      "market": "US",
+      "symbol": "MFC",
+      "group": "inherited",
+      "hash": "01e2379b94c20d67e71828b1bc0a68f9aa80839bc88937ad1693c141de8350af"
+    }
+  ],
+  "definition": "Prefix and final L1 fits use same saved log close, lambda1, slope thresholds +1e-6/-1e-6, and unchanged segments; mature requires65 prior and126 future contiguous bars within prefix; last126 is last126 saved observations before cutoff with65 prior and finite current slopes",
+  "code_sha256": "1609afe2186485aca7a160fc31137616e5267f25a41fb369119f758e7876447e"
+}

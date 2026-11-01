@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "coverage_checks": [
+    {
+      "market": "KR",
+      "inventory_rows": 2637,
+      "no_unaccounted_active_symbols": true,
+      "all_three_windows_exhaustive_accounting": true
+    },
+    {
+      "market": "US",
+      "inventory_rows": 4846,
+      "no_unaccounted_active_symbols": true,
+      "all_three_windows_exhaustive_accounting": true
+    }
+  ],
+  "unique_market_symbol_records": 7483,
+  "unchanged_price_coverage_fields": 74830,
+  "down_label_independent_scalar_cells": 100000,
+  "down_label_handcrafted_gap_and_left_censor_fixtures": 2,
+  "source_collection_provenance": {
+    "KR": {
+      "active_rows": 2604,
+      "provider_end_reached_true": 2604,
+      "collection_start": "provider_earliest_available",
+      "collection_end": "2026-09-30",
+      "scope": "ACTIVE STOCK commonShare=true; current provider listing, not historical delisted universe"
+    },
+    "US": {
+      "active_rows": 4843,
+      "provider_end_reached_true": 4843,
+      "collection_start": "provider_earliest_available",
+      "collection_end": "2026-09-30",
+      "scope": "ACTIVE STOCK commonShare=true; current provider listing, not historical delisted universe"
+    }
+  },
+  "supplemental_attempts": 57,
+  "supplemental_valid_caches": 56,
+  "supplemental_too_short": "US:NUTR (38 valid bars)",
+  "supplemental_ADR_first_available_not_proven": [
+    "US:BP",
+    "US:NVO",
+    "US:TSM"
+  ],
+  "coverage_audit_code_sha256": "700275b813015ae68d5912b4d4dfb262147f15daf74dc50fea223985f78b5a73",
+  "notes": [
+    "UP coverage label counts were not reused. DOWN labels were recalculated from direction-neutral saved L1 arrays.",
+    "No provider calls or operational writes.",
+    "Independent label checks were run in memory against a scalar run-boundary loop and two hand fixtures."
+  ],
+  "supplemental_ADR_catalog_check": {
+    "scope": "Current workspace runtime coverage/catalog files and read-only chart-history.sqlite3 payloads",
+    "older_than_2016_found": false,
+    "raw_successful_chart_payloads": 6,
+    "symbols": [
+      "BP",
+      "NVO",
+      "TSM"
+    ],
+    "first_date_all_payloads": "2016-01-04",
+    "not_a_provider_maximum_claim": true
+  }
+}

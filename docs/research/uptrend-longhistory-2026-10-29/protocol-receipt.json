@@ -1,0 +1,1032 @@
+{
+  "frozen_utc": "2026-10-29T04:21:21.008724+00:00",
+  "protocol_sha256": "0cd970296b115a878c9a234adeb9cb8f0c418f56a05b67097ec7628971d64469",
+  "prior_inventory_sha256": "9c31dd089ced6f7f0dc29d8d4272ad8530500c5f7c9fd3abadda340b5bc1faa4",
+  "conditions": {
+    "KR": [
+      {
+        "id": "price5",
+        "label": "price5",
+        "family": "control",
+        "kind": "event",
+        "formula": "C crosses above SMA5"
+      },
+      {
+        "id": "price10",
+        "label": "price10",
+        "family": "control",
+        "kind": "event",
+        "formula": "C crosses above SMA10"
+      },
+      {
+        "id": "price20",
+        "label": "price20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA20"
+      },
+      {
+        "id": "price50",
+        "label": "price50",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA50"
+      },
+      {
+        "id": "price200",
+        "label": "price200",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA200"
+      },
+      {
+        "id": "ma5_10",
+        "label": "ma5 10",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA5 crosses above SMA10"
+      },
+      {
+        "id": "ma5_20",
+        "label": "ma5 20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA5 crosses above SMA20"
+      },
+      {
+        "id": "ma10_20",
+        "label": "ma10 20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA10 crosses above SMA20"
+      },
+      {
+        "id": "ma20_60",
+        "label": "ma20 60",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA20 crosses above SMA60"
+      },
+      {
+        "id": "ma50_200",
+        "label": "ma50 200",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA50 crosses above SMA200"
+      },
+      {
+        "id": "ma20_turn",
+        "label": "ma20 turn",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA20[t]>SMA20[t-5], first true day"
+      },
+      {
+        "id": "rsi30",
+        "label": "rsi30",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 30"
+      },
+      {
+        "id": "rsi40",
+        "label": "rsi40",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 40"
+      },
+      {
+        "id": "rsi50",
+        "label": "rsi50",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 50"
+      },
+      {
+        "id": "rsi60",
+        "label": "rsi60",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 60"
+      },
+      {
+        "id": "macd_signal",
+        "label": "macd signal",
+        "family": "MACD",
+        "kind": "event",
+        "formula": "EMA12(C)-EMA26(C) crosses above EMA9(MACD)"
+      },
+      {
+        "id": "macd_zero",
+        "label": "macd zero",
+        "family": "MACD",
+        "kind": "event",
+        "formula": "MACD crosses above 0"
+      },
+      {
+        "id": "dmi_cross",
+        "label": "dmi cross",
+        "family": "DMI",
+        "kind": "event",
+        "formula": "Wilder14 +DM crosses above -DM (common ATR denominator)"
+      },
+      {
+        "id": "adx_bull",
+        "label": "adx bull",
+        "family": "DMI",
+        "kind": "event",
+        "formula": "ADX14 crosses above20 while +DM>-DM"
+      },
+      {
+        "id": "stoch20",
+        "label": "stoch20",
+        "family": "Stochastic",
+        "kind": "event",
+        "formula": "Slow K=SMA3(100*(C-min L14)/(max H14-min L14)) crosses above20"
+      },
+      {
+        "id": "stoch_low_cross",
+        "label": "stoch low cross",
+        "family": "Stochastic",
+        "kind": "event",
+        "formula": "K crosses above SMA3(K), previous K<=20"
+      },
+      {
+        "id": "cci-100",
+        "label": "cci-100",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above -100"
+      },
+      {
+        "id": "cci0",
+        "label": "cci0",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above 0"
+      },
+      {
+        "id": "cci100",
+        "label": "cci100",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above 100"
+      },
+      {
+        "id": "bb_reentry",
+        "label": "bb reentry",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "C crosses above SMA20-2*population SD20"
+      },
+      {
+        "id": "bb_upper",
+        "label": "bb upper",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "C crosses above SMA20+2*population SD20"
+      },
+      {
+        "id": "bb_squeeze",
+        "label": "bb squeeze",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "bb_upper AND previous bandwidth<=1.1*previous120 minimum bandwidth"
+      },
+      {
+        "id": "keltner_upper",
+        "label": "keltner upper",
+        "family": "ATR",
+        "kind": "event",
+        "formula": "C crosses above EMA20+2*Wilder ATR14"
+      },
+      {
+        "id": "high20",
+        "label": "high20",
+        "family": "Price",
+        "kind": "event",
+        "formula": "C>maximum H of prior20 bars, first true day"
+      },
+      {
+        "id": "high60",
+        "label": "high60",
+        "family": "Price",
+        "kind": "event",
+        "formula": "C>maximum H of prior60 bars, first true day"
+      },
+      {
+        "id": "failed_low20",
+        "label": "failed low20",
+        "family": "Price",
+        "kind": "event",
+        "formula": "L<prior20 minimum L AND C>that level AND C>O, first true day"
+      },
+      {
+        "id": "bull_gap",
+        "label": "bull gap",
+        "family": "Candle",
+        "kind": "event",
+        "formula": "O>previous H AND C>O; every qualifying day"
+      },
+      {
+        "id": "bull_engulf",
+        "label": "bull engulf",
+        "family": "Candle",
+        "kind": "event",
+        "formula": "previous C<O, C>O, O<=previous C and C>=previous O; every qualifying day"
+      },
+      {
+        "id": "up_volume15",
+        "label": "up volume15",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "C>previous C AND V/prior20 mean V>=1.5, first true day"
+      },
+      {
+        "id": "atr_jump_volume",
+        "label": "atr jump volume",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "C>previous C+1.5*previous ATR14 AND relative volume>=1.5; every qualifying day"
+      },
+      {
+        "id": "obv_inflow",
+        "label": "obv inflow",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "sum20(V*sign(return1))/sum20(V) crosses above .2"
+      },
+      {
+        "id": "cmf_zero",
+        "label": "cmf zero",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "CMF20 crosses above0; H=L contribution0"
+      },
+      {
+        "id": "mfi20",
+        "label": "mfi20",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "MFI14 crosses above20"
+      },
+      {
+        "id": "mfi50",
+        "label": "mfi50",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "MFI14 crosses above50"
+      },
+      {
+        "id": "roc10_zero",
+        "label": "roc10 zero",
+        "family": "Momentum",
+        "kind": "event",
+        "formula": "C/C[t-10]-1 crosses above0"
+      },
+      {
+        "id": "aroon_cross",
+        "label": "aroon cross",
+        "family": "Aroon",
+        "kind": "event",
+        "formula": "AroonUp25 crosses above AroonDown25; ties most recent"
+      },
+      {
+        "id": "vortex_cross",
+        "label": "vortex cross",
+        "family": "Vortex",
+        "kind": "event",
+        "formula": "sum14(abs(H-prev L)) crosses above sum14(abs(L-prev H))"
+      },
+      {
+        "id": "ichimoku_tk",
+        "label": "ichimoku tk",
+        "family": "Ichimoku",
+        "kind": "event",
+        "formula": "9-bar midpoint crosses above26-bar midpoint"
+      },
+      {
+        "id": "ichimoku_cloud",
+        "label": "ichimoku cloud",
+        "family": "Ichimoku",
+        "kind": "event",
+        "formula": "C crosses above max of both cloud spans calculated26 bars earlier"
+      },
+      {
+        "id": "rebound2atr",
+        "label": "rebound2atr",
+        "family": "Recovery",
+        "kind": "event",
+        "formula": "(C-min L20)/ATR14 crosses above2"
+      },
+      {
+        "id": "pivot_break",
+        "label": "pivot break",
+        "family": "Structure",
+        "kind": "event",
+        "formula": "C crosses above latest 5-bar pivot high, known only2 bars after pivot; left strict/right inclusive"
+      },
+      {
+        "id": "reclaim_drawdown",
+        "label": "reclaim drawdown",
+        "family": "Recovery",
+        "kind": "event",
+        "formula": "price20 AND previous close<=90% of preceding63 close maximum"
+      },
+      {
+        "id": "macd_rsi40",
+        "label": "macd rsi40",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "macd_signal AND rsi40 crossed upward on t,t-1 or t-2"
+      },
+      {
+        "id": "macd_negative",
+        "label": "macd negative",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "macd_signal AND MACD<0"
+      },
+      {
+        "id": "high20_volume",
+        "label": "high20 volume",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "high20 AND relative_volume>=1.5"
+      },
+      {
+        "id": "cci_recovery",
+        "label": "cci recovery",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "cci-100 AND SMA20[t]<SMA20[t-5]"
+      },
+      {
+        "id": "rsi30__and20",
+        "label": "rsi30 and20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "base event AND C>SMA20 on same day"
+      },
+      {
+        "id": "rsi30__then20",
+        "label": "rsi30 then20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "first price20 event base day..+5 inclusive"
+      },
+      {
+        "id": "rsi30__persist3",
+        "label": "rsi30 persist3",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "first three consecutive C>SMA20, run starts>=base and completes<=base+5"
+      },
+      {
+        "id": "mfi20__and20",
+        "label": "mfi20 and20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "mfi20",
+        "formula": "base event AND C>SMA20 on same day"
+      },
+      {
+        "id": "mfi20__then20",
+        "label": "mfi20 then20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "mfi20",
+        "formula": "first price20 event base day..+5 inclusive"
+      },
+      {
+        "id": "mfi20__persist3",
+        "label": "mfi20 persist3",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "mfi20",
+        "formula": "first three consecutive C>SMA20, run starts>=base and completes<=base+5"
+      },
+      {
+        "id": "state_price5",
+        "label": "state price5",
+        "family": "State",
+        "kind": "state",
+        "formula": "C>SMA5; every qualifying day"
+      },
+      {
+        "id": "state_price20",
+        "label": "state price20",
+        "family": "State",
+        "kind": "state",
+        "formula": "C>SMA20; every qualifying day"
+      },
+      {
+        "id": "state_macd",
+        "label": "state macd",
+        "family": "State",
+        "kind": "state",
+        "formula": "MACD>signal; every qualifying day"
+      },
+      {
+        "id": "state_macd_rsi40",
+        "label": "state macd rsi40",
+        "family": "State",
+        "kind": "state",
+        "formula": "MACD>signal AND RSI>40; every qualifying day"
+      },
+      {
+        "id": "supertrend",
+        "label": "Supertrend bullish flip",
+        "family": "Supertrend",
+        "kind": "event",
+        "formula": "Wilder ATR10 * 3 trailing bands; down-to-up flip at close"
+      },
+      {
+        "id": "psar",
+        "label": "Parabolic SAR reversal",
+        "family": "SAR",
+        "kind": "event",
+        "formula": "PSAR start=.02, increment=.02, max=.20; bearish-to-bullish direction reversal"
+      },
+      {
+        "id": "trix_zero",
+        "label": "TRIX18 zero cross",
+        "family": "TRIX",
+        "kind": "event",
+        "formula": "1-bar percent change of triple EMA18 crosses above0"
+      },
+      {
+        "id": "trix_signal",
+        "label": "TRIX18 signal cross",
+        "family": "TRIX",
+        "kind": "event",
+        "formula": "TRIX18 crosses above its EMA9"
+      },
+      {
+        "id": "stochrsi20",
+        "label": "StochRSI K20 recovery",
+        "family": "StochRSI",
+        "kind": "event",
+        "formula": "RSI14, range14, SMA3 K: K crosses20; flat range unknown"
+      },
+      {
+        "id": "stochrsi_cross",
+        "label": "StochRSI low K/D cross",
+        "family": "StochRSI",
+        "kind": "event",
+        "formula": "K crosses SMA3(K) and previous K<=20"
+      },
+      {
+        "id": "rmi30",
+        "label": "RMI20/5 30 recovery",
+        "family": "RMI",
+        "kind": "event",
+        "formula": "Wilder20 smoothed 5-day changes: RMI crosses above30"
+      },
+      {
+        "id": "rmi50",
+        "label": "RMI20/5 50 recovery",
+        "family": "RMI",
+        "kind": "event",
+        "formula": "Wilder20 smoothed 5-day changes: RMI crosses above50"
+      },
+      {
+        "id": "chaikin",
+        "label": "Chaikin3/10 zero cross",
+        "family": "Chaikin",
+        "kind": "event",
+        "formula": "EMA3(ADL)-EMA10(ADL) crosses0; H=L contribution0"
+      },
+      {
+        "id": "avwap_quarter",
+        "label": "Quarter daily AVWAP cross",
+        "family": "AVWAP proxy",
+        "kind": "event",
+        "formula": "C crosses sum(TP*V)/sum(V) since calendar quarter/segment start; at least5 previous anchor bars"
+      },
+      {
+        "id": "volume_osc",
+        "label": "Volume oscillator + up day",
+        "family": "Volume oscillator",
+        "kind": "event",
+        "formula": "SMA5(V)/SMA20(V)-1 crosses0 AND C>previous C"
+      }
+    ],
+    "US": [
+      {
+        "id": "price5",
+        "label": "price5",
+        "family": "control",
+        "kind": "event",
+        "formula": "C crosses above SMA5"
+      },
+      {
+        "id": "price10",
+        "label": "price10",
+        "family": "control",
+        "kind": "event",
+        "formula": "C crosses above SMA10"
+      },
+      {
+        "id": "price20",
+        "label": "price20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA20"
+      },
+      {
+        "id": "price50",
+        "label": "price50",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA50"
+      },
+      {
+        "id": "price200",
+        "label": "price200",
+        "family": "MA",
+        "kind": "event",
+        "formula": "C crosses above SMA200"
+      },
+      {
+        "id": "ma5_10",
+        "label": "ma5 10",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA5 crosses above SMA10"
+      },
+      {
+        "id": "ma5_20",
+        "label": "ma5 20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA5 crosses above SMA20"
+      },
+      {
+        "id": "ma10_20",
+        "label": "ma10 20",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA10 crosses above SMA20"
+      },
+      {
+        "id": "ma20_60",
+        "label": "ma20 60",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA20 crosses above SMA60"
+      },
+      {
+        "id": "ma50_200",
+        "label": "ma50 200",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA50 crosses above SMA200"
+      },
+      {
+        "id": "ma20_turn",
+        "label": "ma20 turn",
+        "family": "MA",
+        "kind": "event",
+        "formula": "SMA20[t]>SMA20[t-5], first true day"
+      },
+      {
+        "id": "rsi30",
+        "label": "rsi30",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 30"
+      },
+      {
+        "id": "rsi40",
+        "label": "rsi40",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 40"
+      },
+      {
+        "id": "rsi50",
+        "label": "rsi50",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 50"
+      },
+      {
+        "id": "rsi60",
+        "label": "rsi60",
+        "family": "RSI",
+        "kind": "event",
+        "formula": "Wilder RSI14 crosses above 60"
+      },
+      {
+        "id": "macd_signal",
+        "label": "macd signal",
+        "family": "MACD",
+        "kind": "event",
+        "formula": "EMA12(C)-EMA26(C) crosses above EMA9(MACD)"
+      },
+      {
+        "id": "macd_zero",
+        "label": "macd zero",
+        "family": "MACD",
+        "kind": "event",
+        "formula": "MACD crosses above 0"
+      },
+      {
+        "id": "dmi_cross",
+        "label": "dmi cross",
+        "family": "DMI",
+        "kind": "event",
+        "formula": "Wilder14 +DM crosses above -DM (common ATR denominator)"
+      },
+      {
+        "id": "adx_bull",
+        "label": "adx bull",
+        "family": "DMI",
+        "kind": "event",
+        "formula": "ADX14 crosses above20 while +DM>-DM"
+      },
+      {
+        "id": "stoch20",
+        "label": "stoch20",
+        "family": "Stochastic",
+        "kind": "event",
+        "formula": "Slow K=SMA3(100*(C-min L14)/(max H14-min L14)) crosses above20"
+      },
+      {
+        "id": "stoch_low_cross",
+        "label": "stoch low cross",
+        "family": "Stochastic",
+        "kind": "event",
+        "formula": "K crosses above SMA3(K), previous K<=20"
+      },
+      {
+        "id": "cci-100",
+        "label": "cci-100",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above -100"
+      },
+      {
+        "id": "cci0",
+        "label": "cci0",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above 0"
+      },
+      {
+        "id": "cci100",
+        "label": "cci100",
+        "family": "CCI",
+        "kind": "event",
+        "formula": "(TP-SMA20(TP))/(.015*mean absolute deviation20) crosses above 100"
+      },
+      {
+        "id": "bb_reentry",
+        "label": "bb reentry",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "C crosses above SMA20-2*population SD20"
+      },
+      {
+        "id": "bb_upper",
+        "label": "bb upper",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "C crosses above SMA20+2*population SD20"
+      },
+      {
+        "id": "bb_squeeze",
+        "label": "bb squeeze",
+        "family": "Bollinger",
+        "kind": "event",
+        "formula": "bb_upper AND previous bandwidth<=1.1*previous120 minimum bandwidth"
+      },
+      {
+        "id": "keltner_upper",
+        "label": "keltner upper",
+        "family": "ATR",
+        "kind": "event",
+        "formula": "C crosses above EMA20+2*Wilder ATR14"
+      },
+      {
+        "id": "high20",
+        "label": "high20",
+        "family": "Price",
+        "kind": "event",
+        "formula": "C>maximum H of prior20 bars, first true day"
+      },
+      {
+        "id": "high60",
+        "label": "high60",
+        "family": "Price",
+        "kind": "event",
+        "formula": "C>maximum H of prior60 bars, first true day"
+      },
+      {
+        "id": "failed_low20",
+        "label": "failed low20",
+        "family": "Price",
+        "kind": "event",
+        "formula": "L<prior20 minimum L AND C>that level AND C>O, first true day"
+      },
+      {
+        "id": "bull_gap",
+        "label": "bull gap",
+        "family": "Candle",
+        "kind": "event",
+        "formula": "O>previous H AND C>O; every qualifying day"
+      },
+      {
+        "id": "bull_engulf",
+        "label": "bull engulf",
+        "family": "Candle",
+        "kind": "event",
+        "formula": "previous C<O, C>O, O<=previous C and C>=previous O; every qualifying day"
+      },
+      {
+        "id": "up_volume15",
+        "label": "up volume15",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "C>previous C AND V/prior20 mean V>=1.5, first true day"
+      },
+      {
+        "id": "atr_jump_volume",
+        "label": "atr jump volume",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "C>previous C+1.5*previous ATR14 AND relative volume>=1.5; every qualifying day"
+      },
+      {
+        "id": "obv_inflow",
+        "label": "obv inflow",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "sum20(V*sign(return1))/sum20(V) crosses above .2"
+      },
+      {
+        "id": "cmf_zero",
+        "label": "cmf zero",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "CMF20 crosses above0; H=L contribution0"
+      },
+      {
+        "id": "mfi20",
+        "label": "mfi20",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "MFI14 crosses above20"
+      },
+      {
+        "id": "mfi50",
+        "label": "mfi50",
+        "family": "Volume",
+        "kind": "event",
+        "formula": "MFI14 crosses above50"
+      },
+      {
+        "id": "roc10_zero",
+        "label": "roc10 zero",
+        "family": "Momentum",
+        "kind": "event",
+        "formula": "C/C[t-10]-1 crosses above0"
+      },
+      {
+        "id": "aroon_cross",
+        "label": "aroon cross",
+        "family": "Aroon",
+        "kind": "event",
+        "formula": "AroonUp25 crosses above AroonDown25; ties most recent"
+      },
+      {
+        "id": "vortex_cross",
+        "label": "vortex cross",
+        "family": "Vortex",
+        "kind": "event",
+        "formula": "sum14(abs(H-prev L)) crosses above sum14(abs(L-prev H))"
+      },
+      {
+        "id": "ichimoku_tk",
+        "label": "ichimoku tk",
+        "family": "Ichimoku",
+        "kind": "event",
+        "formula": "9-bar midpoint crosses above26-bar midpoint"
+      },
+      {
+        "id": "ichimoku_cloud",
+        "label": "ichimoku cloud",
+        "family": "Ichimoku",
+        "kind": "event",
+        "formula": "C crosses above max of both cloud spans calculated26 bars earlier"
+      },
+      {
+        "id": "rebound2atr",
+        "label": "rebound2atr",
+        "family": "Recovery",
+        "kind": "event",
+        "formula": "(C-min L20)/ATR14 crosses above2"
+      },
+      {
+        "id": "pivot_break",
+        "label": "pivot break",
+        "family": "Structure",
+        "kind": "event",
+        "formula": "C crosses above latest 5-bar pivot high, known only2 bars after pivot; left strict/right inclusive"
+      },
+      {
+        "id": "reclaim_drawdown",
+        "label": "reclaim drawdown",
+        "family": "Recovery",
+        "kind": "event",
+        "formula": "price20 AND previous close<=90% of preceding63 close maximum"
+      },
+      {
+        "id": "macd_rsi40",
+        "label": "macd rsi40",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "macd_signal AND rsi40 crossed upward on t,t-1 or t-2"
+      },
+      {
+        "id": "macd_negative",
+        "label": "macd negative",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "macd_signal AND MACD<0"
+      },
+      {
+        "id": "high20_volume",
+        "label": "high20 volume",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "high20 AND relative_volume>=1.5"
+      },
+      {
+        "id": "cci_recovery",
+        "label": "cci recovery",
+        "family": "Anchor",
+        "kind": "event",
+        "formula": "cci-100 AND SMA20[t]<SMA20[t-5]"
+      },
+      {
+        "id": "rsi30__and20",
+        "label": "rsi30 and20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "base event AND C>SMA20 on same day"
+      },
+      {
+        "id": "rsi30__then20",
+        "label": "rsi30 then20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "first price20 event base day..+5 inclusive"
+      },
+      {
+        "id": "rsi30__persist3",
+        "label": "rsi30 persist3",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "rsi30",
+        "formula": "first three consecutive C>SMA20, run starts>=base and completes<=base+5"
+      },
+      {
+        "id": "cci-100__and20",
+        "label": "cci-100 and20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "cci-100",
+        "formula": "base event AND C>SMA20 on same day"
+      },
+      {
+        "id": "cci-100__then20",
+        "label": "cci-100 then20",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "cci-100",
+        "formula": "first price20 event base day..+5 inclusive"
+      },
+      {
+        "id": "cci-100__persist3",
+        "label": "cci-100 persist3",
+        "family": "Follow-up",
+        "kind": "event",
+        "base": "cci-100",
+        "formula": "first three consecutive C>SMA20, run starts>=base and completes<=base+5"
+      },
+      {
+        "id": "state_price5",
+        "label": "state price5",
+        "family": "State",
+        "kind": "state",
+        "formula": "C>SMA5; every qualifying day"
+      },
+      {
+        "id": "state_price20",
+        "label": "state price20",
+        "family": "State",
+        "kind": "state",
+        "formula": "C>SMA20; every qualifying day"
+      },
+      {
+        "id": "state_macd",
+        "label": "state macd",
+        "family": "State",
+        "kind": "state",
+        "formula": "MACD>signal; every qualifying day"
+      },
+      {
+        "id": "state_macd_rsi40",
+        "label": "state macd rsi40",
+        "family": "State",
+        "kind": "state",
+        "formula": "MACD>signal AND RSI>40; every qualifying day"
+      },
+      {
+        "id": "supertrend",
+        "label": "Supertrend bullish flip",
+        "family": "Supertrend",
+        "kind": "event",
+        "formula": "Wilder ATR10 * 3 trailing bands; down-to-up flip at close"
+      },
+      {
+        "id": "psar",
+        "label": "Parabolic SAR reversal",
+        "family": "SAR",
+        "kind": "event",
+        "formula": "PSAR start=.02, increment=.02, max=.20; bearish-to-bullish direction reversal"
+      },
+      {
+        "id": "trix_zero",
+        "label": "TRIX18 zero cross",
+        "family": "TRIX",
+        "kind": "event",
+        "formula": "1-bar percent change of triple EMA18 crosses above0"
+      },
+      {
+        "id": "trix_signal",
+        "label": "TRIX18 signal cross",
+        "family": "TRIX",
+        "kind": "event",
+        "formula": "TRIX18 crosses above its EMA9"
+      },
+      {
+        "id": "stochrsi20",
+        "label": "StochRSI K20 recovery",
+        "family": "StochRSI",
+        "kind": "event",
+        "formula": "RSI14, range14, SMA3 K: K crosses20; flat range unknown"
+      },
+      {
+        "id": "stochrsi_cross",
+        "label": "StochRSI low K/D cross",
+        "family": "StochRSI",
+        "kind": "event",
+        "formula": "K crosses SMA3(K) and previous K<=20"
+      },
+      {
+        "id": "rmi30",
+        "label": "RMI20/5 30 recovery",
+        "family": "RMI",
+        "kind": "event",
+        "formula": "Wilder20 smoothed 5-day changes: RMI crosses above30"
+      },
+      {
+        "id": "rmi50",
+        "label": "RMI20/5 50 recovery",
+        "family": "RMI",
+        "kind": "event",
+        "formula": "Wilder20 smoothed 5-day changes: RMI crosses above50"
+      },
+      {
+        "id": "chaikin",
+        "label": "Chaikin3/10 zero cross",
+        "family": "Chaikin",
+        "kind": "event",
+        "formula": "EMA3(ADL)-EMA10(ADL) crosses0; H=L contribution0"
+      },
+      {
+        "id": "avwap_quarter",
+        "label": "Quarter daily AVWAP cross",
+        "family": "AVWAP proxy",
+        "kind": "event",
+        "formula": "C crosses sum(TP*V)/sum(V) since calendar quarter/segment start; at least5 previous anchor bars"
+      },
+      {
+        "id": "volume_osc",
+        "label": "Volume oscillator + up day",
+        "family": "Volume oscillator",
+        "kind": "event",
+        "formula": "SMA5(V)/SMA20(V)-1 crosses0 AND C>previous C"
+      }
+    ]
+  },
+  "evaluated": false
+}

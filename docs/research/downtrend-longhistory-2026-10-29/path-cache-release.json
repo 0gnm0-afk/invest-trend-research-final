@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-29T06:08:33.602134+00:00",
+  "files": 5212,
+  "original_bytes": 1959754774,
+  "retained_bytes": 45989048,
+  "ledger_rows": 7959877,
+  "retained_fields": [
+    "ids",
+    "ledger_index",
+    "ledger_drop",
+    "code_sha256"
+  ],
+  "unchanged_full_path_files": 2081,
+  "complete_available_universe": 7293,
+  "verified_redundant_compact_copies_removed": 1,
+  "target_free_bytes": 1500000000.0,
+  "free_bytes": 3999776768,
+  "checks": "all retained arrays byte-equivalent by dtype/array value; original and retained SHA256 journal",
+  "reason": "Local disk capacity after completed inference; keep source prices, all result CSVs, and exact ledgers",
+  "reproduction": "Run paths.py to regenerate monthly sufficient statistics before infer.py paths or verify_paths.py --real"
+}

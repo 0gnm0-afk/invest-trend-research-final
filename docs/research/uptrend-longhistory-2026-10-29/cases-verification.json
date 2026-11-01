@@ -1,0 +1,18 @@
+{
+  "cases": 16,
+  "plots": [
+    "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\docs\\research\\uptrend-longhistory-2026-10-29\\cases-rmi30.png",
+    "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\docs\\research\\uptrend-longhistory-2026-10-29\\cases-macd_rsi40.png",
+    "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\docs\\research\\uptrend-longhistory-2026-10-29\\cases-cci_recovery.png",
+    "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\docs\\research\\uptrend-longhistory-2026-10-29\\cases-supertrend.png"
+  ],
+  "fixed_conditions": [
+    "rmi30",
+    "macd_rsi40",
+    "cci_recovery",
+    "supertrend"
+  ],
+  "selection": "Lower median21 by known-label early-hit/miss; no extreme cases",
+  "path_basis": "open[t+1], close[t+21], high/low t+1..t+h inclusive",
+  "code_sha256": "c1ac17fc110b7f9333c9901ba7c105b340221ba48f8852cf585bf7621da2162f"
+}

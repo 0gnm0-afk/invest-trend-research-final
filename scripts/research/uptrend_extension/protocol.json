@@ -1,0 +1,41 @@
+{
+  "study": "UPTREND-EXTENSION-20261029",
+  "status": "pre-calculation choices; freeze receipt records hashes and UTC",
+  "source": "Reuse every stock in downtrend-indicators-20261021 inventory and immutable caches. No price collection, operational writes or changes to earlier results.",
+  "label": "min 0.5 sum(log(close)-x)^2 + 1 sum(abs(diff(x,2))); slope x[t+1]-x[t]; up >1e-6, down <-1e-6, flat inclusive between. Complete runs require finite preceding and succeeding edges. At least 10 up edges; no bridging flats/gaps. Early ages 0..5 inclusive.",
+  "periods": {
+    "train": "2016-01-01..2021-12-31, fits ending 2022-12-31",
+    "test": "2023-04-01..2025-09-30, existing long fits",
+    "all": "all stored history, descriptive only"
+  },
+  "selection": "Same TRAIN thresholds and two-role ranking as original, NEW families only. Used for emphasis/cases, not TEST inclusion. All16 fixed events receive classification and all-signal matched future paths. No additional combinations or states in this wave.",
+  "candidate_scope": "11 new events: Supertrend WilderATR10*3 bullish flip; PSAR(.02,.02,.2) bullish reversal; TRIX18 crosses0 or EMA9(TRIX); StochRSI(14,14,3,3) K crosses20 or K>D with previous K<=20; RMI(20,5) crosses30/50; Chaikin(3,10) crosses0; close crosses calendar-quarter daily typical-price AVWAP (same quarter, at least5 prior anchor bars); SMA5(volume)/SMA20(volume)-1 crosses0 AND positive close return. No grid search.",
+  "second_stage": "No new combinations or persistence filters; previous wave already established their timing/capture costs. All16 fixed events retained.",
+  "classification": "All eligible signal days as denominator including pre-onset. 65 prior/126 subsequent contiguous bars and finite fit at t+126, plus feature warmup; incomplete up runs unknown. Day0,day1..5,late>=6,short1..9,other sum to all signals. pre5 subset of other separately. Whole completed>=10 up and any completed up each get eligible-day base rates. Capture requires all early-window feature values; first hit delay and missed fraction reported. Windows 0..3/0..5/0..10; duration10..20/21..62/63+ auxiliary.",
+  "paths": "Next contiguous valid open[t+1], high/low extrema over t+1..t+h inclusive, close[t+h], h=5/21/63. All-signal primary population needs65 past/63 future and observable covariates, NO L1 state, duration or completion gate. Separate early-hit diagnostic. Report gain5/gain10,loss5/loss10, favorable/adverse excursions,terminal return,positive terminal and distributions. Not profits.",
+  "matching": "Same stock,calendar quarter,SMA20[t]>SMA20[t-5],C>SMA20,RSI>=50. scheme0 basic; scheme1 adds ATR/C bins .02/.04 and return5 bins -.05/0/.05; scheme2 adds return1 bins -.03/-.01/0/.01/.03; scheme3 uses scheme2 plus return20 bins -.10/-.03/0/.03/.10 and C/SMA20-1 bins -.05/-.02/0/.02/.05. Non-signal flag==0 only, no L1 filter. Exact-cell means, signal weights; absent controls excluded only from matched estimate. Show support,control ESS and SMD for ATR/C,r1,r5,r20,MA distance,RSI,relative volume. No additional bins after results unless explicit exploratory amendment.",
+  "path_focal": "All16 events in both markets, no outcome-driven filtering.",
+  "inference": "Inherited1999 replicates, common3/6-month stationary weights crossed stock multipliers. This wave classification96 contrasts, daily-rate32, paths3072. This controls the predeclared wave, NOT accumulated earlier/adaptive search. All TEST history previously seen: exploratory reassessment, not independent confirmation. Paired precision/capture contrasts to5 benchmarks and unique-episode coverage added as predeclared diagnostics; union block intervals, both markets and all new*benchmarks*2metrics family.",
+  "robustness": "Reuse original80-stock endpoint audit because identical cached L1, thresholds and date boundaries. Restore original price/fit cache hashes, reconcile5 benchmark metrics against prior all/train/test, prefix-invariance and scalar independent indicator/path/matching checks. Year and equal-stock distributions, full failed/late/short/before-onset decomposition retained.",
+  "stop": "Finish this fixed family even if none improves tradeoffs. Do not add parameters after results.",
+  "title": "UPTREND EXTENSION 2026-10-29",
+  "new_families": [
+    "Supertrend",
+    "Parabolic SAR",
+    "TRIX",
+    "Stochastic RSI",
+    "RMI",
+    "Chaikin oscillator",
+    "calendar-quarter daily AVWAP proxy",
+    "Volume oscillator"
+  ],
+  "parameters": "11 new events: Supertrend WilderATR10*3 bullish flip; PSAR(.02,.02,.2) bullish reversal; TRIX18 crosses0 or EMA9(TRIX); StochRSI(14,14,3,3) K crosses20 or K>D with previous K<=20; RMI(20,5) crosses30/50; Chaikin(3,10) crosses0; close crosses calendar-quarter daily typical-price AVWAP (same quarter, at least5 prior anchor bars); SMA5(volume)/SMA20(volume)-1 crosses0 AND positive close return. No grid search.",
+  "benchmarks": [
+    "rsi30",
+    "cci-100",
+    "cci_recovery",
+    "macd_rsi40",
+    "price5"
+  ],
+  "scope": "Additional research authorized2026-10-29; previous research conclusion retained, new wave exploratory. Same all-history universe/cutoff, no live data/account/trading or alert changes."
+}

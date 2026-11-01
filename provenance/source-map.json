@@ -1,0 +1,2144 @@
+[
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29.md",
+    "original_sha256": "cf125c61440a5d852fc779f5bd5dcb622b9ae2ddfb82cb8e1184e1bb7087bb25",
+    "public_sha256": "1abf9b5668be8d2208dc2d4559a155e6f09dd25c9f9f16fd42f57109ea51ec03",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/01-accuracy-capture-data.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/01-accuracy-capture-data.csv",
+    "original_sha256": "53e61201e2a5f1d5e7716142c148492e73af5eadf916216872cb75949c8677e3",
+    "public_sha256": "ba21084742988b07922162e38407a5bb3bce6b4a4ce06cb2927b329c52536cbb",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/01-accuracy-capture.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/01-accuracy-capture.png",
+    "original_sha256": "efbbf3a0cdf5f47ae89d94e76461e484ce108f95381e956a69ced0598812f5f6",
+    "public_sha256": "efbbf3a0cdf5f47ae89d94e76461e484ce108f95381e956a69ced0598812f5f6",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/02-early-whole-baselines-data.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/02-early-whole-baselines-data.csv",
+    "original_sha256": "407ac5bb2fe1161722420e769eec794dce1c296c445b03ccae2f3afc187fccfb",
+    "public_sha256": "27490a54be272b5ac3047648e5bff8ff99b0a383e67a0c2325d113400319b4de",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/02-early-whole-baselines.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/02-early-whole-baselines.png",
+    "original_sha256": "8c82958bf10c8c5ec3c59137940c155e30a713dcb8b5accf26e9f9ead064b26c",
+    "public_sha256": "8c82958bf10c8c5ec3c59137940c155e30a713dcb8b5accf26e9f9ead064b26c",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/03-fixed-eras-data.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/03-fixed-eras-data.csv",
+    "original_sha256": "a3fde76ffea5c9330133883844d52ed2f8f45a0f85c5a8d882755d68a74f3b3e",
+    "public_sha256": "b70856955b257d1155d622b31a073c2c5c446992892e1afc9a7802370da7cd18",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/03-fixed-eras.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/03-fixed-eras.png",
+    "original_sha256": "d7ba8349dee0a651f55f3f9449115bd029b270030ed8737005f6a1dad08410fd",
+    "public_sha256": "d7ba8349dee0a651f55f3f9449115bd029b270030ed8737005f6a1dad08410fd",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/04-strict-matched-return-data.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/04-strict-matched-return-data.csv",
+    "original_sha256": "d0414885160e6355e98abb76a1b71454a1dc759955fa36389543f74d6cb8e810",
+    "public_sha256": "a63f73752ada2f1719279d47f8e231214417f26d85ee36321d63fa4876a4e5e2",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/04-strict-matched-return.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/04-strict-matched-return.png",
+    "original_sha256": "4540e1fc777d415bac1bf256aeaae75af30cc8475d92241eaacddb4974b8cb38",
+    "public_sha256": "4540e1fc777d415bac1bf256aeaae75af30cc8475d92241eaacddb4974b8cb38",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/05-history-coverage-data.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/05-history-coverage-data.csv",
+    "original_sha256": "21108fb44b261376d9e32af03f3eeade44ce395add5bbae942555f49f557d0df",
+    "public_sha256": "fc5c35e197e71a79620efe315dc38e7cd602f1f86e47d5adbffab85e1431b9e6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/05-history-coverage.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/05-history-coverage.png",
+    "original_sha256": "40b3cb3847b1026f97eddc6186b92e647e50a2bc7e4404cbe48043ea4f119fd7",
+    "public_sha256": "40b3cb3847b1026f97eddc6186b92e647e50a2bc7e4404cbe48043ea4f119fd7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/all-signal-paths.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/all-signal-paths.csv",
+    "original_sha256": "ab6200d2f0f55daea674f51bd6f7fd947a9f35f430b1dcf2a32a3f0e20780eb7",
+    "public_sha256": "ae81ba79cacb1acd2deda8ff7d6e26313c91870c22c087762c41bf8fc0e02975",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/all72-path-summary.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/all72-path-summary.csv",
+    "original_sha256": "386c744fe1292475e632079163cc4f4506e720350be18ea39aa39f22c3ea7fbb",
+    "public_sha256": "c1b6a6bae8fcdb1346fa9dff4160688107f316f662472cda7e18eedf0726c363",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/artifact-manifest.json",
+    "path": "provenance/original-manifests/uptrend-longhistory-2026-10-29.json",
+    "original_sha256": "7005c669dba812b29abdc1853a3824cbb6a32c923ea837f1095fd740e6e49ea7",
+    "public_sha256": "0195bca75397d6a3040d4293d4ab4f3a8692356b2e0d9a0c3e0de1b00eea1ace",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/artifacts-validation.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/artifacts-validation.json",
+    "original_sha256": "b0fde740d9cf55468edef0a469956d9518ab2e09ccc25c76395ba385207bb91c",
+    "public_sha256": "b47b2c1e6f7cec064e8cb9f03fc89333265c178deb8b929feec7c9e712c6822c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/artifacts-visual-review.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/artifacts-visual-review.json",
+    "original_sha256": "a037c3771525d562b01c2749c3f78e36d2cc291b3defbe2a55f966f10b98f6a6",
+    "public_sha256": "5772ba3f0b1db30607e1d52b63217ef0bb029ff6396f4ae29d7834bae36891c9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/balance.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/balance.csv",
+    "original_sha256": "23cd4e1c8d3423dd0f82ac5ef86388a8654af09046e8171878d273459adb8529",
+    "public_sha256": "3a27415dabc1ff9bb1336cf61933bf45e7c59abc7051f13d5d7d9306b42c114f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/base-rates.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/base-rates.csv",
+    "original_sha256": "f368fc2273195aabff2cf926e0d7916713dcff406156a5f18cccecdae2f20ba1",
+    "public_sha256": "dd8f4f226bfa028c47aacb35c75d296537a90fc02dbd4058872f23af7a0bbc87",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/cases-cci_recovery.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/cases-cci_recovery.png",
+    "original_sha256": "e3cd664931374cb3b8eae05b53cce50cdc8b3b0548709df3d0b08145bf9c340f",
+    "public_sha256": "e3cd664931374cb3b8eae05b53cce50cdc8b3b0548709df3d0b08145bf9c340f",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/cases-macd_rsi40.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/cases-macd_rsi40.png",
+    "original_sha256": "e836e95983cb0912b5eb28810c9669d4159527fe34aa2fc2b035870f519bfd76",
+    "public_sha256": "e836e95983cb0912b5eb28810c9669d4159527fe34aa2fc2b035870f519bfd76",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/cases-rmi30.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/cases-rmi30.png",
+    "original_sha256": "4e7895dd86a568d11d91a45295ee2efdbb0a8d646e99db1839da10be1fb5eca8",
+    "public_sha256": "4e7895dd86a568d11d91a45295ee2efdbb0a8d646e99db1839da10be1fb5eca8",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/cases-supertrend.png",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/cases-supertrend.png",
+    "original_sha256": "b4c7c2204b065f0c975c70aa88a8e829703bfdd40870d90aed7538513dc6b404",
+    "public_sha256": "b4c7c2204b065f0c975c70aa88a8e829703bfdd40870d90aed7538513dc6b404",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/cases-verification.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/cases-verification.json",
+    "original_sha256": "2c440f117541742d5eaad48d9f6184a12e023a8134e8e141cd5358fa0a9cfcf5",
+    "public_sha256": "2804a706614e10508ab545552624ee08c24863da290b8f8a87401111b35cd674",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/classification-eras.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/classification-eras.csv",
+    "original_sha256": "0d47163c69de3a17667ec1584dece4ebd35078abe1102eb86ba9a09ba8542160",
+    "public_sha256": "57007e9b7f06dc19a2c583437e117c091e0aca77a19686a2fda9e1d98033c2dd",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/classification-inference.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/classification-inference.json",
+    "original_sha256": "6a9b8fc9603be1a71c89cf429fcc4646f9b9b7086984ab6a3acdd7fb04862ac7",
+    "public_sha256": "1d45dbdb1df5f87e809059b0e963f0f153afb0b2354ca62bec5a630e29062d8b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/classification-intervals.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/classification-intervals.csv",
+    "original_sha256": "8ff2fb6a3f6bbac247a7716715365f5ecef3601aa6024ddd55438d55b3a7ebb2",
+    "public_sha256": "ab0b87d90d158eace08c81c1d2a0e142dd6c0411ca5aaa97ee949993db6ce753",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/classification-periods.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/classification-periods.csv",
+    "original_sha256": "5fa05445298f24c9f4342aef9aff4f305db8356e3933d2fea83defd763230466",
+    "public_sha256": "86126875644aaf939c488b91bdf2684bc7c7a18e0266514d6d6e59dfbdd154ea",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/classification-yearly.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/classification-yearly.csv",
+    "original_sha256": "e45b8d1ff0c40745001971cf0fb30facdf16fc65f21234684c5764ae49715361",
+    "public_sha256": "79f387a03bc192eecfcb92397139576a96f423189cec1b5edf8ff0a87fe4e0c2",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/conditions.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/conditions.csv",
+    "original_sha256": "b689c862c1035d4a034d486e4eab8191c20f79da111b693c9fc07398c162b9f7",
+    "public_sha256": "f0f76cdc3e5679ea51fb4c46a6be5f5eeec853f92ecf496b098638036d60c378",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/conditions.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/conditions.md",
+    "original_sha256": "52d104fb1601a27663d82f02b178a06adeebfe4f0042c30e31f2eb25d3a99b70",
+    "public_sha256": "24d3671251a1eef69b5a6bf1d0d9ff90c734275de6b3741d7ba0dc02f2608312",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-chart-cache.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-chart-cache.csv",
+    "original_sha256": "789d6bc57ab88d4085c3a69facc339916e6398ae035160ad87d79e4652c1a731",
+    "public_sha256": "e458ffa69f266292a47627a000fdfc918aa5a66f9df7197656523456b5d2fad7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-excluded.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-excluded.csv",
+    "original_sha256": "93043b40d6a12628975324030577a55c937c59ba013fc42495b15868be3b10e2",
+    "public_sha256": "5199232e684be5e3ccdfaef4a471985f74c66e70c07abf012e4558454e2d7a7b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-readme.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-readme.md",
+    "original_sha256": "6053f89a93602d1c9c32e39668a2c805d5cdb3ab4eabbecc52c5ce617e8c219c",
+    "public_sha256": "c95f5f2ffaf8631d2782ce5f9b96bc86f47e11486628046d7603d51ea000bbe6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-stocks.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-stocks.csv",
+    "original_sha256": "7683af04515262d616040d0616e4984b1308113c0c9044163a3a234538d2e3ef",
+    "public_sha256": "ed698cae0c9bb655c623fad8764b00decdee7c186409497f327712ae40f1756a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-summary.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-summary.json",
+    "original_sha256": "ed6e3c6bae4089aa56daf71171368527c0689190015f005f41588c740fd28e21",
+    "public_sha256": "7e926266bb3ba8201a1a5ff9fd06473dc29aa14dff2ec7f27ab20071e2879e0d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-supplemental-receipt.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-supplemental-receipt.json",
+    "original_sha256": "718a1be8741209f04debc8e5cdbc144aaac9bc40876e7acc9ff738465e23a714",
+    "public_sha256": "b1a6a53a019b165e8b61c68e2f7ee1ebe8334227a08a2d917492f16506e5a1a7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-validation.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-validation.json",
+    "original_sha256": "5f064b946338e0c5ff68f8bd5f993a84825581c385da45fbcbab992ab71d5c50",
+    "public_sha256": "ebc9def07cfa505f683e31a6345560ca16ebb2ac810f52f6a972f9b74ee84ed5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/coverage-years.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/coverage-years.csv",
+    "original_sha256": "21108fb44b261376d9e32af03f3eeade44ce395add5bbae942555f49f557d0df",
+    "public_sha256": "fc5c35e197e71a79620efe315dc38e7cd602f1f86e47d5adbffab85e1431b9e6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/delivery-validation.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/delivery-validation.json",
+    "original_sha256": "2df96be59eafec5102c7b3a2c3fead3f2f694d18795054970c7f385dddf260a4",
+    "public_sha256": "c30ab6d6157284a3551f88a6be25659b9674c0b80d9efd6d2969de9b809377bd",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/distributions-readme.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/distributions-readme.md",
+    "original_sha256": "1d8071913fa1eddfa27eb7fbc4b99bb62a96a4cf3ec538fc4f4d582fae1ba6ec",
+    "public_sha256": "1d8071913fa1eddfa27eb7fbc4b99bb62a96a4cf3ec538fc4f4d582fae1ba6ec",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/distributions-replay-amendment.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/distributions-replay-amendment.json",
+    "original_sha256": "02f70ec572b3c3cc10c4966489ff216b2f6025e9f26e0fc3bba84aa12737853d",
+    "public_sha256": "84780ce3be017b0681c04f3905d73cf4191306fc560b11eb8d3cd139b4f52c75",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/distributions-spool-cleanup.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/distributions-spool-cleanup.json",
+    "original_sha256": "589d98c59329a2e539246dbbff0355f0b8700a58bf6feb84a3e1ccebdd8ae11c",
+    "public_sha256": "0fd76d37067ce75789a838b7506dea1eaf2b8259281a9f198c110595d5beb4d9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-protocol.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-protocol.json",
+    "original_sha256": "d7566f2b60fda85fb491a9b533b777c8e8c78ff01e3b86261d97a9492f5758d0",
+    "public_sha256": "a53480e7e22893916c4379ad4acf8e18d1dca55ccce2deb2c3fab1a7ea970d65",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-readme.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-readme.md",
+    "original_sha256": "913ef465ae3e554dbc8e9924aed8cba1ee3fa09df63846bc05db693e74c94547",
+    "public_sha256": "ebda68e17ab2a3b4ba8307030168c1d8347b6505d0e6d302e4660deb3f316691",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-summary.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-summary.json",
+    "original_sha256": "24ecb1fb2cbe3a4ecdc9f0abe4c147930b315d88d9ee814b439308858fc2f719",
+    "public_sha256": "11a9e33fe65e74cd4f5e0668a24d0f5a8187c1351a4c310d7fa666ee86cdafa1",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-validation.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit-validation.json",
+    "original_sha256": "7acc943fb38df9951f08562fc3249b0d6770fa10edb068c773c1348fb1afa236",
+    "public_sha256": "4cd5939e2bf38207945a5885297863a45cbba47c2d53b59f39dac5e0845a75ff",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/endpoint-audit.csv",
+    "original_sha256": "8d1a0e690d33d77ec5124bcee202cd7fba065c4378317c761afb67dacf308c6f",
+    "public_sha256": "6d14165cfd6aef9b8ab5af799d263cf1d76eefc20a78fff812d4b580b7a16da2",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/environment.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/environment.json",
+    "original_sha256": "256719e02de86ac5bbe29ddb0e9c85c85b03d400913353a9cf5ba2eb601d0d6c",
+    "public_sha256": "90d71d4641b87b3b4ef9439420804b3a6360e9ecf7ee694b5e0f0b441b54b783",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/equal-stock.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/equal-stock.csv",
+    "original_sha256": "ab1259d0ae88c7ab50216881a02e1ac2dee469241c9320ca59f43636b938e656",
+    "public_sha256": "3b1defee10fc183a9a792c38ac1bd1acb0f658feb2f92855eb38b75801802fb6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/evaluate-coverage.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/evaluate-coverage.csv",
+    "original_sha256": "7f72ebd43c2dea2177d39b84c3591416b96fad700ce6d121886edf81802d4931",
+    "public_sha256": "812c5d0c334fb5758d5beb18b885164560961f7dfb2418155790de471b144b36",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/evaluate-duration.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/evaluate-duration.csv",
+    "original_sha256": "cb4379cb5111c8e1e2547b38c3b6cec2b43601092dd91c86b84563531d4a3511",
+    "public_sha256": "a6bf68246d06a662f80767855e5309f09d201f37ea300fc799cfde2c1d7d9535",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/evaluate-metrics.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/evaluate-metrics.csv",
+    "original_sha256": "7438c8bb6f3ba63a492e7d4a7ab2259b2faed2963fcb01313cd89931054d8584",
+    "public_sha256": "29d8448b202ca934d32b03470db1f6903bdec6ffd5cc48449eb7ecdc5fb9c123",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/evaluate-sensitivity.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/evaluate-sensitivity.csv",
+    "original_sha256": "f47dcbc881b23dac31cd7b3dc784490857ddcfd714c9b0d13194f5796901ba3b",
+    "public_sha256": "fce2e9e74c579596520f528802c14da0508064791d1fc010c412702152d05f42",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/evaluate-yearly.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/evaluate-yearly.csv",
+    "original_sha256": "bc34feb9e34b4b70fa8f32fbef421b982ef50b090f2aca556074515f1ca8d79b",
+    "public_sha256": "9b7883da56b70ca7af4c1e7e3e1e6786b823d6a99b913ccacb8a389564cbe700",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/first-confirmation-distributions.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/first-confirmation-distributions.csv",
+    "original_sha256": "22c10bd7f7eafd79f90f96dd6c7bb1fb04acde10c342379507f1aba7caffb477",
+    "public_sha256": "c4b2f173e2cf320be0381b0e5efe9eec057bc9fccf4187ce6db01aa993061f9c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/first-confirmation-extremes.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/first-confirmation-extremes.csv",
+    "original_sha256": "79489baf4056173ac5670b2acb28daf10ba8d7b8b92dc67d0c98ad4a5da9b660",
+    "public_sha256": "975f2ce7578e6c8e10bebd97710ea0296d69ac46ab3cc4e2eb395d1ff571b83f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/independent-findings.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/independent-findings.md",
+    "original_sha256": "74ec9c7292f4dd7bc06523c1aa9bbf8cb2065b69c25ec9fb3995515ef1158b6c",
+    "public_sha256": "74ec9c7292f4dd7bc06523c1aa9bbf8cb2065b69c25ec9fb3995515ef1158b6c",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/input-manifest.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/input-manifest.csv",
+    "original_sha256": "91916c41c52731975070fd34fe2fa419f7f2e42dc9cfe8eaebd94cc06f38ae8e",
+    "public_sha256": "b264cefc186053976743c776d0dcf9506bd368a7b332e66e4e2c994284eb8a68",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/literature-refresh.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/literature-refresh.md",
+    "original_sha256": "0dda44b020c06ab9e60a01ab9d2548bbd7ccf8e1bc799b0f028f28f493f8daa7",
+    "public_sha256": "0dda44b020c06ab9e60a01ab9d2548bbd7ccf8e1bc799b0f028f28f493f8daa7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/matched-paths.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/matched-paths.csv",
+    "original_sha256": "ecaf5abbb1f68b1250289b9e8f794fb135a7723e9937b3451fc6b61da563748d",
+    "public_sha256": "de9bbe98ea0050a0fb757fc5717d3fbe3318d830b8c4e701c37284c84a2514c1",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/matched-summary21.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/matched-summary21.csv",
+    "original_sha256": "06ff591ef24625dbce48a519f2cc27a1951054426926a045a31cb5f3608c22ab",
+    "public_sha256": "4d68071e45dcb66fa6b3b1725c18b5f2c110ca009744c138d60d03d29b632c27",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/method-review.md",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/method-review.md",
+    "original_sha256": "fb1e5b8b236073758246e05cbef0e794adfc2fe8f41e8102ae4ce683acc8a1e9",
+    "public_sha256": "fb1e5b8b236073758246e05cbef0e794adfc2fe8f41e8102ae4ce683acc8a1e9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/outside-primary-eligibility.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/outside-primary-eligibility.csv",
+    "original_sha256": "54414fa1871e28293c759809eafaaec5ba2ee406c6f7e25860a7c0b2bdfaab08",
+    "public_sha256": "5ecd3a56ad5a23fba721bf26ee6aefd6000aee10d63dc6d53d12c07ad721048f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/package-receipt.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/package-receipt.json",
+    "original_sha256": "0bf2b70c1fae112d8921a9a6892e96e7fcb7d2379e21f4f5855af7bf97254ecd",
+    "public_sha256": "82e0cc175b9bbe4ffb3f9e3ff6d18110e993b432bbd9546e0fcaa2271071e1e5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/paired-benchmarks.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/paired-benchmarks.csv",
+    "original_sha256": "ec899215b451a89a6d9db213957bfd7fb1ad6d1bba28e7cfb51216c8dde2270c",
+    "public_sha256": "170c8d2a2b0efc40e30a0e600d5247eb4ce6df1cdc898f09a827ec337078bb4b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/path-distributions.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/path-distributions.csv",
+    "original_sha256": "e96b6ec88c3f77cda9a057f8ecfbcf4f427c5ec7580547565f48ac2b8c00683f",
+    "public_sha256": "dfe2b864a0343d67bba747df5951789d35381dae88fe0433dd8d81a7308f9f32",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/path-equal-stock.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/path-equal-stock.csv",
+    "original_sha256": "7dee7ee423a3f80511789bf40fde9895b24628c314167ee347bb4048eb8354f0",
+    "public_sha256": "657a495caa4e62789a1b5a0fffb2f780f8d89873effb127c65df267b2f7072e4",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/path-eras.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/path-eras.csv",
+    "original_sha256": "928ee1d5b6e3eacd6663b161b6839e4005014740ce5e12f02e0ed00a43ebd389",
+    "public_sha256": "4b8b81b7eeb89e6d59375dfcc03dc18e6b27ed83ce30d6133dc40be9a52e7eec",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/path-periods.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/path-periods.csv",
+    "original_sha256": "24a1a138faddeb0e442f4e8b5974ec7dcee83872b6e076be74f31ff648dfe196",
+    "public_sha256": "e8a10515b24bdbd1cad2e368b57a58d9f447185869232780c53ae7416ca354cb",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/path-yearly.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/path-yearly.csv",
+    "original_sha256": "24f9d6312d05a88b000354bdf9dba96da432783e24f08f0b161be27933591c80",
+    "public_sha256": "023aa04a0adbbf8725fbbe1f1eae216bc969725713e1f6d9be60f532b0adc199",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/paths-compute-receipt.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/paths-compute-receipt.json",
+    "original_sha256": "2bc019e527130b68274ccfc194999efc044d55c282efc1e363038fe71f9e7247",
+    "public_sha256": "3b1160907f1fdc4506853975be1e04adcd0ec85c08c24decf5df6e0117a516d5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/paths-inference.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/paths-inference.json",
+    "original_sha256": "48579043b4f4e6285f5ef4ef7aabad74273cce6abc227d45807e5732cd1c4f3d",
+    "public_sha256": "eac9248f2af346010f6e8490de79a9fd826ef7f43098769c07eabab7e8c12bf6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/primary-summary.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/primary-summary.csv",
+    "original_sha256": "f493a105f1a54dd275b28ffce7683144737801af0382b5b343ef9af4e27a03a7",
+    "public_sha256": "0d9a3a3309a619990a93915c8cf3f913c60fb9d99e4e45b67d2ef2a9a1dbcda7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/prior-window-reconciliation.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/prior-window-reconciliation.csv",
+    "original_sha256": "b326ef7c6ddc5d9c8ef25b5f6642a17a8c8f02427c608db17a71143ba969fccb",
+    "public_sha256": "3bc277493dc340ceb05fbcba88cdc22d403f8dc85061f4069fcd274e988e2978",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/protocol-receipt.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/protocol-receipt.json",
+    "original_sha256": "829b13088b37d0a5f372c9f2edcb62b8393dcf2bd549a9ce0439bf47f44f68bd",
+    "public_sha256": "1c3ea36245ec13c2dd2f438f9cb7635ce374712cb3c9c7d377083851977c8784",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/protocol.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/protocol.json",
+    "original_sha256": "0cd970296b115a878c9a234adeb9cb8f0c418f56a05b67097ec7628971d64469",
+    "public_sha256": "0cd970296b115a878c9a234adeb9cb8f0c418f56a05b67097ec7628971d64469",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/report-receipt.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/report-receipt.json",
+    "original_sha256": "a19a72d4880cbcc73bb2a4d4d9b2e6134777ef516f36b3649ba3fa9a48e2b57b",
+    "public_sha256": "9f0a600d40491cdf00dbac16b294b49dd6213ee4006fdbc370d3177bf618c9e9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/representative-cases.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/representative-cases.csv",
+    "original_sha256": "8323ea266276472541335290935c66f54b9e496a30af1f335eb790af6805470d",
+    "public_sha256": "d022bc0dcd01d975eeac711cdb60cfd2240c97f2e0be59011e59f1da83d692e5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/unusable-stocks.csv",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/unusable-stocks.csv",
+    "original_sha256": "b9811bd451624707a7c2717c21d5275878638418faacddaa654712dca19d6dff",
+    "public_sha256": "d24dc629ccfe5bae1d290062123e51db120660b68e2a789e1558b27214da72e9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-distributions.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-distributions.json",
+    "original_sha256": "1c64c823c4268bed7c01aec35f9fb70048deeb9631f19f64a6ea5f92445f3cae",
+    "public_sha256": "03447655144a2021732cce2f30820e7aee6777c8c9b57e0b26a787e9e0365067",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-final.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-final.json",
+    "original_sha256": "966971beae66f49c2d401953ce351d09f2eb974143265a6e77947e3a4826f075",
+    "public_sha256": "0711762b061508b6223298446d77385cf40ce87f429b54c85ebfca6efb729898",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-path-matching.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-path-matching.json",
+    "original_sha256": "813183d155d6f22c40925ee2c4bcfceedb43512c86c3b1497931d85a9bfc4d5c",
+    "public_sha256": "00b7e8f68a9eab7f68c051c2d53d43e82451766187cba62f38264e64e5eb769c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-path-reconciliation-smoke.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-path-reconciliation-smoke.json",
+    "original_sha256": "e09ac0211db59e38238e6a22a4dca4363f1dd965137210eba295a427580352e6",
+    "public_sha256": "0a963a809ad870e8b079cf198f78800fbf0727970908618767d16cc60ff0c8f3",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-path-reconciliation.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-path-reconciliation.json",
+    "original_sha256": "ce70e850e9b89deb1de5bde002a5bd6331f8ff39abc5f401b17c37e715b5b891",
+    "public_sha256": "4e105e8906c92e14b445e065c02c412d79a7ba2a64265add62dcdbd20e1ea2aa",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-preliminary.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-preliminary.json",
+    "original_sha256": "1283762c227949c97400b5ee4cf580f3899618fc6d078d913d2373607f3213b1",
+    "public_sha256": "7e78ac4e591365a4dc053dec378b1dab8b7672ca66067196f83aae6f1318d11f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-longhistory-2026-10-29/verification-streaming.json",
+    "path": "docs/research/uptrend-longhistory-2026-10-29/verification-streaming.json",
+    "original_sha256": "2c83f309320d1ba8b61845598f470efe3e1e95625e9ab8cc9274a41845b5a2f6",
+    "public_sha256": "d4d8f375d4730529c56a3c39c10b1f568b9ce09e14cd76af2be7077d9f2bffa3",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29.md",
+    "original_sha256": "94ab7615945c7dabd89949cfc144d91247505005626629ff13715176df6b071c",
+    "public_sha256": "075756bb9b69fc15fddb174ec09d81a4b5f35c3c31e0dc3e10783edb53bc3530",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/all-signal-paths.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/all-signal-paths.csv",
+    "original_sha256": "28865e38b4992cedc97a1d0803633f1a1e3eae3fcc702c8e14ad915808f2b9f4",
+    "public_sha256": "ac19e85c8cc46484548b0ef4210adcb2b4f31021e7dbf020bc3a954788fffe2a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/all81-path-summary.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/all81-path-summary.csv",
+    "original_sha256": "4326224a6b7267d0bc3b6d8c212dcbd88ae2c94bea83e0c3866eff3763692497",
+    "public_sha256": "eb4b3b207284c0e6c749c327d4fd28386ec31ae2b4d396e950ea0848f8b7db3e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/artifact-manifest.json",
+    "path": "provenance/original-manifests/downtrend-longhistory-2026-10-29.json",
+    "original_sha256": "468b52b5bba26f5dd7454a74aab9a2212cdb0ead712eb4d0ac94ea2367fa9abc",
+    "public_sha256": "ab5d666ee5e1895b7cd78cac016d6d64861ae2273458cb00947c63c37a401c18",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/balance.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/balance.csv",
+    "original_sha256": "cb31bf0eddbed071ecb9c4ced5f394a8c439c653473118a7607d92f3a17a0cdc",
+    "public_sha256": "fd652e2bfb7825a2a045404a9be25792226ad1165274353a4101a50ccce8dc87",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/base-rates.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/base-rates.csv",
+    "original_sha256": "58e655bc3023d11b8dddf23d45e5e5196e57831be1ad9714b881fc7463813954",
+    "public_sha256": "ffa5b0f31805fc7a8ef79f2a95cb19dab2d0ec18e8851da95f016898949ed727",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/cache-release.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/cache-release.json",
+    "original_sha256": "4dbd1e693ecf25589fd3e9e36b3aa822bf6eca4f71dea0a6162c9e2da8e48dcb",
+    "public_sha256": "eb900830c4aea342b4a2a27d0925d32be301d3bbf9d49c8d2b1acb7df69d16a9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/cases-verification.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/cases-verification.json",
+    "original_sha256": "ba350650d1e0647077b7f34b41aff8d357d409f8e16d400a0c63d6486e64ab89",
+    "public_sha256": "90c862837518863760663aac1ab35a24c2a460b6af13eac233317f1807f8e592",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/classification-eras.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/classification-eras.csv",
+    "original_sha256": "c34b361dec6544a2bc4c77c731eec673957fdeaa900416ca4d90dea7bc18702b",
+    "public_sha256": "a5c7a13acc70375448c73fb6ee80f442f0d9f0ba683b6a42bd02a36cc742326f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/classification-inference.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/classification-inference.json",
+    "original_sha256": "8cb41ae2413527667e1ebf9c1d6fc57c606b32cf93ac60fda4f050d2a2ba6e75",
+    "public_sha256": "785ed2c4cba0c5a67c41746297489e52d29effc20be29d9af1a1e258809aa609",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/classification-intervals.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/classification-intervals.csv",
+    "original_sha256": "b6f15dd89b53729fbef8ee7085739dcfcdec94e8e9c39beb115c88e0565764a0",
+    "public_sha256": "14f77e47e778482303b62e767587b58d872456ff294b386f77b83475c7b34792",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/classification-periods.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/classification-periods.csv",
+    "original_sha256": "9041e314040bd26953b216141a6d1dd35e7adbe3742e63a51b6de36d2e98537c",
+    "public_sha256": "5f68814107cf636ed38deb20fc75cbfefb2909eb51b5322c3d297b7745f15999",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/classification-yearly.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/classification-yearly.csv",
+    "original_sha256": "5927e6a5e651e9bb7e5fc13e427c23533c7f7de631f771c133e472631ba07a46",
+    "public_sha256": "e9566a7f444cd952529f090603006a1e393062fb28fe150a183ad439d8aca1c0",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-chart-cache.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-chart-cache.csv",
+    "original_sha256": "789d6bc57ab88d4085c3a69facc339916e6398ae035160ad87d79e4652c1a731",
+    "public_sha256": "e458ffa69f266292a47627a000fdfc918aa5a66f9df7197656523456b5d2fad7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-excluded.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-excluded.csv",
+    "original_sha256": "93043b40d6a12628975324030577a55c937c59ba013fc42495b15868be3b10e2",
+    "public_sha256": "5199232e684be5e3ccdfaef4a471985f74c66e70c07abf012e4558454e2d7a7b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-readme.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-readme.md",
+    "original_sha256": "13075d53089d7de975b8a3e4530b24115d88aa085448c5845fd6afc8bc66cae6",
+    "public_sha256": "13075d53089d7de975b8a3e4530b24115d88aa085448c5845fd6afc8bc66cae6",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-stocks.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-stocks.csv",
+    "original_sha256": "bcad57d4a1197c6664823e0ab72c9882e7ae9a730357330fca58445ac277dcfc",
+    "public_sha256": "278e62183571a673730e0f903feb3640fa74a945ab890a7804fc8ab44c6f8a91",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-summary.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-summary.json",
+    "original_sha256": "4dd021f8e35853beacd22a00818ff0d9f1ccdce45163cff67dae1217d70dd38c",
+    "public_sha256": "40f5bbad5e6d11de52cad22c4c489f2254f9e50cd8d9f521d13f33d51fe116cd",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-validation.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-validation.json",
+    "original_sha256": "6093a0717eaa4a3f49e16ace7d7f35e830b5bf6d06bc4733afc56b21708dc860",
+    "public_sha256": "aa26e792cb5540b83ab67321bad171af21ba2ff6502cf6fa140a9365da7761f3",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/coverage-years.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/coverage-years.csv",
+    "original_sha256": "1a958342a7d9f6b52c3f7cc07ee76dc62c11d9ef6b795a3bf7bfd004c9baef00",
+    "public_sha256": "c241cbb2885b26b529a9e2e3b0b6e4d7cdfe608e6f82ecc1b003bbb740f913e1",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/csv-catalog.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/csv-catalog.json",
+    "original_sha256": "75e61039bd3917f147aa81ff7e1080d47e39da58fe2bcda407e7e74b4f6aaf6e",
+    "public_sha256": "714124aabda053189117b5f38bb3f28d77b4625722d61e55b2f235685ee47b3f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/CSV-README.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/CSV-README.md",
+    "original_sha256": "14f500691d83ab5432ae127ca9fc624b4e82004f57c8f221be3a77eee8374472",
+    "public_sha256": "2e977c49200c401710732d1d7e28dd64d0048ed30c8dc9908b2bd255238d4dd8",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/delivery-verification.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/delivery-verification.json",
+    "original_sha256": "2a2f85e4ae1173b3e553a7cddd512a235125123ed307f4156308983b6774978f",
+    "public_sha256": "ac80a6f5099a1939f0073e5ebd0aa5acf5e9c41f3473355f1d7bf19d9c8dc6b6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/derivation-source-hashes.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/derivation-source-hashes.json",
+    "original_sha256": "cc4e3eacaac1d134223980c8aaf7d2d6dcff19d1299542d8a35c75e32e5b72c8",
+    "public_sha256": "f942db2647b8fac136f9a141823a4a915bfccd0766c003035991de55ac6d3c08",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-summary.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-summary.csv",
+    "original_sha256": "5780953a03d5322787549a503dd83a184a1fc172fafc40a8e22e440f2461c2ff",
+    "public_sha256": "990e9239ae6b4597e1c47a24a3c6ca5d6c7f6a2e46de71a32b1260fdc4e35b88",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-summary.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-summary.json",
+    "original_sha256": "091f909e3127a94a21bf8149f5bb8f34957108083fc95961dde02bc4aab80882",
+    "public_sha256": "6b0e56c56031a7160952e95637262eb4bab5088879a224c6aea5ca442a289ca0",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-validation.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck-validation.json",
+    "original_sha256": "88d3f165a4237c0bfb87db9abb00ecdd0dca7524650fa6a3bf957c1247db9572",
+    "public_sha256": "cf78df7a770f86baa79a6379d514772b4a66a59a3dd2aac3bf12e572e6c9f476",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck.csv",
+    "original_sha256": "760f2980d50c4bb3b65dc6452ff16cb5710055ea945e1202315464e3214fdc44",
+    "public_sha256": "dd9a33d01af7d75ea5b710bc59dad783054d7e51be2d1994218d2ad4cab0287b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/endpoint-recheck.md",
+    "original_sha256": "969e691eb410f09a4ce19807566b1add7bb2b415fb3ca3f7c85c654a5637f317",
+    "public_sha256": "293133f1f9f8a6376354c8b271ebb9b27d11da3dc1b079650508d5955e5e2ed7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/environment.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/environment.json",
+    "original_sha256": "29cb3fe2c5993ed457256ec4cec1368714ab67b23f27ead5b182994161ca8ed9",
+    "public_sha256": "a94f47c11a06b160dd76a57fdcc668153c7fdd98d7488bed3cc0d8dd52e759f8",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/equal-stock.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/equal-stock.csv",
+    "original_sha256": "54c3b8de5636acfe887ce1006a3ee4c37d7e67275be9e2c5774c268d240c148f",
+    "public_sha256": "99b31a285017d1e9dfef248450a17e92c110d8d931220e5cfed8334b35183235",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/evaluate-coverage.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/evaluate-coverage.csv",
+    "original_sha256": "d07d99aaaf49dbf82d3fe9513815e770b01569bf7dcf17ef290a36810d17e1b8",
+    "public_sha256": "a3b9e1a423f903579a55d53dc8263e5874ad4909ccb860f832cdd9a8baab99af",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/evaluate-duration.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/evaluate-duration.csv",
+    "original_sha256": "f7f0c223a68f8799976bb5b97af34721214e43135a47c250a7a1f302f944a8b8",
+    "public_sha256": "33a5eef341e17c39dff83aa61620f1e85a5b6ff94a5b6439b9cc978b752f9eb6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/evaluate-metrics.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/evaluate-metrics.csv",
+    "original_sha256": "1f59b76d1afa8b8fc0b02dc2c53519423a614b7a1fd9d153eb101b44e6093ad8",
+    "public_sha256": "c287e2e815b0560a1726c4325dbeba7ac365c735626cdbf1e60942bf2878ccd6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/evaluate-sensitivity.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/evaluate-sensitivity.csv",
+    "original_sha256": "959a014d47772fbc639d07cde74855863b41cea1648a366c2ba66cc631214ceb",
+    "public_sha256": "340e8fffab144710349407ad5be72d23925032cc48f00604bb6fb09f4b4c8c3c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/evaluate-yearly.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/evaluate-yearly.csv",
+    "original_sha256": "1c05295a3e6069ced001586ecc04f969ede383427b5a1d38fa0744b9c010b028",
+    "public_sha256": "bb452f11f010ca85b351feabf3e15fedf356587ea710ca75524a0ebc85c367eb",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/frozen-protocol.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/frozen-protocol.json",
+    "original_sha256": "396d03ff3a6582577f6b5f011b43a3ccdcb84751397862ef9bc0f108e7e523c1",
+    "public_sha256": "af854ddcd9e87019a431c65cdcedf7d77435201cbab9e3b211dc8f342b2e7515",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/illustrated-cases.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/illustrated-cases.csv",
+    "original_sha256": "e05dba2971f0a050e84a69d03b1178e4d7b77a36128cc29444b7e46a36b9f7fe",
+    "public_sha256": "9df26eea22e3373346318611666c9c83101cf64d587319aae148ce07c762bb7b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/input-manifest.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/input-manifest.csv",
+    "original_sha256": "3423ec3208009f62bc49e5e5c15d85f435a6e6b444ceeb9e6844a82f00997ce9",
+    "public_sha256": "a54da2e70894a32ef6613eb69f875645e15414e1ba699c01223a23c0d05e1b6a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/interpretation-classification.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/interpretation-classification.md",
+    "original_sha256": "a984f526aadd8a7cd4e5031e137f867b9d8c2e358c8981fdfce0de7550490080",
+    "public_sha256": "4d43d6f4877f406796d141073b09df5d3d601912ed52df5324ee12ae6bfbaf87",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/interpretation-paths-validation.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/interpretation-paths-validation.json",
+    "original_sha256": "401a264ac552455f4c4e8a27b5c6be0b4a2c43dca88019ebc30f6433d29a8e02",
+    "public_sha256": "80a11037c50cd69caf814596bbe1c97cbc332c1dcc0156c7695dc74b8f3d31d7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/interpretation-paths.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/interpretation-paths.md",
+    "original_sha256": "e6db12a6aeea36fe9a3dac6b5877b673754f28909f9b4006bbf663689963fd88",
+    "public_sha256": "e6db12a6aeea36fe9a3dac6b5877b673754f28909f9b4006bbf663689963fd88",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/interpretation-validation.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/interpretation-validation.json",
+    "original_sha256": "772e9d724d3020624f917a54be0dda2675f3cb8fbfc19f66a5ed08604575fa6f",
+    "public_sha256": "261d1e868bd47af968ccaf98217308e5f7937fef436911218790e769d31daa4a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/interpretation.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/interpretation.md",
+    "original_sha256": "5eab7500da674df856d8f43690184a11cc17c2fefe704ca06af909e6319ee248",
+    "public_sha256": "5eab7500da674df856d8f43690184a11cc17c2fefe704ca06af909e6319ee248",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/KR-cases-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/KR-cases-data.csv",
+    "original_sha256": "3e9de0d9d99d069bf5ae206a9d9386efd91efcf584b6ecc7f6d29fa7e5518194",
+    "public_sha256": "630af7b811673139ab7aa9f2385b8612af28f941a1ad51db4ceb08b6d08372db",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/KR-cases.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/KR-cases.png",
+    "original_sha256": "b6615aed9d02e58ee4ef9a35cce531ac97acb35b4a489423fb55dcd20aee1d69",
+    "public_sha256": "b6615aed9d02e58ee4ef9a35cce531ac97acb35b4a489423fb55dcd20aee1d69",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/KR-signal-definitions.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/KR-signal-definitions.csv",
+    "original_sha256": "4979c49caae238ea20f3a3ff46870fe3ae536189c8bff7a1cdfbc5330ad1dfd1",
+    "public_sha256": "8c62e6ee576f5aecbb19188ca7b8c3c614f7edd67a7c450836394f8b1923d5db",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/literature.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/literature.md",
+    "original_sha256": "7807ba80721d50bef246afd5a37848d3dcf14ac6cdcc3ca56d98d50589a061cb",
+    "public_sha256": "7807ba80721d50bef246afd5a37848d3dcf14ac6cdcc3ca56d98d50589a061cb",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/matched-paths.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/matched-paths.csv",
+    "original_sha256": "18b5012b19667df276433fa8f26944ee823f96a9705e0b16d705f339e032af64",
+    "public_sha256": "58dc574ba8aa4029407d4e13d17e47250b008dd5888ad8c45fddfe9df2dab460",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/matched-summary.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/matched-summary.csv",
+    "original_sha256": "47d476f3e811d286928bf56d1ac83df7cde115ff28929951b0f0a61fc2753ed6",
+    "public_sha256": "d66b5ed113a225a9568120097ce86f4f64879ca7906bf2399541707851af504e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/methods.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/methods.md",
+    "original_sha256": "c034ff4f797e4d93de82f33a18f8c31418c88cb724eac34dd00771cf6f4884ec",
+    "public_sha256": "c034ff4f797e4d93de82f33a18f8c31418c88cb724eac34dd00771cf6f4884ec",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/paired-benchmarks.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/paired-benchmarks.csv",
+    "original_sha256": "b6c74a563899b44e720e5b01f8ced4c0b7691f9c7a953fffcd9c7ec0bfa6fee9",
+    "public_sha256": "fe1f0b994c2eef3b78c9f248618487f6df65082090af6409e35297f4af71121b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/paired-summary.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/paired-summary.csv",
+    "original_sha256": "638c5b7becefbfb96c12e5a577fb742ec2a69d9b8c50ecc191d1b2d29ca144a1",
+    "public_sha256": "cf64a521be5d3ca7f794be5252a77c750d94952df21b59305fbd02d66004917b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-cache-release.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-cache-release.json",
+    "original_sha256": "296d278c5dbfab54363ba86f22e69cffa97ef988279b7f91ad116a6e9d316b1a",
+    "public_sha256": "3bf0cc2a9a4bdd1cf042e8660fceac238fd90ca9849c615c95ae66ecce71a669",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-distributions.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-distributions.csv",
+    "original_sha256": "091255641d6750faa67418573ccc1298b4702363a012a38027e835bdf9a7d076",
+    "public_sha256": "f995d5bc4c454c64fb95615a12c0f8d36dfba6036160cb952b9a6f8cf31db62b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-equal-stock.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-equal-stock.csv",
+    "original_sha256": "576cbb3f1ad981bd9c7a5708a124d1875846ee998098fd7710853aafd5329161",
+    "public_sha256": "9cf05ba67c439c12d8d99b2764a24f54cc74c456540429ce98cc8e6b102ef85e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-eras.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-eras.csv",
+    "original_sha256": "1b71ce866f3ed891c0ac8faf4897d9b9ecfbe06b7ec42e580614ff8496b1bccc",
+    "public_sha256": "98d9e792d7f357ca6e57f60fd83109761f821a2134476bf200a09eefa97b15b7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-periods.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-periods.csv",
+    "original_sha256": "7c2aa59412ccdb4f1e568a29260202cda44245d30662a2994a2ab231db8ac3b0",
+    "public_sha256": "73e335af107ad2720b148ed0f97bc9c5e33f2537b7e03099e0196a41841f3878",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/path-yearly.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/path-yearly.csv",
+    "original_sha256": "3b9ee9a20a58a7542bd11f29a96e5e450e2b10fd5ed0f1a28dfc05ed210dd24a",
+    "public_sha256": "76eddc38dc7992a40cf427ca0dc288eeda820b79b4d70187ae5b4f3b0c8292c8",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/paths-compute-receipt.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/paths-compute-receipt.json",
+    "original_sha256": "2165efc6e41ecab0d41754509d06f38b5d227d3356eed23a63858924a0d0c1a1",
+    "public_sha256": "582b2222e92000a0770ec090cb975b11126d55737b7f12f40415e3f5793842f8",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/paths-inference.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/paths-inference.json",
+    "original_sha256": "5a3a928a172037023b595f3a873e18c0df46908fd58ec4b137f4f0a144a13198",
+    "public_sha256": "3fe181608a98862168d21241077a06f782dfe9267dd15033fe235790b680168a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/primary-summary.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/primary-summary.csv",
+    "original_sha256": "b844cb1e6749ac4c635007824a20126887f7b8db0f3b277f24292a0df94d2cd9",
+    "public_sha256": "a4ce5b2aac6b48c96abfc5144b2fbe63244864c427cfbc0199da6dedcb48e2f9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/reading-guide.md",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/reading-guide.md",
+    "original_sha256": "1dac164f9f2d0d425bde58f378d497c387c2ad7141879b94ce4de88e0be9bbd9",
+    "public_sha256": "1dac164f9f2d0d425bde58f378d497c387c2ad7141879b94ce4de88e0be9bbd9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/released-classification-cache.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/released-classification-cache.csv",
+    "original_sha256": "3e69d718d7f96b9500009ae084b79ce72950ec8f35daa3193f71ff3e6711b2c3",
+    "public_sha256": "467201fbf003cbcab55dde231443e766476ff724f66d0d9d6c55fc234741afc7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/released-path-cache.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/released-path-cache.csv",
+    "original_sha256": "b3545930880ac4af6560aaea9277cc9fc8c008f1f537bd8b155a1afb5f2ae096",
+    "public_sha256": "cad541666820978c75211eb20835a0c62a908ea4d020e42a454d70d5c0ae0156",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-coverage-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-coverage-data.csv",
+    "original_sha256": "1a958342a7d9f6b52c3f7cc07ee76dc62c11d9ef6b795a3bf7bfd004c9baef00",
+    "public_sha256": "c241cbb2885b26b529a9e2e3b0b6e4d7cdfe608e6f82ecc1b003bbb740f913e1",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-coverage.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-coverage.png",
+    "original_sha256": "4d37057cc957435842d05aa6bd5d9aa0ee03fc16a677855afe5c2f94ee1038a4",
+    "public_sha256": "4d37057cc957435842d05aa6bd5d9aa0ee03fc16a677855afe5c2f94ee1038a4",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-eras-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-eras-data.csv",
+    "original_sha256": "c11663cda4c4322ded99e4fbeaf9480a79a991482f1ed5c1221947220a24f4a2",
+    "public_sha256": "47f4fa3365bd332f7a5e9dcea1d253bf5bd1dbe59dc75ae06a180406d0f85816",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-eras.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-eras.png",
+    "original_sha256": "137539834a50c2eb45729d99e9b1b8dcb340703a12beaf6f1d2bb2db1a3298eb",
+    "public_sha256": "137539834a50c2eb45729d99e9b1b8dcb340703a12beaf6f1d2bb2db1a3298eb",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-frequency-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-frequency-data.csv",
+    "original_sha256": "ad2b9928f7e7588ec2d30c650e0edd19e9352a3ec001fb9310be63ad71da25d9",
+    "public_sha256": "4f5b23d73c83f59f3f40f3c9bdaf6c503f1677cf904a39cbef28bd1bb1111f3d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-frequency.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-frequency.png",
+    "original_sha256": "657371e9de12082771bab67c2e78cf28fb075dcb6425b35e70e74da51bd22e57",
+    "public_sha256": "657371e9de12082771bab67c2e78cf28fb075dcb6425b35e70e74da51bd22e57",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-risk-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-risk-data.csv",
+    "original_sha256": "e9ad694998698b060a377606b99dff86c6c050143cdcde4a6b0f55b45ffe587a",
+    "public_sha256": "ec282ab4c65caefd0189da2e64dfebb6e85a85d08df9178073c7e5d3076ce205",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-risk.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-risk.png",
+    "original_sha256": "72b0b0b8c01565480a799e8e0a6d0e55b8c4864e0f6e4c93f1636a12f971ccd1",
+    "public_sha256": "72b0b0b8c01565480a799e8e0a6d0e55b8c4864e0f6e4c93f1636a12f971ccd1",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-tradeoff-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-tradeoff-data.csv",
+    "original_sha256": "ad2b9928f7e7588ec2d30c650e0edd19e9352a3ec001fb9310be63ad71da25d9",
+    "public_sha256": "4f5b23d73c83f59f3f40f3c9bdaf6c503f1677cf904a39cbef28bd1bb1111f3d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-KR-tradeoff.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-KR-tradeoff.png",
+    "original_sha256": "c82fdd06f025b31dd61cc795bf74f22ec147a53f0bb8bd5664f69dd5c9c8ea45",
+    "public_sha256": "c82fdd06f025b31dd61cc795bf74f22ec147a53f0bb8bd5664f69dd5c9c8ea45",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-timing-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-timing-data.csv",
+    "original_sha256": "46819ab1a246e9f3c7c3dc0aa4a69907312a963ec2f224cbcbc0ddaed6936f1e",
+    "public_sha256": "d473ab3df4a67d85631b829f69bedcfe387f460ed490839743f2c6599ae92da7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-timing.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-timing.png",
+    "original_sha256": "d4e60eb3d27717622c8ae653d8de46d16870abd51c99fa528f7a3036b85f846b",
+    "public_sha256": "d4e60eb3d27717622c8ae653d8de46d16870abd51c99fa528f7a3036b85f846b",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-eras-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-eras-data.csv",
+    "original_sha256": "66bb37bbd08955e018939c8e58e3c585ea6840474c3a7cf33b4823903d9b11f3",
+    "public_sha256": "c6dc3b89916c6af489dd1bb0016ae541351f2f24d6d7ec6ba06e239d6fd3d4a9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-eras.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-eras.png",
+    "original_sha256": "043cd67068995e844a7dd80df85b662db03337a9f279f39c3e45a773003763fb",
+    "public_sha256": "043cd67068995e844a7dd80df85b662db03337a9f279f39c3e45a773003763fb",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-frequency-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-frequency-data.csv",
+    "original_sha256": "7d35566e63ed0c27eabfacf078f68ec89b580109eaf8248be7c76728ac24c02a",
+    "public_sha256": "5e4511ad789342ff880c14615612578a0bee36c57d949fae9acef5e43c06b893",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-frequency.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-frequency.png",
+    "original_sha256": "a9fe53c0a2eccf7d8edd7fc24fb3e85ffc960636cf68915f0c13d6638462c383",
+    "public_sha256": "a9fe53c0a2eccf7d8edd7fc24fb3e85ffc960636cf68915f0c13d6638462c383",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-risk-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-risk-data.csv",
+    "original_sha256": "d65cbb241e78897d02b6df276c04fb320bc848d0bfb02aa9f43bed79c243308c",
+    "public_sha256": "bfd3531104ed40b63141a34b13fd4f33879d83d969e3e4767b87ad46a5110abe",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-risk.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-risk.png",
+    "original_sha256": "47c7c76f1006c7f1ba00fc6e9f3d7427cdbd54d841e2eba588df4edf8a67352d",
+    "public_sha256": "47c7c76f1006c7f1ba00fc6e9f3d7427cdbd54d841e2eba588df4edf8a67352d",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-tradeoff-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-tradeoff-data.csv",
+    "original_sha256": "7d35566e63ed0c27eabfacf078f68ec89b580109eaf8248be7c76728ac24c02a",
+    "public_sha256": "5e4511ad789342ff880c14615612578a0bee36c57d949fae9acef5e43c06b893",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/report-US-tradeoff.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/report-US-tradeoff.png",
+    "original_sha256": "4b44f642dfc78e38bde46207cb5d8358628a9a9f527de65b19ebc4873abec43a",
+    "public_sha256": "4b44f642dfc78e38bde46207cb5d8358628a9a9f527de65b19ebc4873abec43a",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/tail-producer-receipt.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/tail-producer-receipt.json",
+    "original_sha256": "1b529f13a3152c7dfea33e7a0b6dd069ea77527a1ecfc5c8a06fd3d550535032",
+    "public_sha256": "5b35af68a3af6b39a3734f09e65116ff8f79a51436e3a12348906e7613ed98df",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/US-cases-data.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/US-cases-data.csv",
+    "original_sha256": "ca0e4ceca4ea12d449c7263f754ab9814340b16052d0447ecb65fdf54e6510d0",
+    "public_sha256": "d35896236682f665bc45d4fd66c03cb88772f59930ff4f3ba0a35996ae688d30",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/US-cases.png",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/US-cases.png",
+    "original_sha256": "65c9cc0c348c2ab1d57de10c178b18b16c2339906f7f65d25ca1a3d06055e2bf",
+    "public_sha256": "65c9cc0c348c2ab1d57de10c178b18b16c2339906f7f65d25ca1a3d06055e2bf",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/US-signal-definitions.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/US-signal-definitions.csv",
+    "original_sha256": "4979c49caae238ea20f3a3ff46870fe3ae536189c8bff7a1cdfbc5330ad1dfd1",
+    "public_sha256": "8c62e6ee576f5aecbb19188ca7b8c3c614f7edd67a7c450836394f8b1923d5db",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-longhistory.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-longhistory.json",
+    "original_sha256": "d19c1063eb08d59b1a7564e3c394e4a9589a36b93679eb3b16f8074bdc56466c",
+    "public_sha256": "ba26136550d6189d5080ebfc7dd7108ec57dd9f8100b56dba0ed82bc52c79b7d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-path-interface.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-path-interface.json",
+    "original_sha256": "4de8ab6952614c00999004b07caf522fa768fcf3acaecb5ee011155cfa478d34",
+    "public_sha256": "69a354674d6111d50b2052f2ea6975349076fa3a2304a8e1e67eaf52247e44d6",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-path-matching.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-path-matching.json",
+    "original_sha256": "0066982682711106e6002eaed9a99600dc18921821707c04101556cfe302567a",
+    "public_sha256": "d601a6b7999bcd9fa5c981fb768e25d4f7158f643ef308dcf384aea3c42bc91d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-path-reconciliation.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-path-reconciliation.json",
+    "original_sha256": "87de2e270c19e32240a3264752e402eb94a996b0991fd31ad379340abeb7d87b",
+    "public_sha256": "407f5e4f8fedb931d5ce9fb516c345168a6cbee457eb144ffd90120647318e73",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-prior-reconciliation.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-prior-reconciliation.csv",
+    "original_sha256": "c93fede57aaceaa03090fc326c37dd596912b5d510907a15d2835373664354f7",
+    "public_sha256": "05c5905efd0f223c8892a012cb0272aebf8b831c80d0df6109493202a0a4d88d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/verification-stock-reconciliation.csv",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/verification-stock-reconciliation.csv",
+    "original_sha256": "20fedc28de2cfaa0f09a3a2c189f74dbd3b974dd84d65db90fd5aa533a04608e",
+    "public_sha256": "0befcbbd01472f492c4288adb984486be60e010f7362cd653fdf72e8e4f7068d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-longhistory-2026-10-29/visual-review.json",
+    "path": "docs/research/downtrend-longhistory-2026-10-29/visual-review.json",
+    "original_sha256": "fe5397a1ac8727c5cbd1365e465e128dbe445d248ee5ba997bde31fe98f8c25b",
+    "public_sha256": "56cb647615e61499f5afee87dcc72dffbe96ab05d70d6d630ec104e8c1e738d2",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29.md",
+    "path": "docs/research/downtrend-terminal21-2026-10-29.md",
+    "original_sha256": "ecabff2a3b1fe7b12d462fe30586da26ee28a3a685151e4f8c18bef17ffc3686",
+    "public_sha256": "06c14f91a34862857aa91787e0284de447d99cf744edce986c9bfb3add25ea6a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29/all81-terminal21.csv",
+    "path": "docs/research/downtrend-terminal21-2026-10-29/all81-terminal21.csv",
+    "original_sha256": "56f9dc137f7e3d35c57f469398b4fbb5a1fea571b3629e030777364ffa6bc9a0",
+    "public_sha256": "eb4085534e212ae481b3a7d5c08cb77802694cb4bdc9ca2a5e472ad16525b201",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29/annual-terminal21.csv",
+    "path": "docs/research/downtrend-terminal21-2026-10-29/annual-terminal21.csv",
+    "original_sha256": "77892313f62949cd9bba93688311e903977b994bf47e761abfa334323d8422fe",
+    "public_sha256": "9da266e4109c7bdf035a9088751168c3faf4fd356cd9ba4a16a47a36a6e84ac7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29/report-verification.json",
+    "path": "docs/research/downtrend-terminal21-2026-10-29/report-verification.json",
+    "original_sha256": "2a8332564585a09e9bacc6a4497880f4a45971024cc0aea45f2659dd0d52a481",
+    "public_sha256": "c1e58961340ee0699666ae041bbd205397c44c1cbc606ad3c148769a8aaf3ed8",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29/top5-terminal21.csv",
+    "path": "docs/research/downtrend-terminal21-2026-10-29/top5-terminal21.csv",
+    "original_sha256": "dfaaf8e4da22b0f6f15fc985d9eb24f71d81757a2f3cc848b1f2348e67afc306",
+    "public_sha256": "1aff2588884484ce58a5d6550c84b3667cd6924758794cd44a640b9385d5be5d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/downtrend-terminal21-2026-10-29/verification.json",
+    "path": "docs/research/downtrend-terminal21-2026-10-29/verification.json",
+    "original_sha256": "1f6261c5ef6b6be2021d652574d6a2f6de0919fa716547e81a09f0cc5b001bee",
+    "public_sha256": "3c70d4ca30d2ac41db65a89a4980778ff4e56eca2e61c67a6b1168e462ad049a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/artifacts.py",
+    "path": "scripts/research/uptrend_longhistory/artifacts.py",
+    "original_sha256": "792cff2d3503a74d7072980a13785073629bb3a10c205b8dcc38aad312ca6b63",
+    "public_sha256": "792cff2d3503a74d7072980a13785073629bb3a10c205b8dcc38aad312ca6b63",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/cases.py",
+    "path": "scripts/research/uptrend_longhistory/cases.py",
+    "original_sha256": "c1ac17fc110b7f9333c9901ba7c105b340221ba48f8852cf585bf7621da2162f",
+    "public_sha256": "c1ac17fc110b7f9333c9901ba7c105b340221ba48f8852cf585bf7621da2162f",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/cleanup_distribution_spool.py",
+    "path": "scripts/research/uptrend_longhistory/cleanup_distribution_spool.py",
+    "original_sha256": "d07ceea112cf59e64c513db6a1f8850f2a8663596ee493f207ffb211ee12c488",
+    "public_sha256": "d07ceea112cf59e64c513db6a1f8850f2a8663596ee493f207ffb211ee12c488",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/coverage_audit.py",
+    "path": "scripts/research/uptrend_longhistory/coverage_audit.py",
+    "original_sha256": "0ef4a726a7ecb11c2ac05a756f9cda8cc425c390a2a0a4ebd7c4f9b1cbd7c29c",
+    "public_sha256": "0ef4a726a7ecb11c2ac05a756f9cda8cc425c390a2a0a4ebd7c4f9b1cbd7c29c",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/distributions.py",
+    "path": "scripts/research/uptrend_longhistory/distributions.py",
+    "original_sha256": "26a5610f75fe0b40462b8efd8ac5b375b376e9a136dd54dab9db3f4bc082afd8",
+    "public_sha256": "26a5610f75fe0b40462b8efd8ac5b375b376e9a136dd54dab9db3f4bc082afd8",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/endpoint_audit.py",
+    "path": "scripts/research/uptrend_longhistory/endpoint_audit.py",
+    "original_sha256": "1609afe2186485aca7a160fc31137616e5267f25a41fb369119f758e7876447e",
+    "public_sha256": "1609afe2186485aca7a160fc31137616e5267f25a41fb369119f758e7876447e",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/export_events.py",
+    "path": "scripts/research/uptrend_longhistory/export_events.py",
+    "original_sha256": "8feb5d35fcb71d6d97df74123ff3989ef284449053ac8391b9d2f9c42e0e6691",
+    "public_sha256": "8feb5d35fcb71d6d97df74123ff3989ef284449053ac8391b9d2f9c42e0e6691",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/features.py",
+    "path": "scripts/research/uptrend_longhistory/features.py",
+    "original_sha256": "0d9ce9310782de391539c0d1b1f8a2e09ffd6157dbf8b125f93f4ad1cb98185d",
+    "public_sha256": "0d9ce9310782de391539c0d1b1f8a2e09ffd6157dbf8b125f93f4ad1cb98185d",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/followups.py",
+    "path": "scripts/research/uptrend_longhistory/followups.py",
+    "original_sha256": "b03fee141dea3c4505ff68c6699f7a51cb786efd998f8eb43dd666b72cc6fc75",
+    "public_sha256": "b03fee141dea3c4505ff68c6699f7a51cb786efd998f8eb43dd666b72cc6fc75",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/infer.py",
+    "path": "scripts/research/uptrend_longhistory/infer.py",
+    "original_sha256": "6d281466e0b15a930aefb05a4619b2daecaff732cb49673413ae4c0f00405e64",
+    "public_sha256": "6d281466e0b15a930aefb05a4619b2daecaff732cb49673413ae4c0f00405e64",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/inference.py",
+    "path": "scripts/research/uptrend_longhistory/inference.py",
+    "original_sha256": "a784ef9bb66b8b01c7ff11f3a347206354d6d3325c0d86544b851130e2e21811",
+    "public_sha256": "a784ef9bb66b8b01c7ff11f3a347206354d6d3325c0d86544b851130e2e21811",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/legacy.py",
+    "path": "scripts/research/uptrend_longhistory/legacy.py",
+    "original_sha256": "0c596899cd8ffc0fc609fad71a78929e34569f076c833318a4e8b1ba8036ee49",
+    "public_sha256": "f0bef754e8d0d071a2dac92d2109d9197faab250a759f7098820a00a78df1412",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/new_signals.py",
+    "path": "scripts/research/uptrend_longhistory/new_signals.py",
+    "original_sha256": "1c65132d19d0f95de56d11b271ca99c271ba3157dd52f6a8664ba2316ab6c0af",
+    "public_sha256": "bbc9c03ac054a5d3b4d22b4c4a2e225f5b2cd390f1214206210a1790e1633659",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/old_signals.py",
+    "path": "scripts/research/uptrend_longhistory/old_signals.py",
+    "original_sha256": "2e3a201a0e5de9e321a92324c2cf218536e964a49920bd0b8d6b23b9b0c129c0",
+    "public_sha256": "25222b0f68266034eca108bcde8a29177d171a345091c1400698cf7dd59a171d",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/package.py",
+    "path": "scripts/research/uptrend_longhistory/package.py",
+    "original_sha256": "bce6cd458b60b32aae611205d9082a68d3be1730f56f245b6d97a54fa42ece4a",
+    "public_sha256": "bce6cd458b60b32aae611205d9082a68d3be1730f56f245b6d97a54fa42ece4a",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/paths.py",
+    "path": "scripts/research/uptrend_longhistory/paths.py",
+    "original_sha256": "84737a58b5f2e1fba1276616eee69c6fa36c2465fccc1ad94c979dfb35645424",
+    "public_sha256": "84737a58b5f2e1fba1276616eee69c6fa36c2465fccc1ad94c979dfb35645424",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/paths_batch.py",
+    "path": "scripts/research/uptrend_longhistory/paths_batch.py",
+    "original_sha256": "c131832722dba6f84af339aa38165597fb44034f78969f4a1d277b9de98195b7",
+    "public_sha256": "c131832722dba6f84af339aa38165597fb44034f78969f4a1d277b9de98195b7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/prepare.py",
+    "path": "scripts/research/uptrend_longhistory/prepare.py",
+    "original_sha256": "6ed467900219eaefb83bb8121711b8b06043703c501321ada4302fe139f4b3aa",
+    "public_sha256": "6ed467900219eaefb83bb8121711b8b06043703c501321ada4302fe139f4b3aa",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/protocol.json",
+    "path": "scripts/research/uptrend_longhistory/protocol.json",
+    "original_sha256": "0cd970296b115a878c9a234adeb9cb8f0c418f56a05b67097ec7628971d64469",
+    "public_sha256": "0cd970296b115a878c9a234adeb9cb8f0c418f56a05b67097ec7628971d64469",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/README.md",
+    "path": "scripts/research/uptrend_longhistory/README.md",
+    "original_sha256": "65825738aa6f9d26790316be6a286c4edbb7161a5d842fbfab83a6a21ca0d5c9",
+    "public_sha256": "65825738aa6f9d26790316be6a286c4edbb7161a5d842fbfab83a6a21ca0d5c9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/report.py",
+    "path": "scripts/research/uptrend_longhistory/report.py",
+    "original_sha256": "ff4032a2a929c0815e5b2fbb9fbda26ccadb1e97409070ba6c9d780b577f8e08",
+    "public_sha256": "ff4032a2a929c0815e5b2fbb9fbda26ccadb1e97409070ba6c9d780b577f8e08",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/study.py",
+    "path": "scripts/research/uptrend_longhistory/study.py",
+    "original_sha256": "a182b3fc340c03046f565cf74d020f1943650cffbffec50e3b4956a00b7f0d2d",
+    "public_sha256": "a4bb52f3c369f5d942a92d5fe58ec4d213f3ff2e0f1025be156724b698f44ad0",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/supplemental_cache.py",
+    "path": "scripts/research/uptrend_longhistory/supplemental_cache.py",
+    "original_sha256": "c18823d70cc4a4c1ce104eafaaee4a20f21749a3e4a7ab5ef97ed42bb280062a",
+    "public_sha256": "c18823d70cc4a4c1ce104eafaaee4a20f21749a3e4a7ab5ef97ed42bb280062a",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/verify.py",
+    "path": "scripts/research/uptrend_longhistory/verify.py",
+    "original_sha256": "29883094a0121b14e813a7eac0160457d5f6db74b9b505663a4adcd00c04cfdd",
+    "public_sha256": "29883094a0121b14e813a7eac0160457d5f6db74b9b505663a4adcd00c04cfdd",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_longhistory/verify_paths.py",
+    "path": "scripts/research/uptrend_longhistory/verify_paths.py",
+    "original_sha256": "edaf12b97b35a7a29114658e28140b5bd8fa58f555ccb401eedc29bc9e9378fb",
+    "public_sha256": "edaf12b97b35a7a29114658e28140b5bd8fa58f555ccb401eedc29bc9e9378fb",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/accelerate.py",
+    "path": "scripts/research/downtrend_longhistory/accelerate.py",
+    "original_sha256": "9a6b1a4ed2b42aa5dd9826860c1228ea2e62b8d35bdcf2ac5669be3a6cc81010",
+    "public_sha256": "9a6b1a4ed2b42aa5dd9826860c1228ea2e62b8d35bdcf2ac5669be3a6cc81010",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/cases.py",
+    "path": "scripts/research/downtrend_longhistory/cases.py",
+    "original_sha256": "6ba1c872167e8acc375569fd07ec26b6d931d4bb946c07c0e08ad5e85a7d0de2",
+    "public_sha256": "6ba1c872167e8acc375569fd07ec26b6d931d4bb946c07c0e08ad5e85a7d0de2",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/coverage_audit.py",
+    "path": "scripts/research/downtrend_longhistory/coverage_audit.py",
+    "original_sha256": "700275b813015ae68d5912b4d4dfb262147f15daf74dc50fea223985f78b5a73",
+    "public_sha256": "df762d4fa0c5af39a9c269821240dd7ba3c9f670eb0c05ade945ff16c3828c0c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/endpoint_recheck.py",
+    "path": "scripts/research/downtrend_longhistory/endpoint_recheck.py",
+    "original_sha256": "3e28443d3b32ae750441afe0571b4160019cf9aeb082ff1480a83275f2682d36",
+    "public_sha256": "3e28443d3b32ae750441afe0571b4160019cf9aeb082ff1480a83275f2682d36",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/features.py",
+    "path": "scripts/research/downtrend_longhistory/features.py",
+    "original_sha256": "978d84bc2cd93a7f7258a4129c15c73fbf80324e402e3ae18448743570eb03e4",
+    "public_sha256": "978d84bc2cd93a7f7258a4129c15c73fbf80324e402e3ae18448743570eb03e4",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/figures.py",
+    "path": "scripts/research/downtrend_longhistory/figures.py",
+    "original_sha256": "e51720bedcc9ef7145f23adfc52e1e882f2e930c405a4049980ecf38b7cd23ad",
+    "public_sha256": "e51720bedcc9ef7145f23adfc52e1e882f2e930c405a4049980ecf38b7cd23ad",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/followups.py",
+    "path": "scripts/research/downtrend_longhistory/followups.py",
+    "original_sha256": "77cdc27ad8940d6e2136265db63fbe25636391146741223c2fd7487cbacd5ad6",
+    "public_sha256": "77cdc27ad8940d6e2136265db63fbe25636391146741223c2fd7487cbacd5ad6",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/freeze.py",
+    "path": "scripts/research/downtrend_longhistory/freeze.py",
+    "original_sha256": "941056cfc49b1a74d9135ce3378fab3af46ce7d7d9168500800ea68a00d1cc48",
+    "public_sha256": "941056cfc49b1a74d9135ce3378fab3af46ce7d7d9168500800ea68a00d1cc48",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/indicator_math.py",
+    "path": "scripts/research/downtrend_longhistory/indicator_math.py",
+    "original_sha256": "1c65132d19d0f95de56d11b271ca99c271ba3157dd52f6a8664ba2316ab6c0af",
+    "public_sha256": "bbc9c03ac054a5d3b4d22b4c4a2e225f5b2cd390f1214206210a1790e1633659",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/infer.py",
+    "path": "scripts/research/downtrend_longhistory/infer.py",
+    "original_sha256": "03b673962dfe7402280cfc723eec1a6d8b8b0dc8cfbcc1a0d8c39e57cd528735",
+    "public_sha256": "84e5f1a707669131c684fb8779815cc26dad75bbe1efe74aa57948002574359a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/inference.py",
+    "path": "scripts/research/downtrend_longhistory/inference.py",
+    "original_sha256": "67d19c06b186d5af8c9b4cf95757e32bef82102c0e3dbec3c73bb2288b87dfff",
+    "public_sha256": "a784ef9bb66b8b01c7ff11f3a347206354d6d3325c0d86544b851130e2e21811",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/legacy.py",
+    "path": "scripts/research/downtrend_longhistory/legacy.py",
+    "original_sha256": "0c596899cd8ffc0fc609fad71a78929e34569f076c833318a4e8b1ba8036ee49",
+    "public_sha256": "f0bef754e8d0d071a2dac92d2109d9197faab250a759f7098820a00a78df1412",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/new_signals.py",
+    "path": "scripts/research/downtrend_longhistory/new_signals.py",
+    "original_sha256": "cbae64d4bd2c52b85e02f2e5bfa03ba888ad33dcdcfb7db4309e6448cfa89464",
+    "public_sha256": "d75971940638528eec617ddac59be7d2397a692377ebbc404a45308dbc576d5e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/old_signals.py",
+    "path": "scripts/research/downtrend_longhistory/old_signals.py",
+    "original_sha256": "1b5e4cf80fb2c402dd60b26064001429d272453c404e5c239a999e45afbebac7",
+    "public_sha256": "5c4bbea959db7175308faa3c655d7c61dfca15cab8b101a4b7ae65b3f990e425",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/package.py",
+    "path": "scripts/research/downtrend_longhistory/package.py",
+    "original_sha256": "f1706eae52d3d5b757c5f09d02a55552bc6df861dd4d224fb7ab6e5fc16146c6",
+    "public_sha256": "f1706eae52d3d5b757c5f09d02a55552bc6df861dd4d224fb7ab6e5fc16146c6",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/paths.py",
+    "path": "scripts/research/downtrend_longhistory/paths.py",
+    "original_sha256": "4670efc3ef24209a151875c6638ab2771e8704e74fa256e42df40565b71c5034",
+    "public_sha256": "cae152143c0924cf2559b9beb5b028d2b8491145ecd3e06d79bcd1a4a56b94ca",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/paths_batch.py",
+    "path": "scripts/research/downtrend_longhistory/paths_batch.py",
+    "original_sha256": "5c2ca8a210007fd0ae3087d2243098bfd5e5dfb1a08ecc1b5cb940f6509643bc",
+    "public_sha256": "c131832722dba6f84af339aa38165597fb44034f78969f4a1d277b9de98195b7",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/prepare.py",
+    "path": "scripts/research/downtrend_longhistory/prepare.py",
+    "original_sha256": "7187961aa3837837a2df9871adc726f822d0aae7fec9b3918e1d2461515d9352",
+    "public_sha256": "7187961aa3837837a2df9871adc726f822d0aae7fec9b3918e1d2461515d9352",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/protocol.json",
+    "path": "scripts/research/downtrend_longhistory/protocol.json",
+    "original_sha256": "23045d72b280e4dc1c875c4432c996115bce6cfee0ee8756bce54af1968863e7",
+    "public_sha256": "23045d72b280e4dc1c875c4432c996115bce6cfee0ee8756bce54af1968863e7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/README.md",
+    "path": "scripts/research/downtrend_longhistory/README.md",
+    "original_sha256": "53f5e621b74cbe75ce2d26ad3303db91701e10106ad346e2695e3abeb883f5cc",
+    "public_sha256": "53f5e621b74cbe75ce2d26ad3303db91701e10106ad346e2695e3abeb883f5cc",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/release_classification_cache.py",
+    "path": "scripts/research/downtrend_longhistory/release_classification_cache.py",
+    "original_sha256": "3d02989b9979d597c5258bfaa70129debdf8dd13d2c0c274dba842bba158113b",
+    "public_sha256": "3d02989b9979d597c5258bfaa70129debdf8dd13d2c0c274dba842bba158113b",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/release_path_cache.py",
+    "path": "scripts/research/downtrend_longhistory/release_path_cache.py",
+    "original_sha256": "10fa69a0f3c7fd17bb13235536883a1fb5be86dbc22744faaed9cc6a35407cca",
+    "public_sha256": "10fa69a0f3c7fd17bb13235536883a1fb5be86dbc22744faaed9cc6a35407cca",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/report.py",
+    "path": "scripts/research/downtrend_longhistory/report.py",
+    "original_sha256": "ad706dd2d275e8f680bf9cc4eabc1ac6701851030dd041f09fcd6107fe6bb211",
+    "public_sha256": "ad706dd2d275e8f680bf9cc4eabc1ac6701851030dd041f09fcd6107fe6bb211",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/study.py",
+    "path": "scripts/research/downtrend_longhistory/study.py",
+    "original_sha256": "3d83a5ffe8546deb3bfaaa5b814e67b4dfdf5d9f368072153bc9da7f7ae05d07",
+    "public_sha256": "82052943a2a6213c6b89189117114b599e3207a5059c8d65112c657260dd23ac",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/terminal21.py",
+    "path": "scripts/research/downtrend_longhistory/terminal21.py",
+    "original_sha256": "73def3d64e1eab290a74b701b01bf6af307a90789eabedb85db56bc9adbbcfe2",
+    "public_sha256": "73def3d64e1eab290a74b701b01bf6af307a90789eabedb85db56bc9adbbcfe2",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/terminal21_report.py",
+    "path": "scripts/research/downtrend_longhistory/terminal21_report.py",
+    "original_sha256": "201ce8a7227ded7f350ebbf2aeb6725d00262a1b46bd22e3ffbccf32b1b96a50",
+    "public_sha256": "201ce8a7227ded7f350ebbf2aeb6725d00262a1b46bd22e3ffbccf32b1b96a50",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/verify_features.py",
+    "path": "scripts/research/downtrend_longhistory/verify_features.py",
+    "original_sha256": "f811617ccb6fbda3174c4b78d22c1e98787ae11d27130bf15e3c0840fcbd8e6b",
+    "public_sha256": "f811617ccb6fbda3174c4b78d22c1e98787ae11d27130bf15e3c0840fcbd8e6b",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/verify_paths.py",
+    "path": "scripts/research/downtrend_longhistory/verify_paths.py",
+    "original_sha256": "e41110990720c092ef52ddbced79a7133a27eea555647aaf99f0a4f3730bf202",
+    "public_sha256": "bf7606340a9ccd0cb9d6b0dacd308797edf0b130af6b5b040b5ab3ad0cfc2c4f",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_longhistory/verify_results.py",
+    "path": "scripts/research/downtrend_longhistory/verify_results.py",
+    "original_sha256": "e8f4b90e7e893d42a69db9795915c562a1c89200e3e533c48140715413aa80c5",
+    "public_sha256": "e8f4b90e7e893d42a69db9795915c562a1c89200e3e533c48140715413aa80c5",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/artifacts.py",
+    "path": "scripts/research/uptrend_extension/artifacts.py",
+    "original_sha256": "fede0ce9d647e5feb4d06afb5535c2a491df675d270c0b678c6400e10715ec76",
+    "public_sha256": "23a6de3a148a0663fcbe52b1bc8d9318a51860c2ea7be730a6ef6ac453b414e5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/figures.py",
+    "path": "scripts/research/uptrend_extension/figures.py",
+    "original_sha256": "887deb816a4ae1b0f8b4bae34c74bd1b74a767b9f798d15374cdd5394668fbb3",
+    "public_sha256": "887deb816a4ae1b0f8b4bae34c74bd1b74a767b9f798d15374cdd5394668fbb3",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/infer.py",
+    "path": "scripts/research/uptrend_extension/infer.py",
+    "original_sha256": "9818be69d237ac2765f70722379ae22642a32caea666229aa8cffa38f942db57",
+    "public_sha256": "f0291e02ac805ae7cb9ed71944022677f2a17b8f744499fc94f4304e56e954e0",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/legacy.py",
+    "path": "scripts/research/uptrend_extension/legacy.py",
+    "original_sha256": "0c596899cd8ffc0fc609fad71a78929e34569f076c833318a4e8b1ba8036ee49",
+    "public_sha256": "f0bef754e8d0d071a2dac92d2109d9197faab250a759f7098820a00a78df1412",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/package.py",
+    "path": "scripts/research/uptrend_extension/package.py",
+    "original_sha256": "b42d7271e2767e991536373b04e6d67ed9d953248c8c36c3845932a0bb68ab86",
+    "public_sha256": "b42d7271e2767e991536373b04e6d67ed9d953248c8c36c3845932a0bb68ab86",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/paths.py",
+    "path": "scripts/research/uptrend_extension/paths.py",
+    "original_sha256": "4f5c1b1ee238c0ea88801534379f15c5751987d4aa0c09e0b695ee5c72cfe568",
+    "public_sha256": "fa46fb24d6b767a15d970d4f80f30d549965d4d84aaa49831462ad7c84583d2e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/protocol.json",
+    "path": "scripts/research/uptrend_extension/protocol.json",
+    "original_sha256": "3c6ccf864f4636e4691199af9632a7914e6379d8d8bcb558b5436401ef9b03bc",
+    "public_sha256": "3a3be37b8464b70bc1dddc93595aeeacd7937021ed36f156a5e1f2491905c31c",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/README.md",
+    "path": "scripts/research/uptrend_extension/README.md",
+    "original_sha256": "c9fa73b02fcfe2431b57d2db3e5cfa25b7aa03407b612c6c714114b706719a86",
+    "public_sha256": "d73ee2509504e495475024ffaca411f455f5fe71af44b24c5f78faf9f1f3e81b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/report.py",
+    "path": "scripts/research/uptrend_extension/report.py",
+    "original_sha256": "2f7a51f2c1d7891a24ee3f52a0d95dab18d3f5aada839a20a201172de31855c9",
+    "public_sha256": "2f7a51f2c1d7891a24ee3f52a0d95dab18d3f5aada839a20a201172de31855c9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/restore.py",
+    "path": "scripts/research/uptrend_extension/restore.py",
+    "original_sha256": "40659e4484d147d63d31f0e182578d64a67e642b7aae050168db5221b216f1c3",
+    "public_sha256": "40659e4484d147d63d31f0e182578d64a67e642b7aae050168db5221b216f1c3",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/signals.py",
+    "path": "scripts/research/uptrend_extension/signals.py",
+    "original_sha256": "bbc9c03ac054a5d3b4d22b4c4a2e225f5b2cd390f1214206210a1790e1633659",
+    "public_sha256": "bbc9c03ac054a5d3b4d22b4c4a2e225f5b2cd390f1214206210a1790e1633659",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/study.py",
+    "path": "scripts/research/uptrend_extension/study.py",
+    "original_sha256": "b50198b4db2d579f7d7dd2564c642e4fcb84ea17c613730d969cd3ddc50359ec",
+    "public_sha256": "33e1b3143c14d222fc35132703681cee6f6ea9e2e2aeaff370e5238c87d87b97",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/uptrend_extension/summarize.py",
+    "path": "scripts/research/uptrend_extension/summarize.py",
+    "original_sha256": "b790f879ac7dd4cbf5a519040d6ca1f55d96fa81ccf2e58ee8202f3a4fc8b9f0",
+    "public_sha256": "b790f879ac7dd4cbf5a519040d6ca1f55d96fa81ccf2e58ee8202f3a4fc8b9f0",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/verify.py",
+    "path": "scripts/research/uptrend_extension/verify.py",
+    "original_sha256": "efb08a6fc280e61b67ff8ad5a834ba70c70983ededbce44185cba5fa1fb2f5a7",
+    "public_sha256": "efb08a6fc280e61b67ff8ad5a834ba70c70983ededbce44185cba5fa1fb2f5a7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/uptrend_extension/verify_formulas.py",
+    "path": "scripts/research/uptrend_extension/verify_formulas.py",
+    "original_sha256": "ee95c1a6ec4763a9d8bc2f270d605909c64a7db3bffe50549fc8191a3eb13f69",
+    "public_sha256": "ee95c1a6ec4763a9d8bc2f270d605909c64a7db3bffe50549fc8191a3eb13f69",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/artifacts.py",
+    "path": "scripts/research/downtrend_extension/artifacts.py",
+    "original_sha256": "a399e4060cb21c01c10ffcdf3a7d07553a9465da27a941679b43a90a1be2bd23",
+    "public_sha256": "5029dfc8f2e0fe8e8b244ba7f116d4f63f3167fccd862794d5de9d4d35ede8f5",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/figures.py",
+    "path": "scripts/research/downtrend_extension/figures.py",
+    "original_sha256": "14c0169ddc14f425a818d74262e318e1ef66ce2cbe4154f0c3641393d50c35e1",
+    "public_sha256": "dff66fbe6fa0ed13b96b1fc9a93a3caec0e83038ce6eb7be3ddd72ced6aafd8b",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/infer.py",
+    "path": "scripts/research/downtrend_extension/infer.py",
+    "original_sha256": "4151c13cbb229cc93163211bf9355c13d1ff45ef6b086a97204f3575613da29a",
+    "public_sha256": "c6ca22872177c05fa05755664c892b459696b68ac7c449c03daedc1b487b199e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/legacy.py",
+    "path": "scripts/research/downtrend_extension/legacy.py",
+    "original_sha256": "0c596899cd8ffc0fc609fad71a78929e34569f076c833318a4e8b1ba8036ee49",
+    "public_sha256": "f0bef754e8d0d071a2dac92d2109d9197faab250a759f7098820a00a78df1412",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/package.py",
+    "path": "scripts/research/downtrend_extension/package.py",
+    "original_sha256": "be38652ddbc7a6caeb6d6a29b3418046918f29c81277d19ef3c63cbe945be608",
+    "public_sha256": "be38652ddbc7a6caeb6d6a29b3418046918f29c81277d19ef3c63cbe945be608",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/paths.py",
+    "path": "scripts/research/downtrend_extension/paths.py",
+    "original_sha256": "5352d95c54e1b8d6642bb7d682bf70b2b95d5c5384c2f7563720b913ab2fbe43",
+    "public_sha256": "80f2f3473cf4aaf1f929e813adda6332318da2db9ebdd13c9530e8a696e975ff",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/protocol.json",
+    "path": "scripts/research/downtrend_extension/protocol.json",
+    "original_sha256": "8e7973d7c7ca315fa1b484f743fea70b674e302e66d378c1d65b7cb08e01767d",
+    "public_sha256": "8e7973d7c7ca315fa1b484f743fea70b674e302e66d378c1d65b7cb08e01767d",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/README.md",
+    "path": "scripts/research/downtrend_extension/README.md",
+    "original_sha256": "29c2a32a77edbacc32e2f0761d4b833d058f01593d088f22538413ff99e5f27c",
+    "public_sha256": "06749ddaa14a3f77aa0ff2dbafe7e5f640ad2fe0c7abaec3e24246812538214e",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/report.py",
+    "path": "scripts/research/downtrend_extension/report.py",
+    "original_sha256": "c53474fc745d92e40876d290e77a3d1f53d0100e18a4e2edea7cf6d87e6ca031",
+    "public_sha256": "c53474fc745d92e40876d290e77a3d1f53d0100e18a4e2edea7cf6d87e6ca031",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/signals.py",
+    "path": "scripts/research/downtrend_extension/signals.py",
+    "original_sha256": "572045417cbbf29943c1343f8061124154dfe2dc6afb46098943e1057a731c53",
+    "public_sha256": "572045417cbbf29943c1343f8061124154dfe2dc6afb46098943e1057a731c53",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/study.py",
+    "path": "scripts/research/downtrend_extension/study.py",
+    "original_sha256": "e03d94ef9ec6b41e03aafbde8d349d1e861f84fc8bce433fd98879c711f7acb4",
+    "public_sha256": "89cb1198a69a26df1fda8bbfafb7e8fd230bde8db31b47e64dd2e5ba71df2ac9",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/summarize.py",
+    "path": "scripts/research/downtrend_extension/summarize.py",
+    "original_sha256": "af2fb74931bb554bf6ebacf8d82af5fe3bbd83334bbcc6af086afa018437558a",
+    "public_sha256": "cdb05a0a4ffc43a7363200ffb0ac72d3ac311944fb79eace711559009dace329",
+    "changed_for_publication": true
+  },
+  {
+    "source": "scripts/research/downtrend_extension/verify.py",
+    "path": "scripts/research/downtrend_extension/verify.py",
+    "original_sha256": "8b06b564de0033a0711d4d898c8a0a83c9e852a278633843617dbe0fd0b05682",
+    "public_sha256": "8b06b564de0033a0711d4d898c8a0a83c9e852a278633843617dbe0fd0b05682",
+    "changed_for_publication": false
+  },
+  {
+    "source": "scripts/research/downtrend_extension/verify_formulas.py",
+    "path": "scripts/research/downtrend_extension/verify_formulas.py",
+    "original_sha256": "d8b74080d24244943873e1b3e0f24a0f60eb8c5d9c31efe4036ac21bd7fc42f8",
+    "public_sha256": "e7c9ae04c56451ae604beea022483a63f468edf21181150b4bf668f3835529e1",
+    "changed_for_publication": true
+  },
+  {
+    "source": "docs/research/uptrend-extension-2026-10-29/literature.md",
+    "path": "docs/research/uptrend-extension-2026-10-29/literature.md",
+    "original_sha256": "cfe2d038f4a3f96b9d4bd4a06f0ba78ec6001af74c3a39f0f34d89ce8431204c",
+    "public_sha256": "cfe2d038f4a3f96b9d4bd4a06f0ba78ec6001af74c3a39f0f34d89ce8431204c",
+    "changed_for_publication": false
+  },
+  {
+    "source": "docs/research/downtrend-extension-2026-10-29/literature.md",
+    "path": "docs/research/downtrend-extension-2026-10-29/literature.md",
+    "original_sha256": "7807ba80721d50bef246afd5a37848d3dcf14ac6cdcc3ca56d98d50589a061cb",
+    "public_sha256": "7807ba80721d50bef246afd5a37848d3dcf14ac6cdcc3ca56d98d50589a061cb",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/audit.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/audit.py",
+    "original_sha256": "a5a07805f49d8c2d62b648b09a75a7b6d9b9a6275db6f171ed181c1c32bb43f0",
+    "public_sha256": "a5a07805f49d8c2d62b648b09a75a7b6d9b9a6275db6f171ed181c1c32bb43f0",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/features.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/features.py",
+    "original_sha256": "5c4bbea959db7175308faa3c655d7c61dfca15cab8b101a4b7ae65b3f990e425",
+    "public_sha256": "5c4bbea959db7175308faa3c655d7c61dfca15cab8b101a4b7ae65b3f990e425",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/l1_solver.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/l1_solver.py",
+    "original_sha256": "de7bd90ddeab44cfe658e6b5566eede130ff710e7562bfac09517e5cc72f45e9",
+    "public_sha256": "de7bd90ddeab44cfe658e6b5566eede130ff710e7562bfac09517e5cc72f45e9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/protocol.json",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/protocol.json",
+    "original_sha256": "6fad38e7c45f33ee6c53723cc3a65e18af324385ba0d29c6f85e800d170f44f1",
+    "public_sha256": "6fad38e7c45f33ee6c53723cc3a65e18af324385ba0d29c6f85e800d170f44f1",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/README.md",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/README.md",
+    "original_sha256": "859cc8552d4c81b6798eb66c7eb52bd5ebe9f681493951d8b1b818a993acd53b",
+    "public_sha256": "859cc8552d4c81b6798eb66c7eb52bd5ebe9f681493951d8b1b818a993acd53b",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/report.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/report.py",
+    "original_sha256": "c914d01c5605311532d44e531ac50c02b7423cf21bfa5f70a73fbca3f2ae167e",
+    "public_sha256": "c914d01c5605311532d44e531ac50c02b7423cf21bfa5f70a73fbca3f2ae167e",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/research_stats.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/research_stats.py",
+    "original_sha256": "6b392caaa2e3dc6983564988b51875082160f67054482a5fed1589d1298e9249",
+    "public_sha256": "6b392caaa2e3dc6983564988b51875082160f67054482a5fed1589d1298e9249",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/run.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/run.py",
+    "original_sha256": "ca79e1e5aae2032f8d73ee8117f94f4c9d14552d6a7aa4dd5d6fa34cb1871c94",
+    "public_sha256": "ca79e1e5aae2032f8d73ee8117f94f4c9d14552d6a7aa4dd5d6fa34cb1871c94",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/supplement.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/supplement.py",
+    "original_sha256": "1fd4ab6ce525cc8336dd1877300aa51175de9d4e98dabc189b6e7826a7bcd383",
+    "public_sha256": "a0effe349833e1d4453b0a411c6003e9d464c92b01ebbace19455f49add9646a",
+    "changed_for_publication": true
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/downtrend_research/verify.py",
+    "path": "historical-code/uptrend-extension-20261029/downtrend_research/verify.py",
+    "original_sha256": "7ae16abffa877dacac3685be48f3075df1205475708cd59fbc63b9df329c7a7c",
+    "public_sha256": "7ae16abffa877dacac3685be48f3075df1205475708cd59fbc63b9df329c7a7c",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/artifacts.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/artifacts.py",
+    "original_sha256": "301c1197a9f103675a8ab3b6d178ba433cbe956f266fcc4edbc799a10e304fa9",
+    "public_sha256": "301c1197a9f103675a8ab3b6d178ba433cbe956f266fcc4edbc799a10e304fa9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/endpoint.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/endpoint.py",
+    "original_sha256": "2467cd679b6feddf6c189cffa99fe384d4268f1bc4dc6b67f24749b34e69dc83",
+    "public_sha256": "2467cd679b6feddf6c189cffa99fe384d4268f1bc4dc6b67f24749b34e69dc83",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/infer.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/infer.py",
+    "original_sha256": "e0996240ed0038cacfaefe3d265460a8793c3d06b04ac0d94079a64d785a32e7",
+    "public_sha256": "e0996240ed0038cacfaefe3d265460a8793c3d06b04ac0d94079a64d785a32e7",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/paths.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/paths.py",
+    "original_sha256": "50e3e27e083afb2b0d2fdd2b325abfc104909142e29b823c9dce8258147a5afa",
+    "public_sha256": "50e3e27e083afb2b0d2fdd2b325abfc104909142e29b823c9dce8258147a5afa",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/protocol.json",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/protocol.json",
+    "original_sha256": "54fc3ed83e16de3cb0928bcb9be69f041ca6d6c6bb9b5b3247f2fbcb300883a9",
+    "public_sha256": "54fc3ed83e16de3cb0928bcb9be69f041ca6d6c6bb9b5b3247f2fbcb300883a9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/README.md",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/README.md",
+    "original_sha256": "64c78b7e5186bc2ce000675cefed5d2af11a4aa0f270a64aae1d663f4ec1b6b9",
+    "public_sha256": "64c78b7e5186bc2ce000675cefed5d2af11a4aa0f270a64aae1d663f4ec1b6b9",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/report.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/report.py",
+    "original_sha256": "3a94473f1461087f765e6d2317801481f78988d61dac39a531fad7e4da781218",
+    "public_sha256": "3a94473f1461087f765e6d2317801481f78988d61dac39a531fad7e4da781218",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/signals.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/signals.py",
+    "original_sha256": "ddc586dbfbe13325c24063551514a84fd6ff1f4c013ab5a429e9480b09ff0216",
+    "public_sha256": "ddc586dbfbe13325c24063551514a84fd6ff1f4c013ab5a429e9480b09ff0216",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/study.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/study.py",
+    "original_sha256": "487dd3c5cdf4b8573d02db3e78b34e3ee09a2ca11afe1d49aa44ffb6efc3d4a4",
+    "public_sha256": "487dd3c5cdf4b8573d02db3e78b34e3ee09a2ca11afe1d49aa44ffb6efc3d4a4",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/uptrend-extension-20261029/prior/scripts/uptrend_confirmation/verify.py",
+    "path": "historical-code/uptrend-extension-20261029/uptrend_confirmation/verify.py",
+    "original_sha256": "219faaf9888814b7f1aefe4b6ef1f95f0cf157a5c2de835820577249703f9029",
+    "public_sha256": "219faaf9888814b7f1aefe4b6ef1f95f0cf157a5c2de835820577249703f9029",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/audit.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/audit.py",
+    "original_sha256": "dc1fc5638e6ea50b683e7b47f96bb65c61142483c26f6fabb462cc80e5dafe33",
+    "public_sha256": "dc1fc5638e6ea50b683e7b47f96bb65c61142483c26f6fabb462cc80e5dafe33",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/catalog.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/catalog.py",
+    "original_sha256": "679e09a1b4136b4b241fda64fe66aa4beebf6098632f2ecebfc2c117641b9763",
+    "public_sha256": "679e09a1b4136b4b241fda64fe66aa4beebf6098632f2ecebfc2c117641b9763",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/closure.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/closure.py",
+    "original_sha256": "74fdd7c1b7b85b5f4b737940928085f1c4d5c1ce4b448b9b75b88b57d016107e",
+    "public_sha256": "74fdd7c1b7b85b5f4b737940928085f1c4d5c1ce4b448b9b75b88b57d016107e",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/closure_report.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/closure_report.py",
+    "original_sha256": "7e81413c870f926b44cad713b6d0b1a79b21d796010a66952961ba8cf312ced4",
+    "public_sha256": "7e81413c870f926b44cad713b6d0b1a79b21d796010a66952961ba8cf312ced4",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/details.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/details.py",
+    "original_sha256": "c054f03cac92ec1ae01867e7369cbf8560e6ffe5ef53311739c72771c000affa",
+    "public_sha256": "c054f03cac92ec1ae01867e7369cbf8560e6ffe5ef53311739c72771c000affa",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/endpoint.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/endpoint.py",
+    "original_sha256": "2467cd679b6feddf6c189cffa99fe384d4268f1bc4dc6b67f24749b34e69dc83",
+    "public_sha256": "2467cd679b6feddf6c189cffa99fe384d4268f1bc4dc6b67f24749b34e69dc83",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/protocol.json",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/protocol.json",
+    "original_sha256": "451df97936ccf63505f74b854fe37f7184b0171898ead553fb9ea3af2072e0ae",
+    "public_sha256": "451df97936ccf63505f74b854fe37f7184b0171898ead553fb9ea3af2072e0ae",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/README.md",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/README.md",
+    "original_sha256": "24486f2e69fa109b207d9ac6d047967ab282be98e7413b39f2301ecd5f459e18",
+    "public_sha256": "24486f2e69fa109b207d9ac6d047967ab282be98e7413b39f2301ecd5f459e18",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/report.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/report.py",
+    "original_sha256": "88f6b5722b5aa9e49f77689cc709e1e782d6adab5cec8bbfa157bf7aaf654a79",
+    "public_sha256": "88f6b5722b5aa9e49f77689cc709e1e782d6adab5cec8bbfa157bf7aaf654a79",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/study.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/study.py",
+    "original_sha256": "6d6647384c1593a1fe0b0aa660773f3eec222d280b87669dd2ac7d1a30cc1f97",
+    "public_sha256": "6d6647384c1593a1fe0b0aa660773f3eec222d280b87669dd2ac7d1a30cc1f97",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/uncertainty.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/uncertainty.py",
+    "original_sha256": "71f42532c752984e9bde6ea09174b03ded279f1eac981178c27d9591728d0358",
+    "public_sha256": "71f42532c752984e9bde6ea09174b03ded279f1eac981178c27d9591728d0358",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/scripts/downtrend_confirmation/verify.py",
+    "path": "historical-code/downtrend-extension-20261029/downtrend_confirmation/verify.py",
+    "original_sha256": "80e116af08425f9af9f5e43437a1bdd6e88519fe721b4e2d76a9e2bd886eb06f",
+    "public_sha256": "80e116af08425f9af9f5e43437a1bdd6e88519fe721b4e2d76a9e2bd886eb06f",
+    "changed_for_publication": false
+  },
+  {
+    "source": "runtime/downtrend-extension-20261029/prior/docs/downtrend-confirmation-2026-10-21/signal-definitions.csv",
+    "path": "reference-definitions/downtrend-original-signal-definitions.csv",
+    "original_sha256": "36e59cfe4a3c34385f66cd63f67b9ebd16ff4ced01558bf478234b5f96407f90",
+    "public_sha256": "f1b7d14914b1e198e2d3025da1255ad014d21a419332ec8fdec1c64dee6951fe",
+    "changed_for_publication": true
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "audit_scope": "All 7,483 research inventory entries; no provider requests, no operational writes",
+  "source": "runtime\\uptrend-extension-20261029\\input\\runtime\\downtrend-indicators-20261021",
+  "combined_inventory": "runtime\\downtrend-longhistory-20261029\\inventory.json",
+  "windows": {
+    "fifteen": [
+      "2010-10-01",
+      "2025-09-30"
+    ],
+    "recent_fifteen": [
+      "2011-04-01",
+      "2026-03-31"
+    ],
+    "all": [
+      "1900-01-01",
+      "2026-09-30"
+    ]
+  },
+  "eligibility": "65 prior and 126 future contiguous observations, finite future L1 fit, current finite slope, completed DOWN boundaries; before signal-specific feature availability",
+  "hash_policy": "Source hashes already verified in preceding uptrend-extension restoration and per-stock load; this coverage pass does not rehash large NPZ files",
+  "markets": {
+    "KR": {
+      "inventory": 2637,
+      "active_universe": 2604,
+      "excluded": 0,
+      "supplementary_inventory_symbols": [
+        "000030.KS",
+        "000060.KS",
+        "001880.KS",
+        "002000.KS",
+        "002270.KS",
+        "002550.KS",
+        "003410.KS",
+        "003450.KS",
+        "006390.KS",
+        "008000.KS",
+        "008020.KS",
+        "008560.KS",
+        "010620.KS",
+        "012510.KS",
+        "033180.KS",
+        "033660.KS",
+        "037620.KS",
+        "042670.KS",
+        "049770.KS",
+        "057050.KS",
+        "068870.KS",
+        "079440.KS",
+        "082640.KS",
+        "088980.KS",
+        "115390.KS",
+        "117930.KS",
+        "330590.KS",
+        "348950.KS",
+        "365550.KS",
+        "395400.KS",
+        "415640.KS",
+        "450140.KS",
+        "950210.KS"
+      ],
+      "active_universe_unaccounted": [],
+      "status_counts": {
+        "ok": 2610,
+        "too_short": 26,
+        "empty": 1
+      },
+      "source_span_ge_15y": 1380,
+      "source_span_lt_15y": 1257,
+      "evaluable_span_ge_15y": 1312,
+      "at_least_one_contiguous_15y_segment": 272,
+      "all_evaluable_stocks": 2564,
+      "source_first": "1975-01-04",
+      "source_last": "2026-09-30",
+      "first_evaluable": "1975-03-25",
+      "last_evaluable": "2026-03-26",
+      "stocks_with_multiple_segments": 1930,
+      "stocks_with_multiple_segments_after_2010": 1930,
+      "source_missing_sessions": 5184,
+      "source_non_sessions": 1998,
+      "last_evaluable_date_counts": {
+        "2026-03-26": 2058,
+        "2025-10-20": 21,
+        "2025-10-01": 15,
+        "2025-09-25": 13,
+        "2025-10-27": 13,
+        "2025-10-21": 12,
+        "2025-09-30": 12,
+        "2025-09-26": 11,
+        "2025-09-29": 11,
+        "2025-10-23": 10
+      },
+      "windows": {
+        "fifteen": {
+          "stocks": 2513,
+          "evaluable_days": 5915843,
+          "usable_bars": 6668482,
+          "warmup_unavailable": 338301,
+          "future_unavailable": 401106,
+          "censored_down_days": 13232
+        },
+        "recent_fifteen": {
+          "stocks": 2564,
+          "evaluable_days": 6014421,
+          "usable_bars": 6796457,
+          "warmup_unavailable": 337403,
+          "future_unavailable": 430468,
+          "censored_down_days": 14165
+        },
+        "all": {
+          "stocks": 2564,
+          "evaluable_days": 8797580,
+          "usable_bars": 11439631,
+          "warmup_unavailable": 1385416,
+          "future_unavailable": 1235138,
+          "censored_down_days": 21497
+        }
+      },
+      "at_least_one_contiguous_evaluable_15y_run": 220,
+      "former_exclusions_attempted": 26
+    },
+    "US": {
+      "inventory": 4846,
+      "active_universe": 4843,
+      "excluded": 0,
+      "supplementary_inventory_symbols": [
+        "BP",
+        "NVO",
+        "TSM"
+      ],
+      "active_universe_unaccounted": [],
+      "status_counts": {
+        "ok": 4683,
+        "too_short": 135,
+        "no_long_segment": 27,
+        "empty": 1
+      },
+      "source_span_ge_15y": 1957,
+      "source_span_lt_15y": 2889,
+      "evaluable_span_ge_15y": 1754,
+      "at_least_one_contiguous_15y_segment": 1572,
+      "all_evaluable_stocks": 4537,
+      "source_first": "1990-01-02",
+      "source_last": "2026-09-30",
+      "first_evaluable": "1990-04-04",
+      "last_evaluable": "2026-03-31",
+      "stocks_with_multiple_segments": 1820,
+      "stocks_with_multiple_segments_after_2010": 1022,
+      "source_missing_sessions": 96873,
+      "source_non_sessions": 14,
+      "last_evaluable_date_counts": {
+        "2026-03-31": 4450,
+        "2026-02-18": 5,
+        "2026-03-30": 4,
+        "2026-03-04": 4,
+        "2026-02-23": 3,
+        "2026-03-06": 3,
+        "2026-02-25": 3,
+        "2026-01-13": 2,
+        "2026-03-24": 2,
+        "2026-03-02": 2
+      },
+      "windows": {
+        "fifteen": {
+          "stocks": 4385,
+          "evaluable_days": 9802408,
+          "usable_bars": 10588622,
+          "warmup_unavailable": 637283,
+          "future_unavailable": 140737,
+          "censored_down_days": 8194
+        },
+        "recent_fifteen": {
+          "stocks": 4537,
+          "evaluable_days": 10152390,
+          "usable_bars": 10926891,
+          "warmup_unavailable": 624594,
+          "future_unavailable": 139034,
+          "censored_down_days": 10873
+        },
+        "all": {
+          "stocks": 4537,
+          "evaluable_days": 15069996,
+          "usable_bars": 17834479,
+          "warmup_unavailable": 1767175,
+          "future_unavailable": 981843,
+          "censored_down_days": 15465
+        }
+      },
+      "at_least_one_contiguous_evaluable_15y_run": 1533,
+      "former_exclusions_attempted": 31
+    }
+  },
+  "chart_cache": {
+    "total_rows": 13,
+    "successful_payloads": 8,
+    "unique_symbols": [
+      "KR:005930.KS",
+      "KR:058860.KS",
+      "US:BP",
+      "US:NVO",
+      "US:TSM"
+    ],
+    "additional_inventory_symbols": []
+  },
+  "limitations": [
+    "Current/saved stock inventory is not a survivorship-free historical listing census.",
+    "A 15-year first-to-last span does not imply 15 contiguous years or full daily coverage.",
+    "Short-history stocks remain included from their earliest evaluable observations; no minimum 15-year stock screen.",
+    "Former operational exclusions are attempted in this research only; operational policies remain unchanged.",
+    "Raw early KR provider dates include historical calendar discrepancies. Inherited segment breaks are retained.",
+    "Latest mature eligibility depends on gaps, completed trend boundaries, and indicator warmup; no tail-label shortcut is used.",
+    "Contiguous evaluable span is generic label eligibility before signal-specific availability; volume indicators can have fewer available days."
+  ]
+}

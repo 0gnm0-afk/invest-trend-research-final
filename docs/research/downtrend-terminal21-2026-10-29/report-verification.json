@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "rows": 162,
+  "protected_prior_files": 168,
+  "report_sha256": "ecabff2a3b1fe7b12d462fe30586da26ee28a3a685151e4f8c18bef17ffc3686",
+  "csv_sha256": {
+    "all81-terminal21.csv": "56f9dc137f7e3d35c57f469398b4fbb5a1fea571b3629e030777364ffa6bc9a0",
+    "annual-terminal21.csv": "77892313f62949cd9bba93688311e903977b994bf47e761abfa334323d8422fe",
+    "top5-terminal21.csv": "dfaaf8e4da22b0f6f15fc985d9eb24f71d81757a2f3cc848b1f2348e67afc306"
+  }
+}

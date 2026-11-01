@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "stocks": 7293,
+  "path_distribution_rows": 918,
+  "first_distribution_rows": 51,
+  "expected_path_rows": 918,
+  "expected_first_rows": 51,
+  "counts_reconciled": "All per-stock raw/hit path counts and first-captured episode counts, then primary aggregates",
+  "positive_probability_reconciled": "Every terminal horizon and population against pre-existing sufficient statistics",
+  "max_float32_spool_mean_error": 1.7261483353792073e-09,
+  "max_first_sum_error": 3.552713678800501e-15,
+  "max_path_sum_error_vs_float32_sufficient_stats": 1.4474234490080562e-05,
+  "quantiles": [
+    "q05",
+    "q10",
+    "q25",
+    "median",
+    "q75",
+    "q90",
+    "q95"
+  ],
+  "method": "Exact empirical numpy linear quantile on stored float32 values",
+  "interpretation": "Post-aggregation descriptive supplement; no changed hypotheses, thresholds, populations or trimming",
+  "disk_spool_bytes": 493527612,
+  "code_sha256": "45049c5cf31f817a10d3b777056576972144fd41d9d7e4ad3021ac1b533d301a"
+}

@@ -1,0 +1,8 @@
+{
+  "stock": "KR_000020.KS.npz",
+  "old_window": "2023-04-01..2025-09-30",
+  "shared_events": 16,
+  "matched_sufficient_cells": 106080,
+  "max_absolute_error": 1.1102230246251565e-16,
+  "pass": true
+}

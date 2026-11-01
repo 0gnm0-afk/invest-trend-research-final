@@ -1,0 +1,8 @@
+{
+  "runtime\\uptrend-longhistory-20261029\\inventory.json": "1827c3e639dc4b22ebb46131d0862ece0824bd07433532338059ac807f6d8910",
+  "scripts\\research\\downtrend_extension\\legacy.py": "0c596899cd8ffc0fc609fad71a78929e34569f076c833318a4e8b1ba8036ee49",
+  "runtime\\uptrend-extension-20261029\\prior\\scripts\\downtrend_research\\features.py": "5c4bbea959db7175308faa3c655d7c61dfca15cab8b101a4b7ae65b3f990e425",
+  "scripts\\research\\uptrend_extension\\signals.py": "bbc9c03ac054a5d3b4d22b4c4a2e225f5b2cd390f1214206210a1790e1633659",
+  "scripts\\research\\downtrend_extension\\signals.py": "572045417cbbf29943c1343f8061124154dfe2dc6afb46098943e1057a731c53",
+  "scripts\\research\\downtrend_extension\\study.py": "e03d94ef9ec6b41e03aafbde8d349d1e861f84fc8bce433fd98879c711f7acb4"
+}

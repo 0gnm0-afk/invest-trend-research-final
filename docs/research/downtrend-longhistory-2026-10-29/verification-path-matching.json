@@ -1,0 +1,7 @@
+{
+  "scalar_cells_checked": 132795,
+  "max_absolute_error": 1.7053025658242404e-12,
+  "edge_cases": "all missing, no signals, no controls",
+  "matching": "same stock/calendar quarter/observable-state; no L1",
+  "code_sha256": "4670efc3ef24209a151875c6638ab2771e8704e74fa256e42df40565b71c5034"
+}

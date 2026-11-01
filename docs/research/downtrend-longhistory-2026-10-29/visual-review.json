@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "reviewed_utc": "2026-10-29T06:15:34.161836+00:00",
+  "figures": {
+    "KR-cases.png": "b6615aed9d02e58ee4ef9a35cce531ac97acb35b4a489423fb55dcd20aee1d69",
+    "report-coverage.png": "4d37057cc957435842d05aa6bd5d9aa0ee03fc16a677855afe5c2f94ee1038a4",
+    "report-KR-eras.png": "137539834a50c2eb45729d99e9b1b8dcb340703a12beaf6f1d2bb2db1a3298eb",
+    "report-KR-frequency.png": "657371e9de12082771bab67c2e78cf28fb075dcb6425b35e70e74da51bd22e57",
+    "report-KR-risk.png": "72b0b0b8c01565480a799e8e0a6d0e55b8c4864e0f6e4c93f1636a12f971ccd1",
+    "report-KR-tradeoff.png": "c82fdd06f025b31dd61cc795bf74f22ec147a53f0bb8bd5664f69dd5c9c8ea45",
+    "report-timing.png": "d4e60eb3d27717622c8ae653d8de46d16870abd51c99fa528f7a3036b85f846b",
+    "report-US-eras.png": "043cd67068995e844a7dd80df85b662db03337a9f279f39c3e45a773003763fb",
+    "report-US-frequency.png": "a9fe53c0a2eccf7d8edd7fc24fb3e85ffc960636cf68915f0c13d6638462c383",
+    "report-US-risk.png": "47c7c76f1006c7f1ba00fc6e9f3d7427cdbd54d841e2eba588df4edf8a67352d",
+    "report-US-tradeoff.png": "4b44f642dfc78e38bde46207cb5d8358628a9a9f527de65b19ebc4873abec43a",
+    "US-cases.png": "65c9cc0c348c2ab1d57de10c178b18b16c2339906f7f65d25ca1a3d06055e2bf"
+  },
+  "method": "All 12 rendered figures inspected with view_image; affected charts re-inspected after repair",
+  "checks": [
+    "Korean font and negative signs",
+    "titles, labels, axes and notes not clipped",
+    "confidence intervals and baselines distinguishable",
+    "signal and retrospective onset clearly distinguished",
+    "actual success, UP/FLAT failure and late-confirmation examples",
+    "no future extremes represented as realizable profits"
+  ],
+  "repairs": [
+    "Moved precision annotations away from baseline tick",
+    "Replaced unsupported minus glyph and negative-axis glyph",
+    "Clarified failure examples as UP/FLAT instead of missing labels"
+  ]
+}
