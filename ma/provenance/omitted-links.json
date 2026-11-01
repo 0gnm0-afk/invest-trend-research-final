@@ -1,0 +1,170 @@
+[
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/KR_events.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/KR_audit.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/US_events.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/US_audit.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/kr_sources.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/us_population.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/us_acquisition.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/manifest.json"
+  },
+  {
+    "document": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_target": "../../runtime/ma-dd-describe-20261017/kr_quote_corroboration.json"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/signal_order_test.csv"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/signal_events_test.csv"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/execution_review_template.csv"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/verification.json"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/manifest.json"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/data_audit.json"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/episodes.csv"
+  },
+  {
+    "document": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-exit4-20261016-v1/test_cycles_rank1.csv"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/prepared.json"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/cycles.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/paths.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/progression.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/open_cycles.csv"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/examples.csv"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/execution_audit.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_target": "../../runtime/ma-reentry-20261017/manifest.json"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/KR_segments.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/US_segments.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/trades.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/paths.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/execution_audit.csv.gz"
+  },
+  {
+    "document": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_target": "../../runtime/ma-timing-segments-20261018/manifest.json"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/KR_largecap_signal_order15.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/KR_largecap_retrospective15.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/KR_largecap_candidate_trace.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/US_largecap_signal_order15.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/US_largecap_retrospective15.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/US_largecap_candidate_trace.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v1/data_audit.json"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v1/sample.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v1/KR_events.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v1/US_events.csv"
+  },
+  {
+    "document": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_target": "../../runtime/ma-warning-20261016-v2-15early/manifest.json"
+  }
+]

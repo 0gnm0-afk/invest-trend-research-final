@@ -1,0 +1,12 @@
+{
+  "protocol_frozen": true,
+  "status": "PASS",
+  "raw_hashes": 7920,
+  "first_cross_rows_checked": 471264,
+  "raw_scalar_replays": 79,
+  "independently_reconstructed_us_caps": 40,
+  "volatility_cell_count_checks": 30,
+  "local_report_links": "PASS",
+  "external_KR_ohlcv_values_matched": 60,
+  "frozen_population_identity": "PASS"
+}

@@ -1,0 +1,751 @@
+[
+  {
+    "source": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "path": "docs/research/ma-dd-descriptive-2026-10-17.md",
+    "original_sha256": "b0d5f5f5c8d67df1a71a14e592a3611355fad7da0f13707a57ae46d959a1db26",
+    "public_sha256": "5a34840c9fb400e22143f8bf23d70d093ec2d4947a8848e00a328b330b337bcf",
+    "edited": true
+  },
+  {
+    "source": "docs/research/ma-exit4-research-2026-10-16.md",
+    "path": "docs/research/ma-exit4-research-2026-10-16.md",
+    "original_sha256": "3ada687197355196c81db9456e72ffde1a97de7f52a036a93b2a0bb11f1199a2",
+    "public_sha256": "f16eedda6c6a4e3b0a7a342535ebf77bab8fc2c926fc591cafe29c9cf21c9bb6",
+    "edited": true
+  },
+  {
+    "source": "docs/research/ma-reentry-research-2026-10-17.md",
+    "path": "docs/research/ma-reentry-research-2026-10-17.md",
+    "original_sha256": "d39a34b3a808b51efcfebee31a5d6559d30c07f4b1a820d80a0c522e54947a95",
+    "public_sha256": "27f1c8fd0c452f1378b30fb461d938bff3d7b4cefbb4ba93b34a961f303b90d4",
+    "edited": true
+  },
+  {
+    "source": "docs/research/ma-timing-segments-2026-10-18.md",
+    "path": "docs/research/ma-timing-segments-2026-10-18.md",
+    "original_sha256": "edfce634110bc8d88ddd57947b14e0608ff4ecb519e44620deac1d40cc972d36",
+    "public_sha256": "faa1ec00e90a887e0bf151c4110ca0dfaee96f218dc53c2a0d851749cbb01728",
+    "edited": true
+  },
+  {
+    "source": "docs/research/ma-warning-thresholds-2026-10-16.md",
+    "path": "docs/research/ma-warning-thresholds-2026-10-16.md",
+    "original_sha256": "be9ae072932967961c01556595abbe367116987f2642eb8fc1e6827669b1d472",
+    "public_sha256": "be9ae072932967961c01556595abbe367116987f2642eb8fc1e6827669b1d472",
+    "edited": false
+  },
+  {
+    "source": "docs/research/ma-warning15-research-2026-10-16.md",
+    "path": "docs/research/ma-warning15-research-2026-10-16.md",
+    "original_sha256": "3a1fd0b4dd91f6843f4d649fdaaf364f8711312833b74f5f3234d7f1dcb9d694",
+    "public_sha256": "fc0e66a07a493bdf74b1f13336efd7f955d246918801e128ea3722949351df5e",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/protocol.json",
+    "path": "runtime/ma-dd-describe-20261017/protocol.json",
+    "original_sha256": "9cc9d4d96723cd6e31c51427fcdc6143e7bb0da7a9d429241bece4f3b491b6fc",
+    "public_sha256": "5208148575f0cb9a781d0101bcaaf759dce27cbc3c021e7037ed33c3daa7ce3f",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/results.json",
+    "path": "runtime/ma-dd-describe-20261017/results.json",
+    "original_sha256": "8596be82ea8bc89f3c462c56f13216ea68d78b2858eb57f7cc7acf5959782c95",
+    "public_sha256": "8d9cbb0c753fa5bd17afe4030146c6dc8fc5c63386280ffdec7da015d0aa3eb6",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/verification.json",
+    "path": "runtime/ma-dd-describe-20261017/verification.json",
+    "original_sha256": "333902bd0f71aaeb128cb85fcf47a73da27bba5a51e7979d380b2578f2a5edba",
+    "public_sha256": "28579340f93f05c26fe592c067ccf131095877ea8dbd3695d0035867749ea7f7",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/environment.json",
+    "path": "runtime/ma-dd-describe-20261017/environment.json",
+    "original_sha256": "4edbd23e6548102aa82f47bc9fd2742d45c0fa35c4a3f8a2dd5ca69a9796aa0e",
+    "public_sha256": "03fdbc40941400df2a5123fd300a3fcf9d2b8b90af852dd8a905678a16c5f51b",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/KR_summary.csv",
+    "path": "runtime/ma-dd-describe-20261017/KR_summary.csv",
+    "original_sha256": "0ba6a127bd8b0994f974d97a7f18f4557dd6c3fca19e803599c7609eceb929ba",
+    "public_sha256": "fa552d610dcd16df5ffde52a65f9a0bac48b153cb648e16610fac22ca2809b34",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/US_summary.csv",
+    "path": "runtime/ma-dd-describe-20261017/US_summary.csv",
+    "original_sha256": "7080fdec6978f5014f6988e65db722ab37e08009d2590c3bd0fef7c28783789b",
+    "public_sha256": "c9a8e7c0bde666a4306c7d775e6c0b9f0591cafdc47773a2c6e4f6753cc833d7",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/KR_annual.csv",
+    "path": "runtime/ma-dd-describe-20261017/KR_annual.csv",
+    "original_sha256": "29a66612a816bfdc70b3cf77580a754cce830a691a149cc8f697632c2d2d44eb",
+    "public_sha256": "27cf8a3de74fed342ca6520ae155c081ca8d6cbe1284c4091338360da3cd33db",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/US_annual.csv",
+    "path": "runtime/ma-dd-describe-20261017/US_annual.csv",
+    "original_sha256": "9fa328a7d63b7d980e90b9ab6a31289a458915619fa1eefc2d1b091115f301c8",
+    "public_sha256": "83fdc4bf5e18411f5556a6ddc4079789ad2cef285e1d37d9612c45fa96d2e421",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/KR_sensitivity.csv",
+    "path": "runtime/ma-dd-describe-20261017/KR_sensitivity.csv",
+    "original_sha256": "0beea909a793a39cac113c492c6498712441c9334a286667529475592939c26d",
+    "public_sha256": "b182d70ac4a880ce437b98e537d18963c16181bd774beb712a2939635fcafc84",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/US_sensitivity.csv",
+    "path": "runtime/ma-dd-describe-20261017/US_sensitivity.csv",
+    "original_sha256": "106315758be54ca59a0de3e4c3f08e7c02113ee8ec2a60046109ea845db50a0d",
+    "public_sha256": "1cee42fb8f39c856a31f2ab35d6009955bad9af0f3de7fe97f7cbbac77e81ee2",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/KR_drawdown.png",
+    "path": "runtime/ma-dd-describe-20261017/KR_drawdown.png",
+    "original_sha256": "160f788c401d39a52cd3c41311a7a320ad0e304ea9eb947bcfa303395734cb29",
+    "public_sha256": "160f788c401d39a52cd3c41311a7a320ad0e304ea9eb947bcfa303395734cb29",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-dd-describe-20261017/US_drawdown.png",
+    "path": "runtime/ma-dd-describe-20261017/US_drawdown.png",
+    "original_sha256": "0aaa830d8ff8dd3e4ac93df7a75cacdaf37ba90549fcdefb963cd52f05d46648",
+    "public_sha256": "0aaa830d8ff8dd3e4ac93df7a75cacdaf37ba90549fcdefb963cd52f05d46648",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/protocol.json",
+    "path": "runtime/ma-exit4-20261016-v1/protocol.json",
+    "original_sha256": "9e697d80b7e943417068da6a0d0cf021e4573584bfa4d1d34af3dfb8a1aa1691",
+    "public_sha256": "e6792ab425b01376cf6af4ac13238c55128e5f2549390cda9596377ad93bc1bc",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/final_results.json",
+    "path": "runtime/ma-exit4-20261016-v1/final_results.json",
+    "original_sha256": "11f4b21c03eb05fc918b38112fa91fdff664fd6b6b4e7aea23a6231dcd52c5b7",
+    "public_sha256": "a928135b8e32034794263fa5c5718d8958ed9e1133009d39a2bdf412b7187a28",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/selection_frozen.json",
+    "path": "runtime/ma-exit4-20261016-v1/selection_frozen.json",
+    "original_sha256": "2a4215050fb13929825cbedbb5835927063d13e16c12d60211c4592d1305a817",
+    "public_sha256": "40141eae0731ac0e45ff3162f97a764adc9ec5606e1362d8db081e9404305ca0",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/baseline_test.json",
+    "path": "runtime/ma-exit4-20261016-v1/baseline_test.json",
+    "original_sha256": "942bf069bf85d8fbf8e038367bb4ae7275deb40e15805c1cb3839e073a6e1f8e",
+    "public_sha256": "6e42f0afdcc7d03282a91359f020ec36a7114fe561dcd27b3ebf8eee7e672eaf",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/development_ranking.csv",
+    "path": "runtime/ma-exit4-20261016-v1/development_ranking.csv",
+    "original_sha256": "37192649aea50333256070acf9aee38a5a64e2126197377c5b0d6d53ac2e9f5b",
+    "public_sha256": "2212cea94eb80d11dd779d90c3ee38a9e0d07a805728b1471573ae32894f9971",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/context_summary_test.json",
+    "path": "runtime/ma-exit4-20261016-v1/context_summary_test.json",
+    "original_sha256": "d8ddf837ba66a29224268791fe96509b66201c5d28cdaf04878a6d541b4572ca",
+    "public_sha256": "9f818e075cc1675233b4aa0cf47a568a448f15a4286f5ec6861a08bf11c5bc19",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/stage_statistics_test.json",
+    "path": "runtime/ma-exit4-20261016-v1/stage_statistics_test.json",
+    "original_sha256": "c8e9b754bc6bbdd499eb0491076006cd91b90a6fc9020336651ea03e79e17d73",
+    "public_sha256": "a4245da653a9622b6df8b3b96a75dd4b30fcf72761bc078a99272b339d7e2b8b",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/early_recovery_summary_test.json",
+    "path": "runtime/ma-exit4-20261016-v1/early_recovery_summary_test.json",
+    "original_sha256": "f2420e770940ebcc9a964ae17696634d8bc4361693600f530e5373eff725465a",
+    "public_sha256": "6b8a4ef29139270901d959291ebbeaa2088b3e35bf35a21853a5e17c40d34587",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/supplementary_test.json",
+    "path": "runtime/ma-exit4-20261016-v1/supplementary_test.json",
+    "original_sha256": "51af4ddebf7b66f566fdd6e133b3bb16a100690ce97fe6446b9c26f65b8ad9fb",
+    "public_sha256": "7dd8516874a5692bc35b5a079d8f340748cf4e522ce8326c47869099a4432bad",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/signal_summary_test.csv",
+    "path": "runtime/ma-exit4-20261016-v1/signal_summary_test.csv",
+    "original_sha256": "a55a910780da2bc32211b856896eafce4932bea1bfe0978c89bc83a3aa036a2b",
+    "public_sha256": "0435e7d02be09ba2791b0f9e8dab44206364057a801e0446b2f1a19ebcfa5335",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/strategy_comparison.png",
+    "path": "runtime/ma-exit4-20261016-v1/strategy_comparison.png",
+    "original_sha256": "e2f12435d54b069275b091458fea5e665027cb22ab12fc2cc752472335cfe9c1",
+    "public_sha256": "e2f12435d54b069275b091458fea5e665027cb22ab12fc2cc752472335cfe9c1",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-exit4-20261016-v1/cycle_return_distribution.png",
+    "path": "runtime/ma-exit4-20261016-v1/cycle_return_distribution.png",
+    "original_sha256": "513f544a30941c36241aac8377807a1bdf5db9bcf09ec9478b81183b6319c7fa",
+    "public_sha256": "513f544a30941c36241aac8377807a1bdf5db9bcf09ec9478b81183b6319c7fa",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/protocol.json",
+    "path": "runtime/ma-reentry-20261017/protocol.json",
+    "original_sha256": "981b3843df8143faebbbb9c143f6ddbd0a22f2077c08f77a07aa9ea67de00dfb",
+    "public_sha256": "cb6b5437c66a2f184b011d2a46b90b3b26a279171963b6e2f18b3bc80ca88ab8",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/results.json",
+    "path": "runtime/ma-reentry-20261017/results.json",
+    "original_sha256": "f7098863fd76b62fbb9393e4a6e2969291b61d528b28c6338ceedba64d390b05",
+    "public_sha256": "641195d31b38f57d99446bed002ab78969d4f80dfe671cfe1ca88f98ed3c6b6a",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/verification.json",
+    "path": "runtime/ma-reentry-20261017/verification.json",
+    "original_sha256": "5e16cc00320554c9179a1db2d925045fb2a1001449fc74017712b81cd3a8dc74",
+    "public_sha256": "0f3d1017dc9ae60a705affa60bfb69495cdd74300b8adadfdeab5623b149d25a",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/simulation.json",
+    "path": "runtime/ma-reentry-20261017/simulation.json",
+    "original_sha256": "0e2f003a3fade97fc9544e1d57808835187f9ac9a03834013e761172f5c4621a",
+    "public_sha256": "5ea10701e876a277c76942bd6ec0516b968b647da2e8f82de2391fddf989b275",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/summary.csv",
+    "path": "runtime/ma-reentry-20261017/summary.csv",
+    "original_sha256": "233302f48613e8b0ee1afa9425ba3f086df978d14333f0fe80314e5e2c05360f",
+    "public_sha256": "76d8445554325f8986b1c9c8b951588d81b6c5acdef83fafddfae8f36a0d406c",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/annual.csv",
+    "path": "runtime/ma-reentry-20261017/annual.csv",
+    "original_sha256": "20ef7770a3f8caabb5d7f0678f8bcd7ac69096149ab4113e0d8fb955ca57a3f2",
+    "public_sha256": "769c88bf7d326f54aae1752a9f82532f1dd8f1811f3bd64ad9e1e93e8e361fc6",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/cohort_summary.csv",
+    "path": "runtime/ma-reentry-20261017/cohort_summary.csv",
+    "original_sha256": "169b1c745cb69f057eec2228b77b5753679092c389807c7ab176d82583b95dd4",
+    "public_sha256": "0163650c08e518d615374cd2580217ba9c7302769553bad6f5e0ce7e6b4889c1",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/cohort_annual.csv",
+    "path": "runtime/ma-reentry-20261017/cohort_annual.csv",
+    "original_sha256": "342e2f3ee3242dc4c2dc10104b521ffb6185ba71df431f61956c97fab50acf0b",
+    "public_sha256": "2bbb561132e4c00fa08c59d3a7059a1aa2c656fa66f3d0e7471f28c796cbfc85",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/conditions.csv",
+    "path": "runtime/ma-reentry-20261017/conditions.csv",
+    "original_sha256": "c0169787bec01ba27d6f64751434d7e40e2a0beb47515b74f652bba6e4a64619",
+    "public_sha256": "92289a7d92c4c817fe31a0850676e8b5ced541864930b856abde7f5f0da098f0",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/leave_one_year_out.csv",
+    "path": "runtime/ma-reentry-20261017/leave_one_year_out.csv",
+    "original_sha256": "0f285afd1ba920d377f713f44b354a2a220214c1e80d68b26e8bb7acfb4a4990",
+    "public_sha256": "9c532c529243ae279cfbf3ba80ff6373be6216b134a0fc3e0854e8b983661c89",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/path_summary.csv",
+    "path": "runtime/ma-reentry-20261017/path_summary.csv",
+    "original_sha256": "93fd4268f28f8efc386d85d5795c10bed780496413f69b57222fb2eb399511d3",
+    "public_sha256": "49b145c0946fee68d37a77bbeca8a8268a0b4df299fd2a016de29aa829d5d8b6",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/KR_cycles.png",
+    "path": "runtime/ma-reentry-20261017/KR_cycles.png",
+    "original_sha256": "5cd9ec3344061fbf0cc2f70f88f626fe0f16e9ddda754c9c9a3f4b19e74cbb2f",
+    "public_sha256": "5cd9ec3344061fbf0cc2f70f88f626fe0f16e9ddda754c9c9a3f4b19e74cbb2f",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/US_cycles.png",
+    "path": "runtime/ma-reentry-20261017/US_cycles.png",
+    "original_sha256": "e1fd64a5e0af33581db18b50cca6216862d35e605082ab95060b22266e364470",
+    "public_sha256": "e1fd64a5e0af33581db18b50cca6216862d35e605082ab95060b22266e364470",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/KR_wealth.png",
+    "path": "runtime/ma-reentry-20261017/KR_wealth.png",
+    "original_sha256": "9ff9a2e7cf8b9411bc7d689da142156f7d6aeb0ef6dfbf7bd96a74f6d15978ab",
+    "public_sha256": "9ff9a2e7cf8b9411bc7d689da142156f7d6aeb0ef6dfbf7bd96a74f6d15978ab",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-reentry-20261017/US_wealth.png",
+    "path": "runtime/ma-reentry-20261017/US_wealth.png",
+    "original_sha256": "d33175669de25e09921a71d274a2fadbc18043a7a7e88d005865fa2df93abfda",
+    "public_sha256": "d33175669de25e09921a71d274a2fadbc18043a7a7e88d005865fa2df93abfda",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/protocol.json",
+    "path": "runtime/ma-timing-segments-20261018/protocol.json",
+    "original_sha256": "3fd9b343db10a1b91fe51debba81aa54542710e4fc481e9d11e1abc79eabd6de",
+    "public_sha256": "33d6faea1ff09dfbc9ba5549ea18e091537b9d9fe95c8d75251541f70169e884",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/results.json",
+    "path": "runtime/ma-timing-segments-20261018/results.json",
+    "original_sha256": "4007a06b3370eda90e018a5ae2b81e0dec0499c284f10dc55f43c61da17d04d0",
+    "public_sha256": "555d06705ee828e0b062e4ce544117829e1ce6d803ae90ca225c1517aab5c991",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/verification.json",
+    "path": "runtime/ma-timing-segments-20261018/verification.json",
+    "original_sha256": "4783dfbbcf61f7432f82238bb99ce17eed8a2ac2bbf153570a31b8774d222a27",
+    "public_sha256": "4ee02e39c8c3639e801e0b879846860cb1caf31cd171e651dda24a547d32a85e",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/simulation.json",
+    "path": "runtime/ma-timing-segments-20261018/simulation.json",
+    "original_sha256": "5e9505963d3ad625f16f9321541e6267975404b1a6f35a502b9592bbc236703c",
+    "public_sha256": "30a56e4784732726558c48874986dee6b7f2fa1e76b52b77898f1e4c365c4994",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/segment_summary.csv",
+    "path": "runtime/ma-timing-segments-20261018/segment_summary.csv",
+    "original_sha256": "0dd05469be4dda61f054e9096f0012461ad22876011a99b5699ff89547824ef8",
+    "public_sha256": "327d5e61f38b57c78a3b1d0ae5c6d90c644103bdeecff6c69b4d479e9ef8e7fc",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/path_summary.csv",
+    "path": "runtime/ma-timing-segments-20261018/path_summary.csv",
+    "original_sha256": "9d542dfbb0cafa6de3dfbf7acedc1355eefadd6d63ab97f597e60225839100e6",
+    "public_sha256": "954072f5c442466bca09db276dee705acdbeb9ce0c48be5d16875a2ec3c34cf4",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/cohort_summary.csv",
+    "path": "runtime/ma-timing-segments-20261018/cohort_summary.csv",
+    "original_sha256": "d6bf5a4d6a3415dd4f6155a35b163032f8f28954e8a625431abda4f788a48cd3",
+    "public_sha256": "6b4f01e74777b19f9e31322fe435236c2326a8d21a34a9bd27b317d0d67687a7",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/conditions.csv",
+    "path": "runtime/ma-timing-segments-20261018/conditions.csv",
+    "original_sha256": "e15be0d05579087b8df122fac42a682108030a9408644b891ac9f65c7485bad0",
+    "public_sha256": "ea743868a04741ccb77510aaa29fccc99bf84da030e01747dda68a5d52d8d4e6",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/annual_segments.csv",
+    "path": "runtime/ma-timing-segments-20261018/annual_segments.csv",
+    "original_sha256": "4f3e197513b443b1492d755127306f5211542ebef7b50dde1cf2bbf34649ee1e",
+    "public_sha256": "8081ae04fedeb320805e79b7d15c66fc1f4ce674424f17b8542a8326baad53e8",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/cohort_annual.csv",
+    "path": "runtime/ma-timing-segments-20261018/cohort_annual.csv",
+    "original_sha256": "f85b99b8aeddd6a2d5624ba9ffcd2342c74a08265fc7605c5d817826e05a24aa",
+    "public_sha256": "bf4a21ce68cd43bf25ab36f70258982fe30862e29520d20f6a82c0607ea9272a",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/cohort_leave_year_out.csv",
+    "path": "runtime/ma-timing-segments-20261018/cohort_leave_year_out.csv",
+    "original_sha256": "7c33d576856118b4a306d9084e15e1e4e5e70e4470f3e598ba7c37247d68b77d",
+    "public_sha256": "ad05384f1957f521eaed97f1ad5cd8d762fb06c27fde1cc245dfe3ccccbce598",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/leave_one_year_out.csv",
+    "path": "runtime/ma-timing-segments-20261018/leave_one_year_out.csv",
+    "original_sha256": "387f15bf2d726ae1f9b6a0045fa530642a32bb60926c07812210a44f63282a90",
+    "public_sha256": "3769d71443e1e233e3c2d7c94854704b35f4aab68c4b33f623b784dac3da586f",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/segment_counts.csv",
+    "path": "runtime/ma-timing-segments-20261018/segment_counts.csv",
+    "original_sha256": "113348d87becd5cb8232737d1c9132e005f90020c6f6c385659f62b50234ccc3",
+    "public_sha256": "d754751e3f9ca1049e7e90294ba171bfb71e36171c659ac30218739356cc655a",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/censoring.csv",
+    "path": "runtime/ma-timing-segments-20261018/censoring.csv",
+    "original_sha256": "d4dfbb0e873d349d74f4e9ed6c87ed21cd45364d38049ab51b7f6cfca575f0d7",
+    "public_sha256": "84024c0c6be01e41a29f8e06adbcdd6b8ff4659d1bb44487d080a53b614594aa",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/phase_examples.png",
+    "path": "runtime/ma-timing-segments-20261018/phase_examples.png",
+    "original_sha256": "32d6f8939ab2201e41611b8ea2518a5e560f8a9f5ccf58099272c4c85a4f10ef",
+    "public_sha256": "32d6f8939ab2201e41611b8ea2518a5e560f8a9f5ccf58099272c4c85a4f10ef",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/KR_intervals.png",
+    "path": "runtime/ma-timing-segments-20261018/KR_intervals.png",
+    "original_sha256": "79b84a179d459d4ac90946eaa2f03e8f4522809bcf13dbb43026c88efd5d054a",
+    "public_sha256": "79b84a179d459d4ac90946eaa2f03e8f4522809bcf13dbb43026c88efd5d054a",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/US_intervals.png",
+    "path": "runtime/ma-timing-segments-20261018/US_intervals.png",
+    "original_sha256": "9a5f24b8b44cca19af59e0d52efccb28ca104086d45c95ec32c958e611ec767b",
+    "public_sha256": "9a5f24b8b44cca19af59e0d52efccb28ca104086d45c95ec32c958e611ec767b",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/KR_relative_wealth.png",
+    "path": "runtime/ma-timing-segments-20261018/KR_relative_wealth.png",
+    "original_sha256": "f3957abe1260275e9fb97176e1c95c1a555182a2faf51c06fdd3c20a26d5ebe3",
+    "public_sha256": "f3957abe1260275e9fb97176e1c95c1a555182a2faf51c06fdd3c20a26d5ebe3",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-timing-segments-20261018/US_relative_wealth.png",
+    "path": "runtime/ma-timing-segments-20261018/US_relative_wealth.png",
+    "original_sha256": "57f69929a5c22b1b96e478ef414e60e20e3c1fec0cb10b2e1d6c7212855548e3",
+    "public_sha256": "57f69929a5c22b1b96e478ef414e60e20e3c1fec0cb10b2e1d6c7212855548e3",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v1/protocol.json",
+    "path": "runtime/ma-warning-20261016-v1/protocol.json",
+    "original_sha256": "54377ced6384d081b1c2b2b7d1808708beb4fd09b7e9bbb93095f72fe0def3b2",
+    "public_sha256": "abf0cfdd8a5122612eb04356c9aea06708fafb96854bcda362091903c3b863ef",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v1/final_results.json",
+    "path": "runtime/ma-warning-20261016-v1/final_results.json",
+    "original_sha256": "399967acfc6cbe5150563566d3d72ece1fb99718b3db1da75dcb86b90a9e48bc",
+    "public_sha256": "e77e7e5b15f1a9de787deee854302b20da88feb14e7066ea52f89abff1bfcded",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v1/selection_frozen.json",
+    "path": "runtime/ma-warning-20261016-v1/selection_frozen.json",
+    "original_sha256": "5f23a55c94bdf3f1bd98eee948dcdda9df341baf059063c5767de069839c0d46",
+    "public_sha256": "e169c07f8bf84bb900d95f575716768850e65b5f5d44dd0745b810ddb4095e3d",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-peak126/protocol.json",
+    "path": "runtime/ma-warning-20261016-peak126/protocol.json",
+    "original_sha256": "54377ced6384d081b1c2b2b7d1808708beb4fd09b7e9bbb93095f72fe0def3b2",
+    "public_sha256": "abf0cfdd8a5122612eb04356c9aea06708fafb96854bcda362091903c3b863ef",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-peak126/final_results.json",
+    "path": "runtime/ma-warning-20261016-peak126/final_results.json",
+    "original_sha256": "fe27a4e60283f32ffae5b48aed1837bebb5fca077cea3dc9248e753c138867b7",
+    "public_sha256": "f3d7e4b3c1e2b60f6e0579404615ddd352c9cce34caed917fc257434bad53154",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/protocol.json",
+    "path": "runtime/ma-warning-20261016-v2-15early/protocol.json",
+    "original_sha256": "e9fbcd426535d086573dd0c65dabf8188cdc85864af2de11ebb73ab76edc96fc",
+    "public_sha256": "50db3af7be366aca5f9c8bc73104d618fb98530faad8ebddc44d9f791a95a590",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/final_results.json",
+    "path": "runtime/ma-warning-20261016-v2-15early/final_results.json",
+    "original_sha256": "0b470188e9421c67ca05888a3d8fc34ec0d3c66995c7f442c30bc17e7e1f254b",
+    "public_sha256": "5c9097d07049a8ba5b34ea89f423bc94a882c0e704803c4c732c1a20bf6abdb7",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/selection_frozen.json",
+    "path": "runtime/ma-warning-20261016-v2-15early/selection_frozen.json",
+    "original_sha256": "0b77fc3e4965111c0e1cbdc7e621edecf354806f8b69c11ec29da50689654301",
+    "public_sha256": "bae37cc7364a75fd4a9ba8f0d2841d71c7ba0ce9354c586827e43f50dfcd2c2c",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/diagnostics.json",
+    "path": "runtime/ma-warning-20261016-v2-15early/diagnostics.json",
+    "original_sha256": "38933390ac140438649c57fa304a6c3f1ee052180c4598bd059b5e2df8f3f924",
+    "public_sha256": "fd237d196b10d24e900d976b7096bcaac73d6c5a529060a03e763186ddb93eaf",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/verification.json",
+    "path": "runtime/ma-warning-20261016-v2-15early/verification.json",
+    "original_sha256": "4f2adb295d7727c96211f4fc26d9261bf29af57f9d31652998265265cb64e595",
+    "public_sha256": "988d2e76e87abe98fc8cb90fe027f4cd09646fd2a8e3003b6c170c297d232c69",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/fixed_candidate_subgroups.csv",
+    "path": "runtime/ma-warning-20261016-v2-15early/fixed_candidate_subgroups.csv",
+    "original_sha256": "f33113d8a9d121e0de952c26e5e26ced82e868bb71b3b23dffc49754e1f8e5ec",
+    "public_sha256": "25726a685400520073612f121ea41c47df4cf7cd9ea897173775a8c30dc4d835",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/KR_core_all44.csv",
+    "path": "runtime/ma-warning-20261016-v2-15early/KR_core_all44.csv",
+    "original_sha256": "cac1927c0f4617ca6d7b8bb5310dc9d30da633a4c6dc716d6a7a3499365d7fb8",
+    "public_sha256": "e28a70e4f6b20f2d9461e8c1bc8ec7b547bf63935867fbbccd6d9fa880afff99",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/KR_largecap_all44.csv",
+    "path": "runtime/ma-warning-20261016-v2-15early/KR_largecap_all44.csv",
+    "original_sha256": "a47cecc63b698c705143392ea096036d7a2068cfc06d41ccf0729f7923ea144e",
+    "public_sha256": "c0e1e760825c6d1c4210fce02b5e410f971dc8e30f571795249f50e246f0b225",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/US_core_all44.csv",
+    "path": "runtime/ma-warning-20261016-v2-15early/US_core_all44.csv",
+    "original_sha256": "aafec0117a7204d62b967028a8fe0de1d0a7e272831c90164e16e6882a1470f4",
+    "public_sha256": "14691c8dfc4880715ad95bca9d908101ecb28c6e293a85133b180df683078833",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/US_largecap_all44.csv",
+    "path": "runtime/ma-warning-20261016-v2-15early/US_largecap_all44.csv",
+    "original_sha256": "84442db1cfe0e904a53fc9027d2169b6c6f5a897639b843743b8624f5c0b754c",
+    "public_sha256": "28f2e7552e1e196f70f332b4c3403c7ffafc22e4eaf89ab446929ba81e69a173",
+    "edited": true
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/KR_timing.png",
+    "path": "runtime/ma-warning-20261016-v2-15early/KR_timing.png",
+    "original_sha256": "70c64ea965255389505b9858faeaf03d4cd8b107e8e0c53a03523808349f38ab",
+    "public_sha256": "70c64ea965255389505b9858faeaf03d4cd8b107e8e0c53a03523808349f38ab",
+    "edited": false
+  },
+  {
+    "source": "runtime/ma-warning-20261016-v2-15early/US_timing.png",
+    "path": "runtime/ma-warning-20261016-v2-15early/US_timing.png",
+    "original_sha256": "f554a57b0683c0d6068d7de2c6b639024024380506ee42283346814245274a89",
+    "public_sha256": "f554a57b0683c0d6068d7de2c6b639024024380506ee42283346814245274a89",
+    "edited": false
+  },
+  {
+    "source": "scripts/research/drawdown/ma_dd_describe.py",
+    "path": "scripts/research/drawdown/ma_dd_describe.py",
+    "original_sha256": "9b8bc5e207cdd7e22ecb59753c08a163035ff6fa8c5b9903b10fb8e46b452ceb",
+    "public_sha256": "d853c17d9d8609dace62abc528ce6b156ad909fa1d93519326b3c851af84aa0c",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/drawdown/ma_dd_protocol.json",
+    "path": "scripts/research/drawdown/ma_dd_protocol.json",
+    "original_sha256": "9cc9d4d96723cd6e31c51427fcdc6143e7bb0da7a9d429241bece4f3b491b6fc",
+    "public_sha256": "5208148575f0cb9a781d0101bcaaf759dce27cbc3c021e7037ed33c3daa7ce3f",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/drawdown/verify_ma_dd.py",
+    "path": "scripts/research/drawdown/verify_ma_dd.py",
+    "original_sha256": "4ef6a7476c2ad07a5bb1d9be81289a311eebfba4e4a5bc71c464c4855a3f4544",
+    "public_sha256": "4ef6a7476c2ad07a5bb1d9be81289a311eebfba4e4a5bc71c464c4855a3f4544",
+    "edited": false
+  },
+  {
+    "source": "scripts/research/exit4/ma_exit4_diagnostics.py",
+    "path": "scripts/research/exit4/ma_exit4_diagnostics.py",
+    "original_sha256": "cfa2848505468e11254d0b99bacca07583b0accb0159acec740532de9a8ed0a9",
+    "public_sha256": "23b693e7f888201f4197e53c0fd03b1fc2c495a2c36c9a4669ab6c431fe536c2",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/exit4/ma_exit4_protocol.json",
+    "path": "scripts/research/exit4/ma_exit4_protocol.json",
+    "original_sha256": "ac0807ca071d64100690e842e83a0594de82c38b8191ed93896929dab23235bd",
+    "public_sha256": "e6792ab425b01376cf6af4ac13238c55128e5f2549390cda9596377ad93bc1bc",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/exit4/ma_exit4_research.py",
+    "path": "scripts/research/exit4/ma_exit4_research.py",
+    "original_sha256": "a1b8b346ebcc92bc3ef2e4f94b2aeb48ecaa16a37fa3520bb07d34e4440f5057",
+    "public_sha256": "90e43c0047e3ad6526cc5b2569469c5e6a86bf868cb7abfc1762f9e684ae364c",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning15_diagnostics.py",
+    "path": "scripts/research/warning/ma_warning15_diagnostics.py",
+    "original_sha256": "a4dd5569626dd2be5fb95730ab33da0d1922dde44a8785f0a3e3e9a70b4582d5",
+    "public_sha256": "99f577821b039c820e2ca15abf88bf677a9c6c4073563e450101451a5c877beb",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning15_protocol.json",
+    "path": "scripts/research/warning/ma_warning15_protocol.json",
+    "original_sha256": "e9fbcd426535d086573dd0c65dabf8188cdc85864af2de11ebb73ab76edc96fc",
+    "public_sha256": "50db3af7be366aca5f9c8bc73104d618fb98530faad8ebddc44d9f791a95a590",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning15_research.py",
+    "path": "scripts/research/warning/ma_warning15_research.py",
+    "original_sha256": "2ac02ca2142f6e5a58806e6d21120169cf365c84d43052e8ed5da00babdcfd3c",
+    "public_sha256": "fc6db094df9fd8f345b568af76935614e477c4d0bce1216af6c5790175288b24",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning_diagnostics.py",
+    "path": "scripts/research/warning/ma_warning_diagnostics.py",
+    "original_sha256": "64a76dd46086348117ca92d05135186b7ab2ef0fdc4b5f8e1c9f320837906f96",
+    "public_sha256": "dacd1af6e41e664ca1dbfffc3dc3c09f218778dec8e8fab975e2da94e2d3d73e",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning_protocol.json",
+    "path": "scripts/research/warning/ma_warning_protocol.json",
+    "original_sha256": "f4b3f20c7a902685d13718a55de130377c28624cd1ae5b6853a29cc03bf3de3e",
+    "public_sha256": "abf0cfdd8a5122612eb04356c9aea06708fafb96854bcda362091903c3b863ef",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/warning/ma_warning_research.py",
+    "path": "scripts/research/warning/ma_warning_research.py",
+    "original_sha256": "b967a8505429b494ca692b998bdfd142ce55156300d6afa2de4b82de96a787ab",
+    "public_sha256": "b967a8505429b494ca692b998bdfd142ce55156300d6afa2de4b82de96a787ab",
+    "edited": false
+  },
+  {
+    "source": "scripts/research/warning/verify_ma_warning15.py",
+    "path": "scripts/research/warning/verify_ma_warning15.py",
+    "original_sha256": "ce27dc3f28a7400c1b5aee3519b8206d9ac7ea289bdbf53cd007dfdcf081d6cc",
+    "public_sha256": "a8e7ac1d28b1cbdd0347014dbef8610eac771d1fdc43cdc0afc9ba62f443354e",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/reentry/ma_reentry_protocol.json",
+    "path": "scripts/research/reentry/ma_reentry_protocol.json",
+    "original_sha256": "981b3843df8143faebbbb9c143f6ddbd0a22f2077c08f77a07aa9ea67de00dfb",
+    "public_sha256": "cb6b5437c66a2f184b011d2a46b90b3b26a279171963b6e2f18b3bc80ca88ab8",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/reentry/ma_reentry_research.py",
+    "path": "scripts/research/reentry/ma_reentry_research.py",
+    "original_sha256": "2bd7a1535accbf6a734ab8d2811951cd6dc737b868f6a10e831c9ab8ee2af91e",
+    "public_sha256": "2bd7a1535accbf6a734ab8d2811951cd6dc737b868f6a10e831c9ab8ee2af91e",
+    "edited": false
+  },
+  {
+    "source": "scripts/research/reentry/ma_reentry_statistics.py",
+    "path": "scripts/research/reentry/ma_reentry_statistics.py",
+    "original_sha256": "3b92ea54f0e3f50ee3d3ebd2565f3bff11ec06d15a4095cdef288f83476740a7",
+    "public_sha256": "7275395dc67b4068bc6d9dc3c325932abbfe252ac2248a850bcf86713b71bb38",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/reentry/verify_ma_reentry.py",
+    "path": "scripts/research/reentry/verify_ma_reentry.py",
+    "original_sha256": "de3196b6364e80d118d2658a26042f56643a69b3c23bba07ba62f9b1aaa20f06",
+    "public_sha256": "a0c455c2b08a3af4e87287cec2ab2ffe99e1ea966a545c1b55f416399221ac35",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/timing/ma_timing_protocol.json",
+    "path": "scripts/research/timing/ma_timing_protocol.json",
+    "original_sha256": "3fd9b343db10a1b91fe51debba81aa54542710e4fc481e9d11e1abc79eabd6de",
+    "public_sha256": "33d6faea1ff09dfbc9ba5549ea18e091537b9d9fe95c8d75251541f70169e884",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/timing/ma_timing_segments.py",
+    "path": "scripts/research/timing/ma_timing_segments.py",
+    "original_sha256": "161afd136fb28bb8e9b14ac7c9f5c430c051a0275f101f0f950b246120d70092",
+    "public_sha256": "36a636d7906557257f42bfd682fa80d03d8c063dccc0ef7fdb2aa101ae2997e6",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/timing/ma_timing_statistics.py",
+    "path": "scripts/research/timing/ma_timing_statistics.py",
+    "original_sha256": "9e1ca05c45b707cbf76bde04586dd800dac0c26b4cfa17159c3c70203e13546a",
+    "public_sha256": "d3ab6998324290c0c68e145152989190b94451047242afbe33eee8e9b01ee316",
+    "edited": true
+  },
+  {
+    "source": "scripts/research/timing/verify_ma_timing.py",
+    "path": "scripts/research/timing/verify_ma_timing.py",
+    "original_sha256": "6eb7541c19a7e75bc6333a820d189581e41257e14334fcd79d93c18da9b1ac20",
+    "public_sha256": "e4cf3724e50268f66e1eb2878fd0841ec4adc6c9b41c4285f54ed204fabf38ed",
+    "edited": true
+  },
+  {
+    "source": "tests/test_ma_dd_describe.py",
+    "path": "tests/test_ma_dd_describe.py",
+    "original_sha256": "7c3d00182a53d69611fe56276a809bd433fe9dfc8e9a552d98abcd42bb1b45ae",
+    "public_sha256": "7c3d00182a53d69611fe56276a809bd433fe9dfc8e9a552d98abcd42bb1b45ae",
+    "edited": false
+  },
+  {
+    "source": "tests/test_ma_exit4_research.py",
+    "path": "tests/test_ma_exit4_research.py",
+    "original_sha256": "015b5f2dfb8456d29373e39db2ec619e6429281d2fa20264a939967bb88594f7",
+    "public_sha256": "015b5f2dfb8456d29373e39db2ec619e6429281d2fa20264a939967bb88594f7",
+    "edited": false
+  },
+  {
+    "source": "tests/test_ma_reentry.py",
+    "path": "tests/test_ma_reentry.py",
+    "original_sha256": "d0fccd8419171aaa51fdefe2223d668157844f955231109520ac5061c001a121",
+    "public_sha256": "d0fccd8419171aaa51fdefe2223d668157844f955231109520ac5061c001a121",
+    "edited": false
+  },
+  {
+    "source": "tests/test_ma_timing_segments.py",
+    "path": "tests/test_ma_timing_segments.py",
+    "original_sha256": "07d58f0d87187913dccfcd7d1c134a52e17725ad5df510312e8c5cf27f1da2a7",
+    "public_sha256": "07d58f0d87187913dccfcd7d1c134a52e17725ad5df510312e8c5cf27f1da2a7",
+    "edited": false
+  },
+  {
+    "source": "tests/test_ma_warning_research.py",
+    "path": "tests/test_ma_warning_research.py",
+    "original_sha256": "9a53f027f72d7b9951bdd03b1ae45abf9a62b4733bda31e6e9ae9a1df94a1c2c",
+    "public_sha256": "9a53f027f72d7b9951bdd03b1ae45abf9a62b4733bda31e6e9ae9a1df94a1c2c",
+    "edited": false
+  }
+]

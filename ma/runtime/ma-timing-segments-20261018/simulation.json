@@ -1,0 +1,41 @@
+{
+  "protocol_sha256": "3fd9b343db10a1b91fe51debba81aa54542710e4fc481e9d11e1abc79eabd6de",
+  "source_prepared": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\ma-reentry-20261017\\prepared.json",
+  "source_sha256": "3a365d48e48f4919c1a41dd4cfc1f2cb8d1d17b9af3ceff4621444e0a767ae5e",
+  "segments": {
+    "KR": 400681,
+    "US": 1848943
+  },
+  "paths": 564354,
+  "trades": 2227988,
+  "cohorts": [
+    {
+      "market": "KR",
+      "period": "full",
+      "n": 200,
+      "stale": 16,
+      "signal_date": "2016-01-04"
+    },
+    {
+      "market": "KR",
+      "period": "oos",
+      "n": 198,
+      "stale": 5,
+      "signal_date": "2023-04-03"
+    },
+    {
+      "market": "US",
+      "period": "full",
+      "n": 720,
+      "stale": 0,
+      "signal_date": "2016-01-04"
+    },
+    {
+      "market": "US",
+      "period": "oos",
+      "n": 1155,
+      "stale": 0,
+      "signal_date": "2023-04-03"
+    }
+  ]
+}

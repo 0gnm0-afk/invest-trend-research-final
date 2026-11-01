@@ -1,0 +1,217 @@
+{
+  "mdd_reduction_ci": {
+    "symbol": {
+      "estimate": 0.2164308785067548,
+      "ci95": [
+        0.20939280229721094,
+        0.2237037271522815
+      ],
+      "clusters": 704,
+      "one_sided_p_normal_cluster_approximation": 0.0,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": null
+    },
+    "quarter": {
+      "estimate": 0.21988551355581232,
+      "ci95": [
+        0.2056243958599122,
+        0.23594982967297437
+      ],
+      "clusters": 21,
+      "one_sided_p_normal_cluster_approximation": 2.6755605163618875e-180,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": 4
+    }
+  },
+  "expect20_ci": {
+    "symbol": {
+      "estimate": 0.0024762293535663684,
+      "ci95": [
+        -0.004147398300135732,
+        0.009507587630770139
+      ],
+      "clusters": 704,
+      "one_sided_p_normal_cluster_approximation": 0.23533255904164108,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": null
+    },
+    "quarter": {
+      "estimate": -0.0023510059088429017,
+      "ci95": [
+        -0.023601367830372793,
+        0.013820782098574442
+      ],
+      "clusters": 21,
+      "one_sided_p_normal_cluster_approximation": 0.596856111608826,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": 4
+    }
+  },
+  "equal_weights_same_timing": {
+    "return": -0.0057151289234386796,
+    "return_robust": -0.005997920881335168,
+    "hold_delta": -0.006972654001439872,
+    "giveback_pp": 0.3780113226312376,
+    "giveback_fraction": 1.0700319380401764,
+    "missed": 0.2765492123011503,
+    "defense": 0.19315811056535462,
+    "mdd": 0.15989661963463786,
+    "sales": 3.7616573622202507,
+    "sold": 0.9404143405550627,
+    "success5": 0.4988369827097505,
+    "success20": 0.5333811328728351,
+    "success60": 0.5575494966253409,
+    "expect5": -0.0034767606371454572,
+    "expect20": 0.0017451045282411103,
+    "expect60": -0.001284054972111321,
+    "cost": 0.003082768104973304,
+    "capture": -0.07003193804017642
+  },
+  "optimized_minus_equal_return_ci": {
+    "symbol": {
+      "estimate": 0.001454982162546924,
+      "ci95": [
+        -0.0011763754935500215,
+        0.0041249670008221195
+      ],
+      "clusters": 704,
+      "one_sided_p_normal_cluster_approximation": 0.13953109474641184,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": null
+    },
+    "quarter": {
+      "estimate": -0.0015156293782654737,
+      "ci95": [
+        -0.014178794752832118,
+        0.006950643594900331
+      ],
+      "clusters": 21,
+      "one_sided_p_normal_cluster_approximation": 0.605661775041725,
+      "null_value": 0.0,
+      "finite_replicates": 2000,
+      "block_quarters": 4
+    }
+  },
+  "exclude_worst1pct_hold_cycles": {
+    "removed": 26,
+    "chosen": {
+      "return": -0.0005642292394227302,
+      "return_robust": -0.0008532205712655457,
+      "hold_delta": -0.015137646001468715,
+      "giveback_pp": 0.3786153065109332,
+      "giveback_fraction": 1.0440263466500732,
+      "missed": 0.3010877684230141,
+      "defense": 0.2003935565091628,
+      "mdd": 0.133748982408764,
+      "sales": 3.7599155161016737,
+      "sold": 0.9521287946818329,
+      "success5": 0.4989683208766744,
+      "success20": 0.5339236448901195,
+      "success60": 0.5554444924496121,
+      "expect5": -0.006095874867433199,
+      "expect20": -0.0011638808456181512,
+      "expect60": -0.004912780693288773,
+      "cost": 0.0031203528835236755,
+      "capture": -0.04402634665007316
+    },
+    "hold": {
+      "return": 0.014573416762045984,
+      "return_robust": 0.0044256459504322925,
+      "hold_delta": 0.0,
+      "giveback_pp": 0.3634776605094645,
+      "giveback_fraction": 1.0628931059234423,
+      "missed": 0.0,
+      "defense": 0.0,
+      "mdd": 0.34695603696913335,
+      "sales": 0.0,
+      "sold": 0.0,
+      "success5": null,
+      "success20": null,
+      "success60": null,
+      "expect5": 0.0,
+      "expect20": 0.0,
+      "expect60": 0.0,
+      "cost": 0.0012483771844730407,
+      "capture": -0.06289310592344236
+    }
+  },
+  "best_early_development_candidate": {
+    "id": "slope_protect__early5__c2__10-70-10-10",
+    "selection_score": 0.5584117647058823,
+    "test": {
+      "return": -0.004630127171181287,
+      "return_robust": -0.004864248407804614,
+      "hold_delta": -0.0058876522491824795,
+      "giveback_pp": 0.37692632087898015,
+      "giveback_fraction": 1.0395750483836268,
+      "missed": 0.3209692211755877,
+      "defense": 0.22358820357115622,
+      "mdd": 0.1218695219583509,
+      "sales": 3.952266957507641,
+      "sold": 0.9952266957507641,
+      "success5": 0.5087020198830338,
+      "success20": 0.5541355594170034,
+      "success60": 0.5751746577757513,
+      "expect5": -0.0028113108411462165,
+      "expect20": 0.0030859188094296427,
+      "expect60": 0.0035485299169765805,
+      "cost": 0.003224116106049871,
+      "capture": -0.039575048383626764
+    },
+    "no_hold": {
+      "return": -0.0038809042721310413,
+      "return_robust": -0.004115025508754366,
+      "hold_delta": -0.00513842935013223,
+      "giveback_pp": 0.37617709797992993,
+      "giveback_fraction": 1.0408614236127174,
+      "missed": 0.3117925104097242,
+      "defense": 0.21814456071862148,
+      "mdd": 0.12379018554903978,
+      "sales": 3.7585873570442674,
+      "sold": 0.9758587357044266,
+      "success5": 0.5074449294361465,
+      "success20": 0.5507297563248327,
+      "success60": 0.5699016015423883,
+      "expect5": -0.002702634468677532,
+      "expect20": 0.0026391049440124487,
+      "expect60": 0.005255237296354062,
+      "cost": 0.0031776388532631815,
+      "capture": -0.040861423612717426
+    },
+    "early_hold_delta_return_ci": {
+      "symbol": {
+        "estimate": -0.000749222899050246,
+        "ci95": [
+          -0.0027345299965732795,
+          0.0012014081648495981
+        ],
+        "clusters": 704,
+        "one_sided_p_normal_cluster_approximation": 0.766437095083588,
+        "null_value": 0.0,
+        "finite_replicates": 2000,
+        "block_quarters": null
+      },
+      "quarter": {
+        "estimate": 0.0009030970220050018,
+        "ci95": [
+          -0.0011649889081571032,
+          0.0029539163582755663
+        ],
+        "clusters": 21,
+        "one_sided_p_normal_cluster_approximation": 0.19590414664203223,
+        "null_value": 0.0,
+        "finite_replicates": 2000,
+        "block_quarters": 4
+      }
+    },
+    "hold_episodes": 2290,
+    "hurt_gt5pp": 101,
+    "helped_gt5pp": 52,
+    "worst_harm_pp": -0.575785071975232
+  }
+}

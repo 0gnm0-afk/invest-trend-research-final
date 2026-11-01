@@ -1,0 +1,48 @@
+[
+  {
+    "category": "pre_golden_early_recovery",
+    "n": 1809,
+    "symbols": 672,
+    "positive20": {
+      "mean_symbol_balanced": 0.4217410714285714,
+      "ci95_symbol": [
+        0.3955169778138528,
+        0.447427573728355
+      ],
+      "mean_quarter_balanced": 0.43450653617162205,
+      "ci95_quarter": [
+        0.3753684048104461,
+        0.5202549476063686
+      ],
+      "median_raw": 0.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.010455067471779768,
+      "ci95_symbol": [
+        -0.018982247907479603,
+        -0.0014459773793755646
+      ],
+      "mean_quarter_balanced": -0.009395990059796914,
+      "ci95_quarter": [
+        -0.029298336841754084,
+        0.016688162621085
+      ],
+      "median_raw": -0.019999999999999907
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.7886908143939394,
+      "ci95_symbol": [
+        0.7668149688852814,
+        0.8089778645833334
+      ],
+      "mean_quarter_balanced": 0.7981880854195038,
+      "ci95_quarter": [
+        0.7386711493445648,
+        0.8487749842326792
+      ],
+      "median_raw": 1.0
+    },
+    "golden_never_in_available_followup": 0,
+    "median_lead_sessions_when_eventually_crossed": 3.0
+  }
+]

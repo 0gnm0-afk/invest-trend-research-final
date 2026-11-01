@@ -1,0 +1,3806 @@
+{
+  "created_at": "2026-10-16T14:00:32.178214+00:00",
+  "source": "<USER_HOME>\\Desktop\\Ai 사일로\\invest-agent-workbench\\runtime\\ma-warning-20261016-v1",
+  "source_audit_sha256": "f80ea832c921d9197b190887ccc66a7657831c6e38f905537c94e68eb8c4bd78",
+  "protocol_sha256": "e9fbcd426535d086573dd0c65dabf8188cdc85864af2de11ebb73ab76edc96fc",
+  "revision": "human requested primary15%; v1 preserved; no claim of virgin validation",
+  "markets": {
+    "KR": {
+      "largecap": {
+        "qualified_count": 0,
+        "candidates": [
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.6984015745355812,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 471,
+            "validation_symbols": 57,
+            "validation_precision": 0.44798301486199577,
+            "validation_recall": 0.9190283400809717,
+            "validation_exec_dd": 0.05905511811023623,
+            "validation_uplift": 0.07570093457943924
+          },
+          {
+            "id": "close_below_ma20__c2__first_state",
+            "signal": "close_below_ma20__c2",
+            "kind": "first_state",
+            "j": 5,
+            "score": 0.6984015745355812,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 471,
+            "validation_symbols": 57,
+            "validation_precision": 0.44798301486199577,
+            "validation_recall": 0.9190283400809717,
+            "validation_exec_dd": 0.05905511811023623,
+            "validation_uplift": 0.07570093457943924
+          },
+          {
+            "id": "close_below_ma10__c2__first",
+            "signal": "close_below_ma10__c2",
+            "kind": "first",
+            "j": 3,
+            "score": 0.6088464037021113,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 599,
+            "validation_symbols": 57,
+            "validation_precision": 0.3606010016694491,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.04085257548845467,
+            "validation_uplift": 0.029261363636363644
+          }
+        ],
+        "all_candidates": [
+          {
+            "id": "close_below_ma5__c1__first",
+            "signal": "close_below_ma5__c1",
+            "kind": "first",
+            "j": 0,
+            "score": 0.47654540292913883,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 952,
+            "validation_symbols": 57,
+            "validation_precision": 0.22899159663865545,
+            "validation_recall": 0.9635627530364372,
+            "validation_exec_dd": 0.025347243468151537,
+            "validation_uplift": -0.02702589807852966
+          },
+          {
+            "id": "close_below_ma5__c2__first",
+            "signal": "close_below_ma5__c2",
+            "kind": "first",
+            "j": 1,
+            "score": 0.5432747568068307,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 757,
+            "validation_symbols": 57,
+            "validation_precision": 0.2892998678996037,
+            "validation_recall": 0.9635627530364372,
+            "validation_exec_dd": 0.030303030303030276,
+            "validation_uplift": -0.00022956841138658995
+          },
+          {
+            "id": "close_below_ma10__c1__first",
+            "signal": "close_below_ma10__c1",
+            "kind": "first",
+            "j": 2,
+            "score": 0.5781234830535787,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 714,
+            "validation_symbols": 57,
+            "validation_precision": 0.30392156862745096,
+            "validation_recall": 0.9554655870445344,
+            "validation_exec_dd": 0.034868133923561306,
+            "validation_uplift": 0.018701095461658847
+          },
+          {
+            "id": "close_below_ma10__c2__first",
+            "signal": "close_below_ma10__c2",
+            "kind": "first",
+            "j": 3,
+            "score": 0.6088464037021113,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 599,
+            "validation_symbols": 57,
+            "validation_precision": 0.3606010016694491,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.04085257548845467,
+            "validation_uplift": 0.029261363636363644
+          },
+          {
+            "id": "close_below_ma20__c1__first",
+            "signal": "close_below_ma20__c1",
+            "kind": "first",
+            "j": 4,
+            "score": 0.5481903931945314,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 528,
+            "validation_symbols": 57,
+            "validation_precision": 0.4109848484848485,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.052632262767927096,
+            "validation_uplift": -0.0027343750000000007
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.6984015745355812,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 471,
+            "validation_symbols": 57,
+            "validation_precision": 0.44798301486199577,
+            "validation_recall": 0.9190283400809717,
+            "validation_exec_dd": 0.05905511811023623,
+            "validation_uplift": 0.07570093457943924
+          },
+          {
+            "id": "ma5_below_ma10__c1__first",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first",
+            "j": 6,
+            "score": 0.43403727099150813,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 613,
+            "validation_symbols": 56,
+            "validation_precision": 0.35073409461663946,
+            "validation_recall": 0.9473684210526315,
+            "validation_exec_dd": 0.040000000000000036,
+            "validation_uplift": -0.056380952380952365
+          },
+          {
+            "id": "ma5_below_ma10__c2__first",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first",
+            "j": 7,
+            "score": 0.50761290239081,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 580,
+            "validation_symbols": 56,
+            "validation_precision": 0.36379310344827587,
+            "validation_recall": 0.9230769230769231,
+            "validation_exec_dd": 0.04239856189008734,
+            "validation_uplift": -0.016101694915254233
+          },
+          {
+            "id": "ma5_below_ma20__c1__first",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first",
+            "j": 8,
+            "score": 0.5366700781436058,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 453,
+            "validation_symbols": 56,
+            "validation_precision": 0.45474613686534215,
+            "validation_recall": 0.8987854251012146,
+            "validation_exec_dd": 0.06074739448379107,
+            "validation_uplift": -0.0017906336088154206
+          },
+          {
+            "id": "ma5_below_ma20__c2__first",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first",
+            "j": 9,
+            "score": 0.5906295382540727,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 430,
+            "validation_symbols": 56,
+            "validation_precision": 0.4604651162790698,
+            "validation_recall": 0.8623481781376519,
+            "validation_exec_dd": 0.06048293811451705,
+            "validation_uplift": 0.030575539568345335
+          },
+          {
+            "id": "ma10_below_ma20__c1__first",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first",
+            "j": 10,
+            "score": 0.5593519395871019,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 423,
+            "validation_symbols": 56,
+            "validation_precision": 0.4657210401891253,
+            "validation_recall": 0.8582995951417004,
+            "validation_exec_dd": 0.06060606060606055,
+            "validation_uplift": 0.014918414918414924
+          },
+          {
+            "id": "ma10_below_ma20__c2__first",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first",
+            "j": 11,
+            "score": 0.4614140830321962,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 402,
+            "validation_symbols": 56,
+            "validation_precision": 0.4651741293532338,
+            "validation_recall": 0.8178137651821862,
+            "validation_exec_dd": 0.06375568963692174,
+            "validation_uplift": -0.025308641975308643
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 12,
+            "score": 0.5215533915289117,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 684,
+            "validation_symbols": 56,
+            "validation_precision": 0.3157894736842105,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.0357142857142857,
+            "validation_uplift": -0.010232558139534888
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 13,
+            "score": 0.48096025966435363,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 626,
+            "validation_symbols": 56,
+            "validation_precision": 0.3466453674121406,
+            "validation_recall": 0.9473684210526315,
+            "validation_exec_dd": 0.039136107451519075,
+            "validation_uplift": -0.03273809523809523
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 14,
+            "score": 0.3914301755045525,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 537,
+            "validation_symbols": 56,
+            "validation_precision": 0.3929236499068901,
+            "validation_recall": 0.9271255060728745,
+            "validation_exec_dd": 0.05069930069930073,
+            "validation_uplift": -0.07512077294685991
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 15,
+            "score": 0.404506257445739,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 510,
+            "validation_symbols": 56,
+            "validation_precision": 0.4117647058823529,
+            "validation_recall": 0.9190283400809717,
+            "validation_exec_dd": 0.052970177970177945,
+            "validation_uplift": -0.06885644768856448
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 16,
+            "score": 0.5921163209103502,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 397,
+            "validation_symbols": 56,
+            "validation_precision": 0.4760705289672544,
+            "validation_recall": 0.8299595141700404,
+            "validation_exec_dd": 0.06818181818181823,
+            "validation_uplift": 0.03849557522123895
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 17,
+            "score": 0.6032695295512264,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 370,
+            "validation_symbols": 56,
+            "validation_precision": 0.4918918918918919,
+            "validation_recall": 0.8016194331983806,
+            "validation_exec_dd": 0.06841322673254868,
+            "validation_uplift": 0.04677419354838711
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first",
+            "j": 18,
+            "score": 0.6905063274486891,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 384,
+            "validation_symbols": 57,
+            "validation_precision": 0.4947916666666667,
+            "validation_recall": 0.8340080971659919,
+            "validation_exec_dd": 0.07055051746283475,
+            "validation_uplift": 0.0853582554517134
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first",
+            "j": 19,
+            "score": 0.6100185669295092,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 351,
+            "validation_symbols": 57,
+            "validation_precision": 0.5213675213675214,
+            "validation_recall": 0.8016194331983806,
+            "validation_exec_dd": 0.07423121837290769,
+            "validation_uplift": 0.048636363636363644
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first",
+            "j": 20,
+            "score": 0.5941336652030142,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 378,
+            "validation_symbols": 56,
+            "validation_precision": 0.49206349206349204,
+            "validation_recall": 0.8178137651821862,
+            "validation_exec_dd": 0.0708012813108796,
+            "validation_uplift": 0.04054054054054055
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first",
+            "j": 21,
+            "score": 0.6540688866635267,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 349,
+            "validation_symbols": 56,
+            "validation_precision": 0.5128939828080229,
+            "validation_recall": 0.7854251012145749,
+            "validation_exec_dd": 0.07374958411888655,
+            "validation_uplift": 0.07452574525745258
+          },
+          {
+            "id": "close_below_ma5__c1__first_state",
+            "signal": "close_below_ma5__c1",
+            "kind": "first_state",
+            "j": 0,
+            "score": 0.47654540292913883,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 952,
+            "validation_symbols": 57,
+            "validation_precision": 0.22899159663865545,
+            "validation_recall": 0.9635627530364372,
+            "validation_exec_dd": 0.025347243468151537,
+            "validation_uplift": -0.02702589807852966
+          },
+          {
+            "id": "close_below_ma5__c2__first_state",
+            "signal": "close_below_ma5__c2",
+            "kind": "first_state",
+            "j": 1,
+            "score": 0.5432747568068307,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 757,
+            "validation_symbols": 57,
+            "validation_precision": 0.2892998678996037,
+            "validation_recall": 0.9635627530364372,
+            "validation_exec_dd": 0.030303030303030276,
+            "validation_uplift": -0.00022956841138658995
+          },
+          {
+            "id": "close_below_ma10__c1__first_state",
+            "signal": "close_below_ma10__c1",
+            "kind": "first_state",
+            "j": 2,
+            "score": 0.5781234830535787,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 714,
+            "validation_symbols": 57,
+            "validation_precision": 0.30392156862745096,
+            "validation_recall": 0.9554655870445344,
+            "validation_exec_dd": 0.034868133923561306,
+            "validation_uplift": 0.018701095461658847
+          },
+          {
+            "id": "close_below_ma10__c2__first_state",
+            "signal": "close_below_ma10__c2",
+            "kind": "first_state",
+            "j": 3,
+            "score": 0.6088464037021113,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 599,
+            "validation_symbols": 57,
+            "validation_precision": 0.3606010016694491,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.04085257548845467,
+            "validation_uplift": 0.029261363636363644
+          },
+          {
+            "id": "close_below_ma20__c1__first_state",
+            "signal": "close_below_ma20__c1",
+            "kind": "first_state",
+            "j": 4,
+            "score": 0.5481903931945314,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 528,
+            "validation_symbols": 57,
+            "validation_precision": 0.4109848484848485,
+            "validation_recall": 0.951417004048583,
+            "validation_exec_dd": 0.052632262767927096,
+            "validation_uplift": -0.0027343750000000007
+          },
+          {
+            "id": "close_below_ma20__c2__first_state",
+            "signal": "close_below_ma20__c2",
+            "kind": "first_state",
+            "j": 5,
+            "score": 0.6984015745355812,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 471,
+            "validation_symbols": 57,
+            "validation_precision": 0.44798301486199577,
+            "validation_recall": 0.9190283400809717,
+            "validation_exec_dd": 0.05905511811023623,
+            "validation_uplift": 0.07570093457943924
+          },
+          {
+            "id": "ma5_below_ma10__c1__first_state",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first_state",
+            "j": 6,
+            "score": 0.4212014717839876,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 640,
+            "validation_symbols": 56,
+            "validation_precision": 0.3359375,
+            "validation_recall": 0.9473684210526315,
+            "validation_exec_dd": 0.03853967796538582,
+            "validation_uplift": -0.06130952380952379
+          },
+          {
+            "id": "ma5_below_ma10__c2__first_state",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first_state",
+            "j": 7,
+            "score": 0.5070469543811331,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 602,
+            "validation_symbols": 56,
+            "validation_precision": 0.3521594684385382,
+            "validation_recall": 0.9271255060728745,
+            "validation_exec_dd": 0.04011608987167914,
+            "validation_uplift": -0.016489361702127652
+          },
+          {
+            "id": "ma5_below_ma20__c1__first_state",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first_state",
+            "j": 8,
+            "score": 0.5386253964862963,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 459,
+            "validation_symbols": 57,
+            "validation_precision": 0.45098039215686275,
+            "validation_recall": 0.902834008097166,
+            "validation_exec_dd": 0.05922147055561722,
+            "validation_uplift": -0.0017195767195767135
+          },
+          {
+            "id": "ma5_below_ma20__c2__first_state",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first_state",
+            "j": 9,
+            "score": 0.5889917409704535,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 436,
+            "validation_symbols": 57,
+            "validation_precision": 0.45642201834862384,
+            "validation_recall": 0.8663967611336032,
+            "validation_exec_dd": 0.060201508708672524,
+            "validation_uplift": 0.029513888888888902
+          },
+          {
+            "id": "ma10_below_ma20__c1__first_state",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first_state",
+            "j": 10,
+            "score": 0.523844117483956,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 459,
+            "validation_symbols": 57,
+            "validation_precision": 0.4335511982570806,
+            "validation_recall": 0.8663967611336032,
+            "validation_exec_dd": 0.05752212389380529,
+            "validation_uplift": -0.0009689922480620172
+          },
+          {
+            "id": "ma10_below_ma20__c2__first_state",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first_state",
+            "j": 11,
+            "score": 0.43529387942173225,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 438,
+            "validation_symbols": 57,
+            "validation_precision": 0.4315068493150685,
+            "validation_recall": 0.8259109311740891,
+            "validation_exec_dd": 0.05853564325902805,
+            "validation_uplift": -0.037345679012345666
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first_state",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 12,
+            "score": 0.5268534522388002,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 694,
+            "validation_symbols": 56,
+            "validation_precision": 0.3126801152737752,
+            "validation_recall": 0.9554655870445344,
+            "validation_exec_dd": 0.03506077216117559,
+            "validation_uplift": -0.008151382823871907
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first_state",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 13,
+            "score": 0.47079073215539835,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 634,
+            "validation_symbols": 56,
+            "validation_precision": 0.3422712933753943,
+            "validation_recall": 0.9473684210526315,
+            "validation_exec_dd": 0.038510253632145,
+            "validation_uplift": -0.03747967479674797
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first_state",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 14,
+            "score": 0.3957194458786416,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 542,
+            "validation_symbols": 57,
+            "validation_precision": 0.39114391143911437,
+            "validation_recall": 0.9311740890688259,
+            "validation_exec_dd": 0.05048974146949853,
+            "validation_uplift": -0.0735224586288416
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first_state",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 15,
+            "score": 0.4083642035508936,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 515,
+            "validation_symbols": 57,
+            "validation_precision": 0.4097087378640777,
+            "validation_recall": 0.9230769230769231,
+            "validation_exec_dd": 0.052863436123347984,
+            "validation_uplift": -0.06738095238095239
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first_state",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 16,
+            "score": 0.5915628098354001,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 401,
+            "validation_symbols": 57,
+            "validation_precision": 0.47381546134663344,
+            "validation_recall": 0.8340080971659919,
+            "validation_exec_dd": 0.06748466257668717,
+            "validation_uplift": 0.037500000000000006
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first_state",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 17,
+            "score": 0.6030453987484926,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 373,
+            "validation_symbols": 57,
+            "validation_precision": 0.4906166219839142,
+            "validation_recall": 0.805668016194332,
+            "validation_exec_dd": 0.06818688557818997,
+            "validation_uplift": 0.046031746031746035
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 18,
+            "score": 0.6905063274486891,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 384,
+            "validation_symbols": 57,
+            "validation_precision": 0.4947916666666667,
+            "validation_recall": 0.8340080971659919,
+            "validation_exec_dd": 0.07055051746283475,
+            "validation_uplift": 0.0853582554517134
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 19,
+            "score": 0.6100185669295092,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 351,
+            "validation_symbols": 57,
+            "validation_precision": 0.5213675213675214,
+            "validation_recall": 0.8016194331983806,
+            "validation_exec_dd": 0.07423121837290769,
+            "validation_uplift": 0.048636363636363644
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 20,
+            "score": 0.5930452564143328,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 379,
+            "validation_symbols": 56,
+            "validation_precision": 0.49076517150395776,
+            "validation_recall": 0.8178137651821862,
+            "validation_exec_dd": 0.07077625570776258,
+            "validation_uplift": 0.04017857142857144
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 21,
+            "score": 0.652865031504948,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 350,
+            "validation_symbols": 56,
+            "validation_precision": 0.5114285714285715,
+            "validation_recall": 0.7854251012145749,
+            "validation_exec_dd": 0.07331178771431601,
+            "validation_uplift": 0.0739247311827957
+          }
+        ],
+        "vol_cuts": [
+          0.014403115460454096,
+          0.01788891229358099,
+          0.021465376862576355,
+          0.02632996990660961
+        ]
+      },
+      "core": {
+        "qualified_count": 0,
+        "candidates": [
+          {
+            "id": "close_below_ma10__c1__first_state",
+            "signal": "close_below_ma10__c1",
+            "kind": "first_state",
+            "j": 2,
+            "score": 0.5229098026878263,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3043,
+            "validation_symbols": 295,
+            "validation_precision": 0.3769306605323694,
+            "validation_recall": 0.8446601941747572,
+            "validation_exec_dd": 0.04608294930875578,
+            "validation_uplift": 0.005141242937853112
+          },
+          {
+            "id": "close_below_ma10__c1__first",
+            "signal": "close_below_ma10__c1",
+            "kind": "first",
+            "j": 2,
+            "score": 0.5223161747171287,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3041,
+            "validation_symbols": 294,
+            "validation_precision": 0.37652088128904965,
+            "validation_recall": 0.8432732316227461,
+            "validation_exec_dd": 0.046075182519546454,
+            "validation_uplift": 0.005144730890999554
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 14,
+            "score": 0.515040813134571,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2165,
+            "validation_symbols": 292,
+            "validation_precision": 0.4401847575057737,
+            "validation_recall": 0.7038834951456311,
+            "validation_exec_dd": 0.05990783410138245,
+            "validation_uplift": 0.023266998341625215
+          }
+        ],
+        "all_candidates": [
+          {
+            "id": "close_below_ma5__c1__first",
+            "signal": "close_below_ma5__c1",
+            "kind": "first",
+            "j": 0,
+            "score": 0.505286258412993,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 4025,
+            "validation_symbols": 294,
+            "validation_precision": 0.3093167701863354,
+            "validation_recall": 0.9174757281553398,
+            "validation_exec_dd": 0.03288706057507318,
+            "validation_uplift": -0.012869108461101644
+          },
+          {
+            "id": "close_below_ma5__c2__first",
+            "signal": "close_below_ma5__c2",
+            "kind": "first",
+            "j": 1,
+            "score": 0.511393509249397,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3289,
+            "validation_symbols": 294,
+            "validation_precision": 0.3569474004256613,
+            "validation_recall": 0.8626907073509015,
+            "validation_exec_dd": 0.040498865714411414,
+            "validation_uplift": -0.0035667963683527876
+          },
+          {
+            "id": "close_below_ma10__c1__first",
+            "signal": "close_below_ma10__c1",
+            "kind": "first",
+            "j": 2,
+            "score": 0.5223161747171287,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3041,
+            "validation_symbols": 294,
+            "validation_precision": 0.37652088128904965,
+            "validation_recall": 0.8432732316227461,
+            "validation_exec_dd": 0.046075182519546454,
+            "validation_uplift": 0.005144730890999554
+          },
+          {
+            "id": "close_below_ma10__c2__first",
+            "signal": "close_below_ma10__c2",
+            "kind": "first",
+            "j": 3,
+            "score": 0.48487145995355324,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2552,
+            "validation_symbols": 293,
+            "validation_precision": 0.41849529780564265,
+            "validation_recall": 0.7864077669902912,
+            "validation_exec_dd": 0.05405405405405406,
+            "validation_uplift": -0.005932896890343695
+          },
+          {
+            "id": "close_below_ma20__c1__first",
+            "signal": "close_below_ma20__c1",
+            "kind": "first",
+            "j": 4,
+            "score": 0.4237803379167602,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2146,
+            "validation_symbols": 290,
+            "validation_precision": 0.4580615097856477,
+            "validation_recall": 0.7274618585298197,
+            "validation_exec_dd": 0.06582552308012862,
+            "validation_uplift": -0.026212121212121204
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.4470424415087261,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1860,
+            "validation_symbols": 288,
+            "validation_precision": 0.48333333333333334,
+            "validation_recall": 0.6636615811373093,
+            "validation_exec_dd": 0.06995363749806438,
+            "validation_uplift": -0.005142737195633913
+          },
+          {
+            "id": "ma5_below_ma10__c1__first",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first",
+            "j": 6,
+            "score": 0.4999435227471968,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2546,
+            "validation_symbols": 294,
+            "validation_precision": 0.4053417124901807,
+            "validation_recall": 0.760748959778086,
+            "validation_exec_dd": 0.05146279358885414,
+            "validation_uplift": 0.006770833333333339
+          },
+          {
+            "id": "ma5_below_ma10__c2__first",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first",
+            "j": 7,
+            "score": 0.4694604249232949,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2332,
+            "validation_symbols": 292,
+            "validation_precision": 0.4142367066895369,
+            "validation_recall": 0.7142857142857143,
+            "validation_exec_dd": 0.05354918074969617,
+            "validation_uplift": -0.0006307031669350437
+          },
+          {
+            "id": "ma5_below_ma20__c1__first",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first",
+            "j": 8,
+            "score": 0.43025428153130046,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1779,
+            "validation_symbols": 288,
+            "validation_precision": 0.48510399100618323,
+            "validation_recall": 0.6359223300970874,
+            "validation_exec_dd": 0.0714240284932901,
+            "validation_uplift": -0.008212851405622484
+          },
+          {
+            "id": "ma5_below_ma20__c2__first",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first",
+            "j": 9,
+            "score": 0.4512842186409948,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1666,
+            "validation_symbols": 288,
+            "validation_precision": 0.4801920768307323,
+            "validation_recall": 0.5908460471567267,
+            "validation_exec_dd": 0.07053248387604216,
+            "validation_uplift": 0.010481481481481487
+          },
+          {
+            "id": "ma10_below_ma20__c1__first",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first",
+            "j": 10,
+            "score": 0.41258865254861227,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1604,
+            "validation_symbols": 287,
+            "validation_precision": 0.4682044887780549,
+            "validation_recall": 0.5561719833564494,
+            "validation_exec_dd": 0.0703258867374914,
+            "validation_uplift": -0.0011035007610350038
+          },
+          {
+            "id": "ma10_below_ma20__c2__first",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first",
+            "j": 11,
+            "score": 0.38982598529442647,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1503,
+            "validation_symbols": 287,
+            "validation_precision": 0.46174318030605455,
+            "validation_recall": 0.515256588072122,
+            "validation_exec_dd": 0.0701625538672237,
+            "validation_uplift": -0.004437110377704437
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 12,
+            "score": 0.4486933864785475,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2903,
+            "validation_symbols": 294,
+            "validation_precision": 0.3768515328970031,
+            "validation_recall": 0.8058252427184466,
+            "validation_exec_dd": 0.045703558272274625,
+            "validation_uplift": -0.0253486750348675
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 13,
+            "score": 0.4828972871217917,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2609,
+            "validation_symbols": 293,
+            "validation_precision": 0.3955538520505941,
+            "validation_recall": 0.760748959778086,
+            "validation_exec_dd": 0.04907610550436353,
+            "validation_uplift": -0.0014774494556765122
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 14,
+            "score": 0.515040813134571,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2165,
+            "validation_symbols": 292,
+            "validation_precision": 0.4401847575057737,
+            "validation_recall": 0.7038834951456311,
+            "validation_exec_dd": 0.05990783410138245,
+            "validation_uplift": 0.023266998341625215
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 15,
+            "score": 0.436370529259398,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1986,
+            "validation_symbols": 290,
+            "validation_precision": 0.4425981873111782,
+            "validation_recall": 0.6497919556171984,
+            "validation_exec_dd": 0.06136066935675294,
+            "validation_uplift": -0.006237721021610995
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 16,
+            "score": 0.3647021256292384,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1532,
+            "validation_symbols": 284,
+            "validation_precision": 0.4830287206266319,
+            "validation_recall": 0.5492371705963939,
+            "validation_exec_dd": 0.0753488372093023,
+            "validation_uplift": -0.023545331529093362
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 17,
+            "score": 0.41149352847372433,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1409,
+            "validation_symbols": 283,
+            "validation_precision": 0.48403122782114977,
+            "validation_recall": 0.5062413314840499,
+            "validation_exec_dd": 0.07620510485442455,
+            "validation_uplift": 0.007652399481193257
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first",
+            "j": 18,
+            "score": 0.3450310633163308,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1485,
+            "validation_symbols": 284,
+            "validation_precision": 0.49764309764309766,
+            "validation_recall": 0.5485436893203883,
+            "validation_exec_dd": 0.07829977628635343,
+            "validation_uplift": -0.03397619047619047
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first",
+            "j": 19,
+            "score": 0.4174123279688803,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1325,
+            "validation_symbols": 282,
+            "validation_precision": 0.510943396226415,
+            "validation_recall": 0.5027739251040222,
+            "validation_exec_dd": 0.08078743363132096,
+            "validation_uplift": 0.009472934472934475
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first",
+            "j": 20,
+            "score": 0.3819763908349648,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1462,
+            "validation_symbols": 285,
+            "validation_precision": 0.5,
+            "validation_recall": 0.5423023578363384,
+            "validation_exec_dd": 0.0792983609614259,
+            "validation_uplift": -0.014265536723163833
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first",
+            "j": 21,
+            "score": 0.41511528687250193,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1327,
+            "validation_symbols": 285,
+            "validation_precision": 0.5041446872645065,
+            "validation_recall": 0.49653259361997226,
+            "validation_exec_dd": 0.08025051292706753,
+            "validation_uplift": 0.010167992926613623
+          },
+          {
+            "id": "close_below_ma5__c1__first_state",
+            "signal": "close_below_ma5__c1",
+            "kind": "first_state",
+            "j": 0,
+            "score": 0.5055470393254539,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 4027,
+            "validation_symbols": 295,
+            "validation_precision": 0.3094114725602185,
+            "validation_recall": 0.9181692094313454,
+            "validation_exec_dd": 0.03289740882137926,
+            "validation_uplift": -0.012869108461101645
+          },
+          {
+            "id": "close_below_ma5__c2__first_state",
+            "signal": "close_below_ma5__c2",
+            "kind": "first_state",
+            "j": 1,
+            "score": 0.5117836079198078,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3290,
+            "validation_symbols": 295,
+            "validation_precision": 0.35714285714285715,
+            "validation_recall": 0.863384188626907,
+            "validation_exec_dd": 0.04051081943951751,
+            "validation_uplift": -0.003516447901474638
+          },
+          {
+            "id": "close_below_ma10__c1__first_state",
+            "signal": "close_below_ma10__c1",
+            "kind": "first_state",
+            "j": 2,
+            "score": 0.5229098026878263,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 3043,
+            "validation_symbols": 295,
+            "validation_precision": 0.3769306605323694,
+            "validation_recall": 0.8446601941747572,
+            "validation_exec_dd": 0.04608294930875578,
+            "validation_uplift": 0.005141242937853112
+          },
+          {
+            "id": "close_below_ma10__c2__first_state",
+            "signal": "close_below_ma10__c2",
+            "kind": "first_state",
+            "j": 3,
+            "score": 0.48545401753545375,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2555,
+            "validation_symbols": 294,
+            "validation_precision": 0.4187866927592955,
+            "validation_recall": 0.7877947295423023,
+            "validation_exec_dd": 0.05405405405405406,
+            "validation_uplift": -0.0059280457890433305
+          },
+          {
+            "id": "close_below_ma20__c1__first_state",
+            "signal": "close_below_ma20__c1",
+            "kind": "first_state",
+            "j": 4,
+            "score": 0.4227722012392682,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2151,
+            "validation_symbols": 293,
+            "validation_precision": 0.4593212459321246,
+            "validation_recall": 0.7309292649098474,
+            "validation_exec_dd": 0.06597031335898851,
+            "validation_uplift": -0.027439550949913634
+          },
+          {
+            "id": "close_below_ma20__c2__first_state",
+            "signal": "close_below_ma20__c2",
+            "kind": "first_state",
+            "j": 5,
+            "score": 0.4458851333084972,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1866,
+            "validation_symbols": 291,
+            "validation_precision": 0.4844587352625938,
+            "validation_recall": 0.6671289875173371,
+            "validation_exec_dd": 0.07017543859649122,
+            "validation_uplift": -0.0063860971524288025
+          },
+          {
+            "id": "ma5_below_ma10__c1__first_state",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first_state",
+            "j": 6,
+            "score": 0.497319768903976,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2610,
+            "validation_symbols": 295,
+            "validation_precision": 0.3996168582375479,
+            "validation_recall": 0.7690707350901526,
+            "validation_exec_dd": 0.050440339417029634,
+            "validation_uplift": 0.004350146784093947
+          },
+          {
+            "id": "ma5_below_ma10__c2__first_state",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first_state",
+            "j": 7,
+            "score": 0.46967222344984594,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2391,
+            "validation_symbols": 293,
+            "validation_precision": 0.4077791718946048,
+            "validation_recall": 0.7212205270457698,
+            "validation_exec_dd": 0.05216881594372802,
+            "validation_uplift": -0.0014599483204134295
+          },
+          {
+            "id": "ma5_below_ma20__c1__first_state",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first_state",
+            "j": 8,
+            "score": 0.4225534038586934,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1804,
+            "validation_symbols": 290,
+            "validation_precision": 0.48059866962305986,
+            "validation_recall": 0.6393897364771152,
+            "validation_exec_dd": 0.07103390657036279,
+            "validation_uplift": -0.012189349112426027
+          },
+          {
+            "id": "ma5_below_ma20__c2__first_state",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first_state",
+            "j": 9,
+            "score": 0.4440237401469439,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1692,
+            "validation_symbols": 290,
+            "validation_precision": 0.475177304964539,
+            "validation_recall": 0.5943134535367545,
+            "validation_exec_dd": 0.07028824833702885,
+            "validation_uplift": 0.0068745441283734575
+          },
+          {
+            "id": "ma10_below_ma20__c1__first_state",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first_state",
+            "j": 10,
+            "score": 0.4073706204771491,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1753,
+            "validation_symbols": 290,
+            "validation_precision": 0.44438106103822017,
+            "validation_recall": 0.5776699029126213,
+            "validation_exec_dd": 0.06569822649798096,
+            "validation_uplift": -0.006214968677876684
+          },
+          {
+            "id": "ma10_below_ma20__c2__first_state",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first_state",
+            "j": 11,
+            "score": 0.38397203046054773,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1653,
+            "validation_symbols": 290,
+            "validation_precision": 0.43859649122807015,
+            "validation_recall": 0.5381414701803051,
+            "validation_exec_dd": 0.06559139784946233,
+            "validation_uplift": -0.010182516810758886
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first_state",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 12,
+            "score": 0.45738402155585467,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2955,
+            "validation_symbols": 295,
+            "validation_precision": 0.37225042301184436,
+            "validation_recall": 0.8106796116504854,
+            "validation_exec_dd": 0.04497812196774137,
+            "validation_uplift": -0.021525423728813557
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first_state",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 13,
+            "score": 0.4853824211116675,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2661,
+            "validation_symbols": 295,
+            "validation_precision": 0.3900789177001127,
+            "validation_recall": 0.7656033287101248,
+            "validation_exec_dd": 0.04819467666269678,
+            "validation_uplift": -0.0007038712921065831
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first_state",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 14,
+            "score": 0.5036914483591916,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2200,
+            "validation_symbols": 293,
+            "validation_precision": 0.435,
+            "validation_recall": 0.7073509015256588,
+            "validation_exec_dd": 0.059067357512953333,
+            "validation_uplift": 0.01734299516908213
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first_state",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 15,
+            "score": 0.43085834596810846,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2020,
+            "validation_symbols": 292,
+            "validation_precision": 0.4376237623762376,
+            "validation_recall": 0.6539528432732317,
+            "validation_exec_dd": 0.06093579978237218,
+            "validation_uplift": -0.00918823905401086
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first_state",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 16,
+            "score": 0.36531514918185104,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1559,
+            "validation_symbols": 288,
+            "validation_precision": 0.47915330339961515,
+            "validation_recall": 0.5540915395284327,
+            "validation_exec_dd": 0.07508532423208192,
+            "validation_uplift": -0.023638778220451524
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first_state",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 17,
+            "score": 0.4104819972213881,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1438,
+            "validation_symbols": 287,
+            "validation_precision": 0.47983310152990266,
+            "validation_recall": 0.5117891816920943,
+            "validation_exec_dd": 0.07533300033300033,
+            "validation_uplift": 0.0063694267515923605
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 18,
+            "score": 0.34671007096704487,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1491,
+            "validation_symbols": 288,
+            "validation_precision": 0.49899396378269617,
+            "validation_recall": 0.5520110957004161,
+            "validation_exec_dd": 0.07833655705996134,
+            "validation_uplift": -0.03392772230147408
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 19,
+            "score": 0.4188873364549889,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1331,
+            "validation_symbols": 286,
+            "validation_precision": 0.512396694214876,
+            "validation_recall": 0.5062413314840499,
+            "validation_exec_dd": 0.08093505674781026,
+            "validation_uplift": 0.009459459459459462
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 20,
+            "score": 0.37939352852567343,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1469,
+            "validation_symbols": 288,
+            "validation_precision": 0.4989788972089857,
+            "validation_recall": 0.5436893203883495,
+            "validation_exec_dd": 0.07932379713914173,
+            "validation_uplift": -0.015633802816901406
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 21,
+            "score": 0.412815915076314,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "recall",
+              "executable_recall",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1334,
+            "validation_symbols": 287,
+            "validation_precision": 0.5037481259370314,
+            "validation_recall": 0.4986130374479889,
+            "validation_exec_dd": 0.08045977011494254,
+            "validation_uplift": 0.008818342151675486
+          }
+        ],
+        "vol_cuts": [
+          0.015243806415997405,
+          0.020391406522080636,
+          0.026336212440025868,
+          0.0368028266585295
+        ]
+      }
+    },
+    "US": {
+      "largecap": {
+        "qualified_count": 0,
+        "candidates": [
+          {
+            "id": "ma5_below_ma20__c2__first_state",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first_state",
+            "j": 9,
+            "score": 0.5773136059279329,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 680,
+            "validation_symbols": 58,
+            "validation_precision": 0.2235294117647059,
+            "validation_recall": 0.912568306010929,
+            "validation_exec_dd": 0.03988736794854725,
+            "validation_uplift": 0.04037162162162163
+          },
+          {
+            "id": "ma5_below_ma20__c2__first",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first",
+            "j": 9,
+            "score": 0.575498383015391,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 673,
+            "validation_symbols": 58,
+            "validation_precision": 0.22585438335809807,
+            "validation_recall": 0.912568306010929,
+            "validation_exec_dd": 0.04075091575091583,
+            "validation_uplift": 0.03954703832752614
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.5664502900687828,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 721,
+            "validation_symbols": 59,
+            "validation_precision": 0.22191400832177532,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.0381727158948687,
+            "validation_uplift": 0.0257183908045977
+          }
+        ],
+        "all_candidates": [
+          {
+            "id": "close_below_ma5__c1__first",
+            "signal": "close_below_ma5__c1",
+            "kind": "first",
+            "j": 0,
+            "score": 0.5177262168436234,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1674,
+            "validation_symbols": 58,
+            "validation_precision": 0.0937873357228196,
+            "validation_recall": 0.9781420765027322,
+            "validation_exec_dd": 0.013159470192310674,
+            "validation_uplift": 0.005199879771565976
+          },
+          {
+            "id": "close_below_ma5__c2__first",
+            "signal": "close_below_ma5__c2",
+            "kind": "first",
+            "j": 1,
+            "score": 0.5078086620448011,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1308,
+            "validation_symbols": 59,
+            "validation_precision": 0.12079510703363915,
+            "validation_recall": 0.9726775956284153,
+            "validation_exec_dd": 0.017986814222185843,
+            "validation_uplift": -0.0004401071565250631
+          },
+          {
+            "id": "close_below_ma10__c1__first",
+            "signal": "close_below_ma10__c1",
+            "kind": "first",
+            "j": 2,
+            "score": 0.4823531995315983,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1166,
+            "validation_symbols": 58,
+            "validation_precision": 0.13636363636363635,
+            "validation_recall": 0.9781420765027322,
+            "validation_exec_dd": 0.02221804556343726,
+            "validation_uplift": -0.014343786295005805
+          },
+          {
+            "id": "close_below_ma10__c2__first",
+            "signal": "close_below_ma10__c2",
+            "kind": "first",
+            "j": 3,
+            "score": 0.5075333603798302,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1001,
+            "validation_symbols": 59,
+            "validation_precision": 0.15884115884115885,
+            "validation_recall": 0.9672131147540983,
+            "validation_exec_dd": 0.026564575357449716,
+            "validation_uplift": -0.0010395010395010367
+          },
+          {
+            "id": "close_below_ma20__c1__first",
+            "signal": "close_below_ma20__c1",
+            "kind": "first",
+            "j": 4,
+            "score": 0.551946542275959,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 826,
+            "validation_symbols": 58,
+            "validation_precision": 0.19612590799031476,
+            "validation_recall": 0.9726775956284153,
+            "validation_exec_dd": 0.03381672878312464,
+            "validation_uplift": 0.018244170096021948
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.5664502900687828,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 721,
+            "validation_symbols": 59,
+            "validation_precision": 0.22191400832177532,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.0381727158948687,
+            "validation_uplift": 0.0257183908045977
+          },
+          {
+            "id": "ma5_below_ma10__c1__first",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first",
+            "j": 6,
+            "score": 0.521664461464432,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1006,
+            "validation_symbols": 58,
+            "validation_precision": 0.15805168986083498,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.026363067351741876,
+            "validation_uplift": 0.007000000000000001
+          },
+          {
+            "id": "ma5_below_ma10__c2__first",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first",
+            "j": 7,
+            "score": 0.4927337151102785,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 928,
+            "validation_symbols": 58,
+            "validation_precision": 0.16918103448275862,
+            "validation_recall": 0.9453551912568307,
+            "validation_exec_dd": 0.027561578841106382,
+            "validation_uplift": -0.005666666666666668
+          },
+          {
+            "id": "ma5_below_ma20__c1__first",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first",
+            "j": 8,
+            "score": 0.47838262632287204,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 708,
+            "validation_symbols": 58,
+            "validation_precision": 0.2231638418079096,
+            "validation_recall": 0.9453551912568307,
+            "validation_exec_dd": 0.03892232464087303,
+            "validation_uplift": -0.015259259259259257
+          },
+          {
+            "id": "ma5_below_ma20__c2__first",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first",
+            "j": 9,
+            "score": 0.575498383015391,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 673,
+            "validation_symbols": 58,
+            "validation_precision": 0.22585438335809807,
+            "validation_recall": 0.912568306010929,
+            "validation_exec_dd": 0.04075091575091583,
+            "validation_uplift": 0.03954703832752614
+          },
+          {
+            "id": "ma10_below_ma20__c1__first",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first",
+            "j": 10,
+            "score": 0.4690565170953286,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 644,
+            "validation_symbols": 58,
+            "validation_precision": 0.2267080745341615,
+            "validation_recall": 0.8797814207650273,
+            "validation_exec_dd": 0.04126907389418172,
+            "validation_uplift": -0.0078051643192488295
+          },
+          {
+            "id": "ma10_below_ma20__c2__first",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first",
+            "j": 11,
+            "score": 0.5318535859979179,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 623,
+            "validation_symbols": 58,
+            "validation_precision": 0.22632423756019263,
+            "validation_recall": 0.8524590163934426,
+            "validation_exec_dd": 0.039113335716839503,
+            "validation_uplift": 0.027354497354497357
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 12,
+            "score": 0.4827629471445869,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1123,
+            "validation_symbols": 58,
+            "validation_precision": 0.14069456812110417,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.021940447357173265,
+            "validation_uplift": -0.012058498896247237
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 13,
+            "score": 0.49700696880543094,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1024,
+            "validation_symbols": 59,
+            "validation_precision": 0.1533203125,
+            "validation_recall": 0.9508196721311475,
+            "validation_exec_dd": 0.02496089548061914,
+            "validation_uplift": -0.0034075573549257722
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 14,
+            "score": 0.5021387208415128,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 856,
+            "validation_symbols": 59,
+            "validation_precision": 0.18808411214953272,
+            "validation_recall": 0.9672131147540983,
+            "validation_exec_dd": 0.03039467507807414,
+            "validation_uplift": -0.006208213944603628
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 15,
+            "score": 0.5061078780716843,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 815,
+            "validation_symbols": 58,
+            "validation_precision": 0.19386503067484662,
+            "validation_recall": 0.9508196721311475,
+            "validation_exec_dd": 0.03277278867714073,
+            "validation_uplift": -0.0010328638497652544
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 16,
+            "score": 0.5642820485617843,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 612,
+            "validation_symbols": 58,
+            "validation_precision": 0.24673202614379086,
+            "validation_recall": 0.907103825136612,
+            "validation_exec_dd": 0.04583500919027822,
+            "validation_uplift": 0.03430555555555556
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 17,
+            "score": 0.5474523708211133,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 570,
+            "validation_symbols": 58,
+            "validation_precision": 0.256140350877193,
+            "validation_recall": 0.8797814207650273,
+            "validation_exec_dd": 0.048047694986640244,
+            "validation_uplift": 0.03036723163841808
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first",
+            "j": 18,
+            "score": 0.543056370991554,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 580,
+            "validation_symbols": 58,
+            "validation_precision": 0.2603448275862069,
+            "validation_recall": 0.907103825136612,
+            "validation_exec_dd": 0.048327808605486744,
+            "validation_uplift": 0.022897196261682243
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first",
+            "j": 19,
+            "score": 0.5304511671803852,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 532,
+            "validation_symbols": 58,
+            "validation_precision": 0.2744360902255639,
+            "validation_recall": 0.8797814207650273,
+            "validation_exec_dd": 0.05211084946273581,
+            "validation_uplift": 0.021153846153846155
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first",
+            "j": 20,
+            "score": 0.5346015685235972,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 581,
+            "validation_symbols": 58,
+            "validation_precision": 0.25989672977624784,
+            "validation_recall": 0.907103825136612,
+            "validation_exec_dd": 0.04870689655172411,
+            "validation_uplift": 0.01892655367231639
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first",
+            "j": 21,
+            "score": 0.45189355870260095,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 537,
+            "validation_symbols": 58,
+            "validation_precision": 0.27001862197392923,
+            "validation_recall": 0.8743169398907104,
+            "validation_exec_dd": 0.051931467489624294,
+            "validation_uplift": -0.016595744680851066
+          },
+          {
+            "id": "close_below_ma5__c1__first_state",
+            "signal": "close_below_ma5__c1",
+            "kind": "first_state",
+            "j": 0,
+            "score": 0.5197953626270831,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1675,
+            "validation_symbols": 59,
+            "validation_precision": 0.09432835820895523,
+            "validation_recall": 0.9836065573770492,
+            "validation_exec_dd": 0.013165199460702603,
+            "validation_uplift": 0.005199879771565976
+          },
+          {
+            "id": "close_below_ma5__c2__first_state",
+            "signal": "close_below_ma5__c2",
+            "kind": "first_state",
+            "j": 1,
+            "score": 0.5078086620448011,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1308,
+            "validation_symbols": 59,
+            "validation_precision": 0.12079510703363915,
+            "validation_recall": 0.9726775956284153,
+            "validation_exec_dd": 0.017986814222185843,
+            "validation_uplift": -0.0004401071565250631
+          },
+          {
+            "id": "close_below_ma10__c1__first_state",
+            "signal": "close_below_ma10__c1",
+            "kind": "first_state",
+            "j": 2,
+            "score": 0.484478928290329,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1167,
+            "validation_symbols": 59,
+            "validation_precision": 0.13710368466152528,
+            "validation_recall": 0.9836065573770492,
+            "validation_exec_dd": 0.02222689960008417,
+            "validation_uplift": -0.014343786295005805
+          },
+          {
+            "id": "close_below_ma10__c2__first_state",
+            "signal": "close_below_ma10__c2",
+            "kind": "first_state",
+            "j": 3,
+            "score": 0.5075333603798302,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1001,
+            "validation_symbols": 59,
+            "validation_precision": 0.15884115884115885,
+            "validation_recall": 0.9672131147540983,
+            "validation_exec_dd": 0.026564575357449716,
+            "validation_uplift": -0.0010395010395010367
+          },
+          {
+            "id": "close_below_ma20__c1__first_state",
+            "signal": "close_below_ma20__c1",
+            "kind": "first_state",
+            "j": 4,
+            "score": 0.5541331477360555,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 827,
+            "validation_symbols": 59,
+            "validation_precision": 0.19709794437726724,
+            "validation_recall": 0.9781420765027322,
+            "validation_exec_dd": 0.03383430254512487,
+            "validation_uplift": 0.018244170096021948
+          },
+          {
+            "id": "close_below_ma20__c2__first_state",
+            "signal": "close_below_ma20__c2",
+            "kind": "first_state",
+            "j": 5,
+            "score": 0.5664502900687828,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 721,
+            "validation_symbols": 59,
+            "validation_precision": 0.22191400832177532,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.0381727158948687,
+            "validation_uplift": 0.0257183908045977
+          },
+          {
+            "id": "ma5_below_ma10__c1__first_state",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first_state",
+            "j": 6,
+            "score": 0.5139875343140681,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1043,
+            "validation_symbols": 59,
+            "validation_precision": 0.15340364333652926,
+            "validation_recall": 0.9726775956284153,
+            "validation_exec_dd": 0.02558724832214765,
+            "validation_uplift": 0.0015582655826558286
+          },
+          {
+            "id": "ma5_below_ma10__c2__first_state",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first_state",
+            "j": 7,
+            "score": 0.49404844290901484,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 964,
+            "validation_symbols": 59,
+            "validation_precision": 0.16597510373443983,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.02654502177355267,
+            "validation_uplift": -0.00790554414784394
+          },
+          {
+            "id": "ma5_below_ma20__c1__first_state",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first_state",
+            "j": 8,
+            "score": 0.4845930095947536,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 715,
+            "validation_symbols": 58,
+            "validation_precision": 0.22097902097902097,
+            "validation_recall": 0.9453551912568307,
+            "validation_exec_dd": 0.038461538461538436,
+            "validation_uplift": -0.01205673758865248
+          },
+          {
+            "id": "ma5_below_ma20__c2__first_state",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first_state",
+            "j": 9,
+            "score": 0.5773136059279329,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 680,
+            "validation_symbols": 58,
+            "validation_precision": 0.2235294117647059,
+            "validation_recall": 0.912568306010929,
+            "validation_exec_dd": 0.03988736794854725,
+            "validation_uplift": 0.04037162162162163
+          },
+          {
+            "id": "ma10_below_ma20__c1__first_state",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first_state",
+            "j": 10,
+            "score": 0.46362405909374815,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 721,
+            "validation_symbols": 59,
+            "validation_precision": 0.20527045769764216,
+            "validation_recall": 0.8907103825136612,
+            "validation_exec_dd": 0.034636074212317514,
+            "validation_uplift": -0.012534818941504176
+          },
+          {
+            "id": "ma10_below_ma20__c2__first_state",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first_state",
+            "j": 11,
+            "score": 0.5163175779015177,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 691,
+            "validation_symbols": 59,
+            "validation_precision": 0.20694645441389292,
+            "validation_recall": 0.8633879781420765,
+            "validation_exec_dd": 0.034522579468789893,
+            "validation_uplift": 0.018285214348206475
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first_state",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 12,
+            "score": 0.48702289797920295,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1140,
+            "validation_symbols": 59,
+            "validation_precision": 0.1394736842105263,
+            "validation_recall": 0.9726775956284153,
+            "validation_exec_dd": 0.021723786324713446,
+            "validation_uplift": -0.011766289714593427
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first_state",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 13,
+            "score": 0.49450423602302007,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1039,
+            "validation_symbols": 59,
+            "validation_precision": 0.15206929740134745,
+            "validation_recall": 0.9617486338797814,
+            "validation_exec_dd": 0.024725274725274637,
+            "validation_uplift": -0.006501650165016498
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first_state",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 14,
+            "score": 0.5110747788162774,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 868,
+            "validation_symbols": 59,
+            "validation_precision": 0.18548387096774194,
+            "validation_recall": 0.9672131147540983,
+            "validation_exec_dd": 0.029946824489831436,
+            "validation_uplift": -0.001574074074074071
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first_state",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 15,
+            "score": 0.5100943366810927,
+            "failures": [
+              "common_support",
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 826,
+            "validation_symbols": 58,
+            "validation_precision": 0.19128329297820823,
+            "validation_recall": 0.9508196721311475,
+            "validation_exec_dd": 0.032445478170475384,
+            "validation_uplift": 0.0011839708561020056
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first_state",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 16,
+            "score": 0.5662042521494592,
+            "failures": [
+              "common_support",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 617,
+            "validation_symbols": 59,
+            "validation_precision": 0.24635332252836303,
+            "validation_recall": 0.912568306010929,
+            "validation_exec_dd": 0.04567988668555234,
+            "validation_uplift": 0.0342896174863388
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first_state",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 17,
+            "score": 0.5465442637573127,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 574,
+            "validation_symbols": 59,
+            "validation_precision": 0.25609756097560976,
+            "validation_recall": 0.8852459016393442,
+            "validation_exec_dd": 0.04793573124330397,
+            "validation_uplift": 0.028907330567081606
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 18,
+            "score": 0.543056370991554,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 580,
+            "validation_symbols": 58,
+            "validation_precision": 0.2603448275862069,
+            "validation_recall": 0.907103825136612,
+            "validation_exec_dd": 0.048327808605486744,
+            "validation_uplift": 0.022897196261682243
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 19,
+            "score": 0.5302487380305877,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 532,
+            "validation_symbols": 58,
+            "validation_precision": 0.2744360902255639,
+            "validation_recall": 0.8797814207650273,
+            "validation_exec_dd": 0.05211084946273581,
+            "validation_uplift": 0.02105263157894737
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 20,
+            "score": 0.5326640822552557,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 582,
+            "validation_symbols": 58,
+            "validation_precision": 0.25945017182130586,
+            "validation_recall": 0.907103825136612,
+            "validation_exec_dd": 0.048662933967993816,
+            "validation_uplift": 0.018002812939521808
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 21,
+            "score": 0.45220545105627785,
+            "failures": [
+              "common_support",
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 538,
+            "validation_symbols": 58,
+            "validation_precision": 0.2695167286245353,
+            "validation_recall": 0.8743169398907104,
+            "validation_exec_dd": 0.051749104087768005,
+            "validation_uplift": -0.016455696202531647
+          }
+        ],
+        "vol_cuts": [
+          0.009093604219167654,
+          0.011816581958878535,
+          0.01493042096956181,
+          0.02008244647025999
+        ]
+      },
+      "core": {
+        "qualified_count": 0,
+        "candidates": [
+          {
+            "id": "ma5_below_ma10__c1__first",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first",
+            "j": 6,
+            "score": 0.5399259201803971,
+            "failures": [
+              "uplift_size"
+            ],
+            "validation_n": 3147,
+            "validation_symbols": 261,
+            "validation_precision": 0.26660311407689863,
+            "validation_recall": 0.8193950177935944,
+            "validation_exec_dd": 0.03537247254963277,
+            "validation_uplift": 0.02926460113960114
+          },
+          {
+            "id": "ma5_below_ma10__c1__first_state",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first_state",
+            "j": 6,
+            "score": 0.5333182051067372,
+            "failures": [
+              "uplift_size",
+              "train_uplift"
+            ],
+            "validation_n": 3233,
+            "validation_symbols": 261,
+            "validation_precision": 0.26198577172904425,
+            "validation_recall": 0.8265124555160143,
+            "validation_exec_dd": 0.03406569343065691,
+            "validation_uplift": 0.02475440379403794
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.5292219834542017,
+            "failures": [
+              "signal_early",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2284,
+            "validation_symbols": 257,
+            "validation_precision": 0.3410683012259194,
+            "validation_recall": 0.7580071174377224,
+            "validation_exec_dd": 0.05087621750134219,
+            "validation_uplift": 0.031237609742282645
+          }
+        ],
+        "all_candidates": [
+          {
+            "id": "close_below_ma5__c1__first",
+            "signal": "close_below_ma5__c1",
+            "kind": "first",
+            "j": 0,
+            "score": 0.5026739091343525,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 5022,
+            "validation_symbols": 262,
+            "validation_precision": 0.19016328156113102,
+            "validation_recall": 0.9270462633451957,
+            "validation_exec_dd": 0.01987502277906683,
+            "validation_uplift": -0.004483122362869197
+          },
+          {
+            "id": "close_below_ma5__c2__first",
+            "signal": "close_below_ma5__c2",
+            "kind": "first",
+            "j": 1,
+            "score": 0.5098727509360571,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 4010,
+            "validation_symbols": 262,
+            "validation_precision": 0.22768079800498753,
+            "validation_recall": 0.8852313167259787,
+            "validation_exec_dd": 0.026446280991735405,
+            "validation_uplift": 0.0040919158361018846
+          },
+          {
+            "id": "close_below_ma10__c1__first",
+            "signal": "close_below_ma10__c1",
+            "kind": "first",
+            "j": 2,
+            "score": 0.5018424104023185,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3692,
+            "validation_symbols": 262,
+            "validation_precision": 0.24810400866738894,
+            "validation_recall": 0.8905693950177936,
+            "validation_exec_dd": 0.030322720381199875,
+            "validation_uplift": -0.001982680036463077
+          },
+          {
+            "id": "close_below_ma10__c2__first",
+            "signal": "close_below_ma10__c2",
+            "kind": "first",
+            "j": 3,
+            "score": 0.505088734574164,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3115,
+            "validation_symbols": 262,
+            "validation_precision": 0.27961476725521667,
+            "validation_recall": 0.8460854092526691,
+            "validation_exec_dd": 0.036679351736150556,
+            "validation_uplift": 0.0058768814476577065
+          },
+          {
+            "id": "close_below_ma20__c1__first",
+            "signal": "close_below_ma20__c1",
+            "kind": "first",
+            "j": 4,
+            "score": 0.49696356388802354,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2651,
+            "validation_symbols": 261,
+            "validation_precision": 0.3153526970954357,
+            "validation_recall": 0.8113879003558719,
+            "validation_exec_dd": 0.04543635060266571,
+            "validation_uplift": 0.006904170118751729
+          },
+          {
+            "id": "close_below_ma20__c2__first",
+            "signal": "close_below_ma20__c2",
+            "kind": "first",
+            "j": 5,
+            "score": 0.5292219834542017,
+            "failures": [
+              "signal_early",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2284,
+            "validation_symbols": 257,
+            "validation_precision": 0.3410683012259194,
+            "validation_recall": 0.7580071174377224,
+            "validation_exec_dd": 0.05087621750134219,
+            "validation_uplift": 0.031237609742282645
+          },
+          {
+            "id": "ma5_below_ma10__c1__first",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first",
+            "j": 6,
+            "score": 0.5399259201803971,
+            "failures": [
+              "uplift_size"
+            ],
+            "validation_n": 3147,
+            "validation_symbols": 261,
+            "validation_precision": 0.26660311407689863,
+            "validation_recall": 0.8193950177935944,
+            "validation_exec_dd": 0.03537247254963277,
+            "validation_uplift": 0.02926460113960114
+          },
+          {
+            "id": "ma5_below_ma10__c2__first",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first",
+            "j": 7,
+            "score": 0.47071393820287566,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2913,
+            "validation_symbols": 260,
+            "validation_precision": 0.2766906968760728,
+            "validation_recall": 0.7855871886120996,
+            "validation_exec_dd": 0.03661610430006679,
+            "validation_uplift": -0.00031634128705712133
+          },
+          {
+            "id": "ma5_below_ma20__c1__first",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first",
+            "j": 8,
+            "score": 0.5137049739417358,
+            "failures": [
+              "signal_early",
+              "train_uplift"
+            ],
+            "validation_n": 2241,
+            "validation_symbols": 255,
+            "validation_precision": 0.3315484158857653,
+            "validation_recall": 0.7250889679715302,
+            "validation_exec_dd": 0.05090497737556565,
+            "validation_uplift": 0.03068214388076813
+          },
+          {
+            "id": "ma5_below_ma20__c2__first",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first",
+            "j": 9,
+            "score": 0.41725527720149064,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2114,
+            "validation_symbols": 254,
+            "validation_precision": 0.33207190160832545,
+            "validation_recall": 0.6823843416370107,
+            "validation_exec_dd": 0.05184028918830108,
+            "validation_uplift": -0.009680261832829802
+          },
+          {
+            "id": "ma10_below_ma20__c1__first",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first",
+            "j": 10,
+            "score": 0.4000121331811158,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2042,
+            "validation_symbols": 255,
+            "validation_precision": 0.331537708129285,
+            "validation_recall": 0.6565836298932385,
+            "validation_exec_dd": 0.05269722482070471,
+            "validation_uplift": -0.013278112449799194
+          },
+          {
+            "id": "ma10_below_ma20__c2__first",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first",
+            "j": 11,
+            "score": 0.3689316504553919,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1923,
+            "validation_symbols": 253,
+            "validation_precision": 0.33073322932917315,
+            "validation_recall": 0.6120996441281139,
+            "validation_exec_dd": 0.05245970172470782,
+            "validation_uplift": -0.02103174603174603
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 12,
+            "score": 0.5005620692005699,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3542,
+            "validation_symbols": 261,
+            "validation_precision": 0.24590626764539808,
+            "validation_recall": 0.8487544483985765,
+            "validation_exec_dd": 0.03047794966520434,
+            "validation_uplift": 0.005102040816326534
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 13,
+            "score": 0.5077831219595702,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3232,
+            "validation_symbols": 260,
+            "validation_precision": 0.2592821782178218,
+            "validation_recall": 0.8185053380782918,
+            "validation_exec_dd": 0.033258173618940234,
+            "validation_uplift": 0.01338988689288091
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 14,
+            "score": 0.5052192438695687,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2684,
+            "validation_symbols": 260,
+            "validation_precision": 0.29918032786885246,
+            "validation_recall": 0.7802491103202847,
+            "validation_exec_dd": 0.04187946884576088,
+            "validation_uplift": 0.01712871287128713
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 15,
+            "score": 0.4595680084929191,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2490,
+            "validation_symbols": 259,
+            "validation_precision": 0.3004016064257028,
+            "validation_recall": 0.7295373665480427,
+            "validation_exec_dd": 0.043235184494968215,
+            "validation_uplift": 0.0036723163841807975
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first",
+            "j": 16,
+            "score": 0.46007837186165856,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1916,
+            "validation_symbols": 256,
+            "validation_precision": 0.3559498956158664,
+            "validation_recall": 0.6601423487544484,
+            "validation_exec_dd": 0.057368821987933416,
+            "validation_uplift": 0.014806201550387598
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first",
+            "j": 17,
+            "score": 0.44673332812599253,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1789,
+            "validation_symbols": 250,
+            "validation_precision": 0.3555058692006708,
+            "validation_recall": 0.6165480427046264,
+            "validation_exec_dd": 0.057863907592927144,
+            "validation_uplift": 0.016076830006049612
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first",
+            "j": 18,
+            "score": 0.4563816079203281,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1821,
+            "validation_symbols": 255,
+            "validation_precision": 0.3745194947830862,
+            "validation_recall": 0.6592526690391459,
+            "validation_exec_dd": 0.0601443464314354,
+            "validation_uplift": 0.011715835876568333
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first",
+            "j": 19,
+            "score": 0.44088619360365316,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1654,
+            "validation_symbols": 249,
+            "validation_precision": 0.38331318016928656,
+            "validation_recall": 0.6138790035587188,
+            "validation_exec_dd": 0.06404958677685946,
+            "validation_uplift": 0.012542087542087545
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first",
+            "j": 20,
+            "score": 0.4601913946633475,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1818,
+            "validation_symbols": 254,
+            "validation_precision": 0.3701870187018702,
+            "validation_recall": 0.6512455516014235,
+            "validation_exec_dd": 0.06042296072507547,
+            "validation_uplift": 0.015811153358681877
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first",
+            "j": 21,
+            "score": 0.45615036231683326,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1663,
+            "validation_symbols": 249,
+            "validation_precision": 0.375826819001804,
+            "validation_recall": 0.604982206405694,
+            "validation_exec_dd": 0.06283786971986977,
+            "validation_uplift": 0.022248207047084505
+          },
+          {
+            "id": "close_below_ma5__c1__first_state",
+            "signal": "close_below_ma5__c1",
+            "kind": "first_state",
+            "j": 0,
+            "score": 0.5032369405848909,
+            "failures": [
+              "precision",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 5023,
+            "validation_symbols": 262,
+            "validation_precision": 0.19012542305395183,
+            "validation_recall": 0.9270462633451957,
+            "validation_exec_dd": 0.019876007769470183,
+            "validation_uplift": -0.00419543536632144
+          },
+          {
+            "id": "close_below_ma5__c2__first_state",
+            "signal": "close_below_ma5__c2",
+            "kind": "first_state",
+            "j": 1,
+            "score": 0.5098359829882942,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 4012,
+            "validation_symbols": 262,
+            "validation_precision": 0.22756729810568296,
+            "validation_recall": 0.8852313167259787,
+            "validation_exec_dd": 0.026446280991735405,
+            "validation_uplift": 0.004090556847116131
+          },
+          {
+            "id": "close_below_ma10__c1__first_state",
+            "signal": "close_below_ma10__c1",
+            "kind": "first_state",
+            "j": 2,
+            "score": 0.5022780442447445,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3693,
+            "validation_symbols": 262,
+            "validation_precision": 0.24803682642837802,
+            "validation_recall": 0.8905693950177936,
+            "validation_exec_dd": 0.030322720381199875,
+            "validation_uplift": -0.0017547857793983558
+          },
+          {
+            "id": "close_below_ma10__c2__first_state",
+            "signal": "close_below_ma10__c2",
+            "kind": "first_state",
+            "j": 3,
+            "score": 0.5051771436217263,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3118,
+            "validation_symbols": 262,
+            "validation_precision": 0.27934573444515715,
+            "validation_recall": 0.8460854092526691,
+            "validation_exec_dd": 0.036679351736150556,
+            "validation_uplift": 0.005961440892947744
+          },
+          {
+            "id": "close_below_ma20__c1__first_state",
+            "signal": "close_below_ma20__c1",
+            "kind": "first_state",
+            "j": 4,
+            "score": 0.49947146955168586,
+            "failures": [
+              "common_support",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2651,
+            "validation_symbols": 261,
+            "validation_precision": 0.3153526970954357,
+            "validation_recall": 0.8113879003558719,
+            "validation_exec_dd": 0.04545454545454536,
+            "validation_uplift": 0.008167220376522706
+          },
+          {
+            "id": "close_below_ma20__c2__first_state",
+            "signal": "close_below_ma20__c2",
+            "kind": "first_state",
+            "j": 5,
+            "score": 0.5287157184280348,
+            "failures": [
+              "signal_early",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2287,
+            "validation_symbols": 257,
+            "validation_precision": 0.3406209007433319,
+            "validation_recall": 0.7580071174377224,
+            "validation_exec_dd": 0.05087621750134219,
+            "validation_uplift": 0.031051587301587306
+          },
+          {
+            "id": "ma5_below_ma10__c1__first_state",
+            "signal": "ma5_below_ma10__c1",
+            "kind": "first_state",
+            "j": 6,
+            "score": 0.5333182051067372,
+            "failures": [
+              "uplift_size",
+              "train_uplift"
+            ],
+            "validation_n": 3233,
+            "validation_symbols": 261,
+            "validation_precision": 0.26198577172904425,
+            "validation_recall": 0.8265124555160143,
+            "validation_exec_dd": 0.03406569343065691,
+            "validation_uplift": 0.02475440379403794
+          },
+          {
+            "id": "ma5_below_ma10__c2__first_state",
+            "signal": "ma5_below_ma10__c2",
+            "kind": "first_state",
+            "j": 7,
+            "score": 0.4703611782804258,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2978,
+            "validation_symbols": 260,
+            "validation_precision": 0.2730020147750168,
+            "validation_recall": 0.791814946619217,
+            "validation_exec_dd": 0.03577081465885906,
+            "validation_uplift": -0.001451921404973044
+          },
+          {
+            "id": "ma5_below_ma20__c1__first_state",
+            "signal": "ma5_below_ma20__c1",
+            "kind": "first_state",
+            "j": 8,
+            "score": 0.5030671768424424,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2264,
+            "validation_symbols": 255,
+            "validation_precision": 0.3299469964664311,
+            "validation_recall": 0.7286476868327402,
+            "validation_exec_dd": 0.05071838726372069,
+            "validation_uplift": 0.02488738738738739
+          },
+          {
+            "id": "ma5_below_ma20__c2__first_state",
+            "signal": "ma5_below_ma20__c2",
+            "kind": "first_state",
+            "j": 9,
+            "score": 0.4127711921470558,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2136,
+            "validation_symbols": 255,
+            "validation_precision": 0.33052434456928836,
+            "validation_recall": 0.6859430604982206,
+            "validation_exec_dd": 0.05141657922350473,
+            "validation_uplift": -0.012524801587301584
+          },
+          {
+            "id": "ma10_below_ma20__c1__first_state",
+            "signal": "ma10_below_ma20__c1",
+            "kind": "first_state",
+            "j": 10,
+            "score": 0.4026273928136399,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2224,
+            "validation_symbols": 258,
+            "validation_precision": 0.3102517985611511,
+            "validation_recall": 0.6708185053380783,
+            "validation_exec_dd": 0.04788305591122494,
+            "validation_uplift": -0.013675783855903931
+          },
+          {
+            "id": "ma10_below_ma20__c2__first_state",
+            "signal": "ma10_below_ma20__c2",
+            "kind": "first_state",
+            "j": 11,
+            "score": 0.3706306064924603,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 2103,
+            "validation_symbols": 258,
+            "validation_precision": 0.30813124108416545,
+            "validation_recall": 0.6254448398576512,
+            "validation_exec_dd": 0.04747774480712175,
+            "validation_uplift": -0.021618357487922703
+          },
+          {
+            "id": "ma5_slope_nonpositive__c1__first_state",
+            "signal": "ma5_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 12,
+            "score": 0.5016163134925818,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3593,
+            "validation_symbols": 261,
+            "validation_precision": 0.24464236014472585,
+            "validation_recall": 0.8558718861209964,
+            "validation_exec_dd": 0.03007518796992481,
+            "validation_uplift": 0.00437181663837012
+          },
+          {
+            "id": "ma5_slope_nonpositive__c2__first_state",
+            "signal": "ma5_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 13,
+            "score": 0.5062722672067508,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3274,
+            "validation_symbols": 260,
+            "validation_precision": 0.258094074526573,
+            "validation_recall": 0.8247330960854092,
+            "validation_exec_dd": 0.032596528410023806,
+            "validation_uplift": 0.01139199481445471
+          },
+          {
+            "id": "ma10_slope_nonpositive__c1__first_state",
+            "signal": "ma10_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 14,
+            "score": 0.49487110497872466,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2711,
+            "validation_symbols": 260,
+            "validation_precision": 0.29730726669125784,
+            "validation_recall": 0.7838078291814946,
+            "validation_exec_dd": 0.04168056018672894,
+            "validation_uplift": 0.011513372472276585
+          },
+          {
+            "id": "ma10_slope_nonpositive__c2__first_state",
+            "signal": "ma10_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 15,
+            "score": 0.4527379847236144,
+            "failures": [
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 2514,
+            "validation_symbols": 259,
+            "validation_precision": 0.29832935560859186,
+            "validation_recall": 0.7322064056939501,
+            "validation_exec_dd": 0.04286124264600377,
+            "validation_uplift": -8.59106529209556e-05
+          },
+          {
+            "id": "ma20_slope_nonpositive__c1__first_state",
+            "signal": "ma20_slope_nonpositive__c1",
+            "kind": "first_state",
+            "j": 16,
+            "score": 0.45209243143123656,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1933,
+            "validation_symbols": 256,
+            "validation_precision": 0.35385411277806517,
+            "validation_recall": 0.6619217081850534,
+            "validation_exec_dd": 0.05737704918032782,
+            "validation_uplift": 0.010820324456688093
+          },
+          {
+            "id": "ma20_slope_nonpositive__c2__first_state",
+            "signal": "ma20_slope_nonpositive__c2",
+            "kind": "first_state",
+            "j": 17,
+            "score": 0.4390668038297881,
+            "failures": [
+              "signal_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1807,
+            "validation_symbols": 250,
+            "validation_precision": 0.3536247924737133,
+            "validation_recall": 0.6192170818505338,
+            "validation_exec_dd": 0.057863907592927144,
+            "validation_uplift": 0.012058647516457216
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c1__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 18,
+            "score": 0.4594604589098935,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1821,
+            "validation_symbols": 255,
+            "validation_precision": 0.3745194947830862,
+            "validation_recall": 0.6592526690391459,
+            "validation_exec_dd": 0.0601443464314354,
+            "validation_uplift": 0.013255261371350984
+          },
+          {
+            "id": "close_below_ma20_and_ma20_down__c2__first_state",
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 19,
+            "score": 0.43947683245427427,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci"
+            ],
+            "validation_n": 1655,
+            "validation_symbols": 249,
+            "validation_precision": 0.38308157099697887,
+            "validation_recall": 0.6138790035587188,
+            "validation_exec_dd": 0.06404266382774465,
+            "validation_uplift": 0.011868686868686872
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c1__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c1",
+            "kind": "first_state",
+            "j": 20,
+            "score": 0.4571979364609822,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1819,
+            "validation_symbols": 254,
+            "validation_precision": 0.36998350742166025,
+            "validation_recall": 0.6512455516014235,
+            "validation_exec_dd": 0.06044906135605832,
+            "validation_uplift": 0.014358001265022138
+          },
+          {
+            "id": "ma5_below_ma10_and_ma20_down__c2__first_state",
+            "signal": "ma5_below_ma10_and_ma20_down__c2",
+            "kind": "first_state",
+            "j": 21,
+            "score": 0.45319127876245713,
+            "failures": [
+              "signal_early",
+              "execution_early",
+              "uplift_size",
+              "stock_ci",
+              "time_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1664,
+            "validation_symbols": 249,
+            "validation_precision": 0.37560096153846156,
+            "validation_recall": 0.604982206405694,
+            "validation_exec_dd": 0.06284498237680403,
+            "validation_uplift": 0.020806100217864925
+          }
+        ],
+        "vol_cuts": [
+          0.01160009711641729,
+          0.01573154337275661,
+          0.020935167473005882,
+          0.030161372258344823
+        ]
+      }
+    }
+  }
+}

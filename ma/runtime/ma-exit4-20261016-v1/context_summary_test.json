@@ -1,0 +1,370 @@
+[
+  {
+    "context": "post_trend",
+    "signal": "10_below20",
+    "n": 6982,
+    "symbols": 726,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.3781299017485613,
+      "ci95_symbol": [
+        0.3616564621866027,
+        0.39367254275543917
+      ],
+      "mean_quarter_balanced": 0.39922373743023526,
+      "ci95_quarter": [
+        0.36382194537697377,
+        0.4333854460613479
+      ],
+      "median_raw": 0.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.792264753295692,
+      "ci95_symbol": [
+        0.7780171553069323,
+        0.8061720318246455
+      ],
+      "mean_quarter_balanced": 0.7931232444019384,
+      "ci95_quarter": [
+        0.7655876979630595,
+        0.8226568833131063
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.015867379319945044,
+      "ci95_symbol": [
+        -0.023587137502352275,
+        -0.008637122087548205
+      ],
+      "mean_quarter_balanced": -0.0051915940898805525,
+      "ci95_quarter": [
+        -0.01627703792676365,
+        0.006934896770740435
+      ],
+      "median_raw": -0.01066382373845065
+    },
+    "events_per100days": 2.931950875585164
+  },
+  {
+    "context": "post_trend",
+    "signal": "5_below10",
+    "n": 9711,
+    "symbols": 728,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.4259440459731475,
+      "ci95_symbol": [
+        0.40914463204568763,
+        0.44152153243483616
+      ],
+      "mean_quarter_balanced": 0.43923811394745704,
+      "ci95_quarter": [
+        0.4014382987273739,
+        0.475774231030201
+      ],
+      "median_raw": 0.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.8033950092015987,
+      "ci95_symbol": [
+        0.7914379632413052,
+        0.8152098860607313
+      ],
+      "mean_quarter_balanced": 0.80297195820737,
+      "ci95_quarter": [
+        0.7798670411509387,
+        0.8297755754670716
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.01242488738153873,
+      "ci95_symbol": [
+        -0.018622856783528225,
+        -0.006409044848883137
+      ],
+      "mean_quarter_balanced": -0.011030552125739277,
+      "ci95_quarter": [
+        -0.029960735787076583,
+        0.005094362242050298
+      ],
+      "median_raw": -0.014834794335805812
+    },
+    "events_per100days": 5.723844891741479
+  },
+  {
+    "context": "post_trend",
+    "signal": "5_below20",
+    "n": 7359,
+    "symbols": 728,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.38094211929095173,
+      "ci95_symbol": [
+        0.36315709767078536,
+        0.39798423585445103
+      ],
+      "mean_quarter_balanced": 0.40796656576511536,
+      "ci95_quarter": [
+        0.3679914532124823,
+        0.44523218789489855
+      ],
+      "median_raw": 0.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.7929001940768169,
+      "ci95_symbol": [
+        0.780151390570861,
+        0.8071157966129072
+      ],
+      "mean_quarter_balanced": 0.7935077464306761,
+      "ci95_quarter": [
+        0.7666047051159071,
+        0.8266032299626002
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.013902653706700904,
+      "ci95_symbol": [
+        -0.022403871828566676,
+        -0.005009009998307797
+      ],
+      "mean_quarter_balanced": -0.0025810404913733905,
+      "ci95_quarter": [
+        -0.012637859232610604,
+        0.008453302993692888
+      ],
+      "median_raw": -0.013052208835341417
+    },
+    "events_per100days": 3.3032547690688085
+  },
+  {
+    "context": "post_trend",
+    "signal": "close_below5",
+    "n": 12425,
+    "symbols": 730,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.45322650501789985,
+      "ci95_symbol": [
+        0.43643409993268806,
+        0.46796374726190926
+      ],
+      "mean_quarter_balanced": 0.4598269940394605,
+      "ci95_quarter": [
+        0.41896083211341434,
+        0.498051868706435
+      ],
+      "median_raw": 0.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.803531481631973,
+      "ci95_symbol": [
+        0.7927241349450167,
+        0.8143119935634703
+      ],
+      "mean_quarter_balanced": 0.8014618903741221,
+      "ci95_quarter": [
+        0.7769443087900946,
+        0.8268135406993011
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.009915112150960692,
+      "ci95_symbol": [
+        -0.015892084692916794,
+        -0.003752076480383186
+      ],
+      "mean_quarter_balanced": -0.004621459763816915,
+      "ci95_quarter": [
+        -0.016707282182216558,
+        0.008187798536513722
+      ],
+      "median_raw": -0.013793103448275779
+    },
+    "events_per100days": 13.442687442514679
+  },
+  {
+    "context": "sideways",
+    "signal": "10_below20",
+    "n": 3924,
+    "symbols": 540,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.5110262310273854,
+      "ci95_symbol": [
+        0.4843534591366839,
+        0.5348594025586246
+      ],
+      "mean_quarter_balanced": 0.48613606412681565,
+      "ci95_quarter": [
+        0.4477479076157667,
+        0.5231293135012834
+      ],
+      "median_raw": 0.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.6431972466025,
+      "ci95_symbol": [
+        0.6172147527505871,
+        0.6696020110969699
+      ],
+      "mean_quarter_balanced": 0.5455473482698244,
+      "ci95_quarter": [
+        0.46072588008895665,
+        0.6266359968936556
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": -0.0011524931574385805,
+      "ci95_symbol": [
+        -0.00912824015595898,
+        0.00614721110128895
+      ],
+      "mean_quarter_balanced": 0.0018344161454599743,
+      "ci95_quarter": [
+        -0.004330041081227075,
+        0.007562057988115155
+      ],
+      "median_raw": 0.0
+    },
+    "events_per100days": 4.486332413805155
+  },
+  {
+    "context": "sideways",
+    "signal": "5_below10",
+    "n": 4690,
+    "symbols": 557,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.5544614973077047,
+      "ci95_symbol": [
+        0.5295202495510378,
+        0.5778907664045807
+      ],
+      "mean_quarter_balanced": 0.5316752802511465,
+      "ci95_quarter": [
+        0.4856732067220723,
+        0.5740300154422174
+      ],
+      "median_raw": 1.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.6330275017694543,
+      "ci95_symbol": [
+        0.60716483414008,
+        0.660252623447698
+      ],
+      "mean_quarter_balanced": 0.5531658245607683,
+      "ci95_quarter": [
+        0.5113023218786197,
+        0.6039503242546802
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": 0.007944634283498663,
+      "ci95_symbol": [
+        0.0008168753091456579,
+        0.015392530894938661
+      ],
+      "mean_quarter_balanced": 0.004587326623452352,
+      "ci95_quarter": [
+        -0.0031292330018218685,
+        0.010514636636693945
+      ],
+      "median_raw": 0.0
+    },
+    "events_per100days": 6.351983759289208
+  },
+  {
+    "context": "sideways",
+    "signal": "5_below20",
+    "n": 3983,
+    "symbols": 545,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.5227850382083078,
+      "ci95_symbol": [
+        0.4974470748572541,
+        0.5472377476927951
+      ],
+      "mean_quarter_balanced": 0.503126879205003,
+      "ci95_quarter": [
+        0.4599026412560181,
+        0.5398066605910936
+      ],
+      "median_raw": 1.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.6400693580348624,
+      "ci95_symbol": [
+        0.6145613477349138,
+        0.6645522162429987
+      ],
+      "mean_quarter_balanced": 0.5644267709753823,
+      "ci95_quarter": [
+        0.51349172938038,
+        0.6184079240150008
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": 0.002556232483895375,
+      "ci95_symbol": [
+        -0.006965711429358859,
+        0.013575301830674352
+      ],
+      "mean_quarter_balanced": 0.004242316999760693,
+      "ci95_quarter": [
+        -0.002815588861384187,
+        0.010112495317691744
+      ],
+      "median_raw": 0.0007886435331230235
+    },
+    "events_per100days": 5.025178003565144
+  },
+  {
+    "context": "sideways",
+    "signal": "close_below5",
+    "n": 6299,
+    "symbols": 587,
+    "recover_high60": {
+      "mean_symbol_balanced": 0.5613593278122668,
+      "ci95_symbol": [
+        0.5385249007584846,
+        0.5854264657629223
+      ],
+      "mean_quarter_balanced": 0.5612822447765154,
+      "ci95_quarter": [
+        0.5040840979867411,
+        0.6347806119530058
+      ],
+      "median_raw": 1.0
+    },
+    "fall5pct60": {
+      "mean_symbol_balanced": 0.6386793715918189,
+      "ci95_symbol": [
+        0.6161954256998594,
+        0.6623744042905839
+      ],
+      "mean_quarter_balanced": 0.533460216798295,
+      "ci95_quarter": [
+        0.43350984460001823,
+        0.6108248446758557
+      ],
+      "median_raw": 1.0
+    },
+    "terminal20": {
+      "mean_symbol_balanced": 0.0008020669035267995,
+      "ci95_symbol": [
+        -0.006675650774348018,
+        0.007885815758757228
+      ],
+      "mean_quarter_balanced": 0.004696484734117049,
+      "ci95_quarter": [
+        -0.003710707813046331,
+        0.012589121346952229
+      ],
+      "median_raw": 0.0
+    },
+    "events_per100days": 13.024833203365464
+  }
+]

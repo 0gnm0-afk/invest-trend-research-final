@@ -1,0 +1,107 @@
+{
+  "status": "PASS",
+  "raw_hashes": 7920,
+  "array_hashes": 2406,
+  "segment_rows": 2249624,
+  "stock_pair_chain_checks": 21636,
+  "independent_signal_flags": 330792,
+  "independent_capital_paths": 756,
+  "prefix_paths": 414,
+  "independent_actions": 20172,
+  "summary_and_cohort_checks": 648,
+  "sample": [
+    {
+      "market": "KR",
+      "symbol": "000020"
+    },
+    {
+      "market": "KR",
+      "symbol": "002270"
+    },
+    {
+      "market": "KR",
+      "symbol": "005490"
+    },
+    {
+      "market": "KR",
+      "symbol": "009150"
+    },
+    {
+      "market": "KR",
+      "symbol": "009450"
+    },
+    {
+      "market": "KR",
+      "symbol": "018880"
+    },
+    {
+      "market": "KR",
+      "symbol": "036460"
+    },
+    {
+      "market": "KR",
+      "symbol": "047040"
+    },
+    {
+      "market": "KR",
+      "symbol": "079440"
+    },
+    {
+      "market": "KR",
+      "symbol": "145720"
+    },
+    {
+      "market": "KR",
+      "symbol": "294870"
+    },
+    {
+      "market": "KR",
+      "symbol": "950210"
+    },
+    {
+      "market": "US",
+      "symbol": "A"
+    },
+    {
+      "market": "US",
+      "symbol": "BAC"
+    },
+    {
+      "market": "US",
+      "symbol": "CNXN"
+    },
+    {
+      "market": "US",
+      "symbol": "ET"
+    },
+    {
+      "market": "US",
+      "symbol": "HSIC"
+    },
+    {
+      "market": "US",
+      "symbol": "LUMN"
+    },
+    {
+      "market": "US",
+      "symbol": "NYAX"
+    },
+    {
+      "market": "US",
+      "symbol": "PPCB"
+    },
+    {
+      "market": "US",
+      "symbol": "RILY"
+    },
+    {
+      "market": "US",
+      "symbol": "TMC"
+    },
+    {
+      "market": "US",
+      "symbol": "ZYME"
+    }
+  ],
+  "scope": "All interval price chains and full-sale cost chains; sampled independent new signals/state/cash. Does not prove liquidity, missing delisted returns or actual KR dividends."
+}

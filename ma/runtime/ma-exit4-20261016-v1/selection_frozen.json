@@ -1,0 +1,248 @@
+{
+  "created_at": "2026-10-16T08:59:58.799952+00:00",
+  "protocol_sha256": "9e697d80b7e943417068da6a0d0cf021e4573584bfa4d1d34af3dfb8a1aa1691",
+  "data_audit_sha256": "2138f3ea940821c846497818ce110b00a5f1bd61c025b25446c2a0c5d3b89dd5",
+  "coarse_candidates": 432,
+  "refined_candidates": 510,
+  "top5": [
+    {
+      "id": "support_break__none__c2__60-10-10-20",
+      "policy": [
+        "support_break",
+        "none",
+        2
+      ],
+      "weights": [
+        60,
+        10,
+        10,
+        20
+      ],
+      "training_score": 0.6323529411764706,
+      "validation_score": 0.6867647058823529,
+      "selection_score": 0.665,
+      "complexity": 2
+    },
+    {
+      "id": "slope_protect__none__c2__10-60-10-20",
+      "policy": [
+        "slope_protect",
+        "none",
+        2
+      ],
+      "weights": [
+        10,
+        60,
+        10,
+        20
+      ],
+      "training_score": 0.6536274509803921,
+      "validation_score": 0.6262745098039215,
+      "selection_score": 0.6372156862745098,
+      "complexity": 2
+    },
+    {
+      "id": "slope_protect__golden5__c2__10-60-10-20",
+      "policy": [
+        "slope_protect",
+        "golden5",
+        2
+      ],
+      "weights": [
+        10,
+        60,
+        10,
+        20
+      ],
+      "training_score": 0.4920588235294117,
+      "validation_score": 0.6668627450980392,
+      "selection_score": 0.5969411764705882,
+      "complexity": 5
+    },
+    {
+      "id": "support_break__golden5__c2__60-10-10-20",
+      "policy": [
+        "support_break",
+        "golden5",
+        2
+      ],
+      "weights": [
+        60,
+        10,
+        10,
+        20
+      ],
+      "training_score": 0.46078431372549017,
+      "validation_score": 0.6701960784313724,
+      "selection_score": 0.5864313725490196,
+      "complexity": 5
+    },
+    {
+      "id": "slope_protect__none__c1__10-70-10-10",
+      "policy": [
+        "slope_protect",
+        "none",
+        1
+      ],
+      "weights": [
+        10,
+        70,
+        10,
+        10
+      ],
+      "training_score": 0.38441176470588234,
+      "validation_score": 0.6868627450980391,
+      "selection_score": 0.5658823529411764,
+      "complexity": 1
+    }
+  ],
+  "recommended_id": "support_break__none__c2__60-10-10-20",
+  "sensitivity": [
+    {
+      "objective_weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "winner": "support_break__none__c2__60-10-10-20",
+      "recommended_rank": 1
+    },
+    {
+      "objective_weights": [
+        0.2,
+        0.6,
+        0.2
+      ],
+      "winner": "slope_protect__none__c1__30-50-10-10",
+      "recommended_rank": 63
+    },
+    {
+      "objective_weights": [
+        0.2,
+        0.2,
+        0.6
+      ],
+      "winner": "support_break__none__c2__50-10-10-30",
+      "recommended_rank": 80
+    }
+  ],
+  "walk_forward_development": [
+    {
+      "fit_end": "2013-12-31",
+      "evaluate_start": "2014-01-01",
+      "evaluate_end": "2016-12-31",
+      "selected": "support_break__none__c2__60-10-10-20",
+      "n": 625,
+      "selected_result": {
+        "return": 0.016791873786582177,
+        "return_robust": 0.01627767653323417,
+        "hold_delta": -0.04716093227695995,
+        "giveback_pp": 0.331558371595456,
+        "giveback_fraction": 0.994532940344218,
+        "missed": 0.2701156183333504,
+        "defense": 0.15894783756189762,
+        "mdd": 0.10861934348071389,
+        "sales": 3.6605971256736702,
+        "sold": 0.932119425134734,
+        "success5": 0.4563933583274753,
+        "success20": 0.4843939571454607,
+        "success60": 0.47897872243484596,
+        "expect5": -0.007633357714692333,
+        "expect20": -0.016144962099675374,
+        "expect60": -0.0463624127833344,
+        "cost": 0.0031289858791947065,
+        "capture": 0.005467059655781922
+      },
+      "note": "Development-only diagnostic on the final candidate set; not an independently nested out-of-sample test."
+    },
+    {
+      "fit_end": "2016-12-31",
+      "evaluate_start": "2017-01-01",
+      "evaluate_end": "2018-12-31",
+      "selected": "slope_protect__none__c2__10-60-10-20",
+      "n": 321,
+      "selected_result": {
+        "return": 0.0058036850485176286,
+        "return_robust": 0.0058036850485176286,
+        "hold_delta": -0.038424028272123795,
+        "giveback_pp": 0.30831002878218505,
+        "giveback_fraction": 1.0373712335192584,
+        "missed": 0.24909590255037053,
+        "defense": 0.14410807450407478,
+        "mdd": 0.11319331315688563,
+        "sales": 3.6301922084623324,
+        "sold": 0.9264060887512899,
+        "success5": 0.4847687923853752,
+        "success20": 0.49002999226006194,
+        "success60": 0.49811580882352935,
+        "expect5": -0.0020218791261548876,
+        "expect20": -0.011581713710223115,
+        "expect60": -0.034409918593296465,
+        "cost": 0.0030970436297845295,
+        "capture": -0.037371233519258425
+      },
+      "note": "Development-only diagnostic on the final candidate set; not an independently nested out-of-sample test."
+    },
+    {
+      "fit_end": "2018-12-31",
+      "evaluate_start": "2019-01-01",
+      "evaluate_end": "2020-12-31",
+      "selected": "support_break__none__c2__60-10-10-20",
+      "n": 508,
+      "selected_result": {
+        "return": -0.0001795159025481741,
+        "return_robust": -0.0025383783804582716,
+        "hold_delta": 0.036537838455718646,
+        "giveback_pp": 0.3006257827250008,
+        "giveback_fraction": 1.0204457011471706,
+        "missed": 0.24011852036833642,
+        "defense": 0.27564023224749123,
+        "mdd": 0.11502410568456081,
+        "sales": 3.764917695473251,
+        "sold": 0.9529835390946502,
+        "success5": 0.5273960271153955,
+        "success20": 0.5548820748069226,
+        "success60": 0.5952539249675854,
+        "expect5": 0.005435398662376915,
+        "expect20": 0.01774056073457904,
+        "expect60": 0.02477586033647497,
+        "cost": 0.0031372268470494856,
+        "capture": -0.0204457011471707
+      },
+      "note": "Development-only diagnostic on the final candidate set; not an independently nested out-of-sample test."
+    }
+  ],
+  "selection_basis": "train+validation ONLY; test not evaluated",
+  "refined_policies": [
+    [
+      "slope_protect",
+      "none",
+      2
+    ],
+    [
+      "slope_protect",
+      "none",
+      1
+    ],
+    [
+      "support_break",
+      "none",
+      2
+    ],
+    [
+      "slope_protect",
+      "golden5",
+      2
+    ],
+    [
+      "slope_protect",
+      "early5",
+      2
+    ],
+    [
+      "support_break",
+      "golden5",
+      2
+    ]
+  ]
+}

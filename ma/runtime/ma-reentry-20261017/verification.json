@@ -1,0 +1,127 @@
+{
+  "status": "PASS",
+  "raw_hashes": 7920,
+  "array_hashes": 2406,
+  "ledger_rows": 644938,
+  "independent_raw_price_cap_values": 427392,
+  "independent_signal_flags": 498624,
+  "independent_cycles": 6563,
+  "independent_stock_strategy_paths": 168,
+  "prefix_paths": 168,
+  "table_checks": 156,
+  "sample": [
+    {
+      "market": "KR",
+      "symbol": "000030"
+    },
+    {
+      "market": "KR",
+      "symbol": "002210"
+    },
+    {
+      "market": "KR",
+      "symbol": "004690"
+    },
+    {
+      "market": "KR",
+      "symbol": "007070"
+    },
+    {
+      "market": "KR",
+      "symbol": "011210"
+    },
+    {
+      "market": "KR",
+      "symbol": "016710"
+    },
+    {
+      "market": "KR",
+      "symbol": "017390"
+    },
+    {
+      "market": "KR",
+      "symbol": "023530"
+    },
+    {
+      "market": "KR",
+      "symbol": "036420"
+    },
+    {
+      "market": "KR",
+      "symbol": "071320"
+    },
+    {
+      "market": "KR",
+      "symbol": "108320"
+    },
+    {
+      "market": "KR",
+      "symbol": "210980"
+    },
+    {
+      "market": "KR",
+      "symbol": "307950"
+    },
+    {
+      "market": "KR",
+      "symbol": "950210"
+    },
+    {
+      "market": "US",
+      "symbol": "A"
+    },
+    {
+      "market": "US",
+      "symbol": "ATI"
+    },
+    {
+      "market": "US",
+      "symbol": "CCK"
+    },
+    {
+      "market": "US",
+      "symbol": "DCO"
+    },
+    {
+      "market": "US",
+      "symbol": "FIS"
+    },
+    {
+      "market": "US",
+      "symbol": "HXL"
+    },
+    {
+      "market": "US",
+      "symbol": "KOD"
+    },
+    {
+      "market": "US",
+      "symbol": "KOS"
+    },
+    {
+      "market": "US",
+      "symbol": "LKFN"
+    },
+    {
+      "market": "US",
+      "symbol": "NEXT"
+    },
+    {
+      "market": "US",
+      "symbol": "PLTK"
+    },
+    {
+      "market": "US",
+      "symbol": "SIND"
+    },
+    {
+      "market": "US",
+      "symbol": "TTWO"
+    },
+    {
+      "market": "US",
+      "symbol": "ZTS"
+    }
+  ],
+  "limitations": "Scalar replay checks implementation, not missing delisted returns, exchange open liquidity, actual taxes or KR dividends."
+}

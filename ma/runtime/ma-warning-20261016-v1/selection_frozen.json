@@ -1,0 +1,1471 @@
+{
+  "created_at": "2026-10-16T11:31:57.433627+00:00",
+  "protocol_sha256": "54377ced6384d081b1c2b2b7d1808708beb4fd09b7e9bbb93095f72fe0def3b2",
+  "audit_sha256": "f80ea832c921d9197b190887ccc66a7657831c6e38f905537c94e68eb8c4bd78",
+  "markets": {
+    "KR": {
+      "vol_cuts": [
+        0.015243806415997405,
+        0.020391406522080636,
+        0.026336212440025868,
+        0.0368028266585295
+      ],
+      "roles": {
+        "early": {
+          "qualified_count": 0,
+          "candidate": {
+            "signal": "close_below_ma5__c1",
+            "j": 0,
+            "target": 10,
+            "failures": [
+              "symbol_uplift_ci",
+              "time_uplift_ci",
+              "train_uplift"
+            ],
+            "validation_n": 3802,
+            "validation_precision": 0.4021567596002104,
+            "validation_recall": 0.8155802861685215,
+            "median_execution_dd": 0.031367628607277265,
+            "validation_uplift": -0.012088388214904676
+          },
+          "status": "DESCRIPTIVE ONLY: no candidate passed predeclared gates",
+          "all_candidates": [
+            {
+              "signal": "close_below_ma5__c1",
+              "j": 0,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3802,
+              "validation_precision": 0.4021567596002104,
+              "validation_recall": 0.8155802861685215,
+              "median_execution_dd": 0.031367628607277265,
+              "validation_uplift": -0.012088388214904676
+            },
+            {
+              "signal": "close_below_ma5__c2",
+              "j": 1,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2960,
+              "validation_precision": 0.44966216216216215,
+              "validation_recall": 0.7106518282988871,
+              "median_execution_dd": 0.03703703703703709,
+              "validation_uplift": 0.00080741118476968
+            },
+            {
+              "signal": "close_below_ma10__c1",
+              "j": 2,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2714,
+              "validation_precision": 0.4760501105379514,
+              "validation_recall": 0.6899841017488076,
+              "median_execution_dd": 0.0424710424710425,
+              "validation_uplift": 0.018156492248062015
+            },
+            {
+              "signal": "close_below_ma10__c2",
+              "j": 3,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2135,
+              "validation_precision": 0.5185011709601873,
+              "validation_recall": 0.5919448860625331,
+              "median_execution_dd": 0.04781862106275281,
+              "validation_uplift": 0.0004578754578754644
+            },
+            {
+              "signal": "close_below_ma20__c1",
+              "j": 4,
+              "target": 10,
+              "failures": [
+                "match_coverage",
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1728,
+              "validation_precision": 0.5752314814814815,
+              "validation_recall": 0.5320614732379438,
+              "median_execution_dd": 0.0567200986436498,
+              "validation_uplift": 0.0005177514792899476
+            },
+            {
+              "signal": "close_below_ma20__c2",
+              "j": 5,
+              "target": 10,
+              "failures": [
+                "match_coverage",
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1365,
+              "validation_precision": 0.5934065934065934,
+              "validation_recall": 0.43349231584525705,
+              "median_execution_dd": 0.058510638297872286,
+              "validation_uplift": -0.012890624999999992
+            },
+            {
+              "signal": "ma5_below_ma10__c1",
+              "j": 6,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci"
+              ],
+              "validation_n": 2100,
+              "validation_precision": 0.4961904761904762,
+              "validation_recall": 0.5574986751457339,
+              "median_execution_dd": 0.04366776045671511,
+              "validation_uplift": 0.025212064090480685
+            },
+            {
+              "signal": "ma5_below_ma10__c2",
+              "j": 7,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci"
+              ],
+              "validation_n": 1847,
+              "validation_precision": 0.5046020573903628,
+              "validation_recall": 0.49867514573396926,
+              "median_execution_dd": 0.04441729634635,
+              "validation_uplift": 0.021898496240601507
+            },
+            {
+              "signal": "ma5_below_ma20__c1",
+              "j": 8,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1241,
+              "validation_precision": 0.580983078162772,
+              "validation_recall": 0.3863275039745628,
+              "median_execution_dd": 0.05863657896305097,
+              "validation_uplift": -0.014644893727319854
+            },
+            {
+              "signal": "ma5_below_ma20__c2",
+              "j": 9,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1097,
+              "validation_precision": 0.5651777575205105,
+              "validation_recall": 0.3322734499205087,
+              "median_execution_dd": 0.055080048956791694,
+              "validation_uplift": 0.026524710830704526
+            },
+            {
+              "signal": "ma10_below_ma20__c1",
+              "j": 10,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1045,
+              "validation_precision": 0.55311004784689,
+              "validation_recall": 0.31054583995760465,
+              "median_execution_dd": 0.05344011101762475,
+              "validation_uplift": -0.015616362631288001
+            },
+            {
+              "signal": "ma10_below_ma20__c2",
+              "j": 11,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 938,
+              "validation_precision": 0.5415778251599147,
+              "validation_recall": 0.27239003709591947,
+              "median_execution_dd": 0.053154905152487275,
+              "validation_uplift": -0.009190556492411468
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c1",
+              "j": 12,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2509,
+              "validation_precision": 0.46552411319250697,
+              "validation_recall": 0.6242713301536831,
+              "median_execution_dd": 0.04066781567173272,
+              "validation_uplift": -0.01301886792452829
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c2",
+              "j": 13,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2167,
+              "validation_precision": 0.4831564374711583,
+              "validation_recall": 0.5601483836777954,
+              "median_execution_dd": 0.040883348223987925,
+              "validation_uplift": 0.014310798946444252
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c1",
+              "j": 14,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1679,
+              "validation_precision": 0.535437760571769,
+              "validation_recall": 0.48065712771595126,
+              "median_execution_dd": 0.04981081480845295,
+              "validation_uplift": 0.02321568627450981
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c2",
+              "j": 15,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1472,
+              "validation_precision": 0.5346467391304348,
+              "validation_recall": 0.42130365659777425,
+              "median_execution_dd": 0.04980842911877392,
+              "validation_uplift": 0.004915048543689325
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c1",
+              "j": 16,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 976,
+              "validation_precision": 0.5625,
+              "validation_recall": 0.29517753047164813,
+              "median_execution_dd": 0.05999151376967554,
+              "validation_uplift": -0.006566666666666661
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c2",
+              "j": 17,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 838,
+              "validation_precision": 0.5525059665871122,
+              "validation_recall": 0.24960254372019078,
+              "median_execution_dd": 0.05812474781532995,
+              "validation_uplift": -0.0193758573388203
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c1",
+              "j": 18,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 936,
+              "validation_precision": 0.5844017094017094,
+              "validation_recall": 0.29358770535241124,
+              "median_execution_dd": 0.062360801781737196,
+              "validation_uplift": -0.016702052370842175
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c2",
+              "j": 19,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 765,
+              "validation_precision": 0.5856209150326798,
+              "validation_recall": 0.24112347641759407,
+              "median_execution_dd": 0.06138898615612609,
+              "validation_uplift": -0.007962529274004685
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c1",
+              "j": 20,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 897,
+              "validation_precision": 0.5808249721293199,
+              "validation_recall": 0.27927927927927926,
+              "median_execution_dd": 0.06203473945409432,
+              "validation_uplift": -0.004432624113475178
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c2",
+              "j": 21,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 757,
+              "validation_precision": 0.5746367239101717,
+              "validation_recall": 0.23370429252782193,
+              "median_execution_dd": 0.060975609756097615,
+              "validation_uplift": 0.007415730337078655
+            }
+          ]
+        },
+        "exit": {
+          "qualified_count": 0,
+          "candidate": {
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "j": 19,
+            "target": 20,
+            "failures": [
+              "symbol_uplift_ci",
+              "time_uplift_ci"
+            ],
+            "validation_n": 1610,
+            "validation_precision": 0.43850931677018634,
+            "validation_recall": 0.6720475785896347,
+            "median_execution_dd": 0.09186927751892937,
+            "validation_uplift": 0.007107540173053157
+          },
+          "status": "DESCRIPTIVE ONLY: no candidate passed predeclared gates",
+          "all_candidates": [
+            {
+              "signal": "close_below_ma5__c1",
+              "j": 0,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 4094,
+              "validation_precision": 0.24084025403028822,
+              "validation_recall": 0.9583687340696686,
+              "median_execution_dd": 0.033333333333333326,
+              "validation_uplift": -0.013401331633375828
+            },
+            {
+              "signal": "close_below_ma5__c2",
+              "j": 1,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 3401,
+              "validation_precision": 0.2810937959423699,
+              "validation_recall": 0.929481733220051,
+              "median_execution_dd": 0.041884816753926746,
+              "validation_uplift": -0.012435649935649933
+            },
+            {
+              "signal": "close_below_ma10__c1",
+              "j": 2,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 3169,
+              "validation_precision": 0.29851688229725465,
+              "validation_recall": 0.9218351741716228,
+              "median_execution_dd": 0.04737835309293986,
+              "validation_uplift": -0.002144772117962463
+            },
+            {
+              "signal": "close_below_ma10__c2",
+              "j": 3,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2708,
+              "validation_precision": 0.3345642540620384,
+              "validation_recall": 0.881053525913339,
+              "median_execution_dd": 0.056502324355163946,
+              "validation_uplift": -0.0009531374106433623
+            },
+            {
+              "signal": "close_below_ma20__c1",
+              "j": 4,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2335,
+              "validation_precision": 0.3721627408993576,
+              "validation_recall": 0.8453695836873407,
+              "median_execution_dd": 0.06876359204374638,
+              "validation_uplift": -0.02606470106470106
+            },
+            {
+              "signal": "close_below_ma20__c2",
+              "j": 5,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2082,
+              "validation_precision": 0.3962536023054755,
+              "validation_recall": 0.800339847068819,
+              "median_execution_dd": 0.07548514585551619,
+              "validation_uplift": -0.001999231064975005
+            },
+            {
+              "signal": "ma5_below_ma10__c1",
+              "j": 6,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2724,
+              "validation_precision": 0.3263582966226138,
+              "validation_recall": 0.8657604078164826,
+              "median_execution_dd": 0.054200542005420016,
+              "validation_uplift": -0.008448979591836731
+            },
+            {
+              "signal": "ma5_below_ma10__c2",
+              "j": 7,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2536,
+              "validation_precision": 0.3391167192429022,
+              "validation_recall": 0.8360237892948174,
+              "median_execution_dd": 0.05743589743589739,
+              "validation_uplift": 0.00442511346444781
+            },
+            {
+              "signal": "ma5_below_ma20__c1",
+              "j": 8,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2022,
+              "validation_precision": 0.3971315529179031,
+              "validation_recall": 0.7816482582837723,
+              "median_execution_dd": 0.07788100415101795,
+              "validation_uplift": 0.008620689655172419
+            },
+            {
+              "signal": "ma5_below_ma20__c2",
+              "j": 9,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci"
+              ],
+              "validation_n": 1926,
+              "validation_precision": 0.39927310488058154,
+              "validation_recall": 0.7468139337298216,
+              "median_execution_dd": 0.07844374342797056,
+              "validation_uplift": 0.01732190860215054
+            },
+            {
+              "signal": "ma10_below_ma20__c1",
+              "j": 10,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1880,
+              "validation_precision": 0.3941489361702128,
+              "validation_recall": 0.7170773152081563,
+              "median_execution_dd": 0.07942238267148016,
+              "validation_uplift": 0.006130464480874322
+            },
+            {
+              "signal": "ma10_below_ma20__c2",
+              "j": 11,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1806,
+              "validation_precision": 0.3959025470653378,
+              "validation_recall": 0.6907391673746814,
+              "median_execution_dd": 0.07899439768421251,
+              "validation_uplift": -0.005797803617571056
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c1",
+              "j": 12,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3051,
+              "validation_precision": 0.3002294329727958,
+              "validation_recall": 0.8920985556499575,
+              "median_execution_dd": 0.04791666666666672,
+              "validation_uplift": -0.027183908045977007
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c2",
+              "j": 13,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2790,
+              "validation_precision": 0.317921146953405,
+              "validation_recall": 0.8657604078164826,
+              "median_execution_dd": 0.05219317719317723,
+              "validation_uplift": -0.0037456008044243288
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c1",
+              "j": 14,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2365,
+              "validation_precision": 0.3585623678646934,
+              "validation_recall": 0.826677994902294,
+              "median_execution_dd": 0.06493506493506496,
+              "validation_uplift": 0.02425837320574163
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c2",
+              "j": 15,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2226,
+              "validation_precision": 0.3656783468104223,
+              "validation_recall": 0.7952421410365336,
+              "median_execution_dd": 0.06689536878216118,
+              "validation_uplift": -0.0068111931119311155
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c1",
+              "j": 16,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1791,
+              "validation_precision": 0.40424343941931884,
+              "validation_recall": 0.7000849617672048,
+              "median_execution_dd": 0.08349026993094788,
+              "validation_uplift": -0.02886831275720164
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c2",
+              "j": 17,
+              "target": 20,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1697,
+              "validation_precision": 0.41426045963464936,
+              "validation_recall": 0.6720475785896347,
+              "median_execution_dd": 0.08641278111251782,
+              "validation_uplift": 0.016171993911719938
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c1",
+              "j": 18,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1741,
+              "validation_precision": 0.41757610568638714,
+              "validation_recall": 0.7017841971112999,
+              "median_execution_dd": 0.08737113088044268,
+              "validation_uplift": -0.03664105847204438
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c2",
+              "j": 19,
+              "target": 20,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1610,
+              "validation_precision": 0.43850931677018634,
+              "validation_recall": 0.6720475785896347,
+              "median_execution_dd": 0.09186927751892937,
+              "validation_uplift": 0.007107540173053157
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c1",
+              "j": 20,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1726,
+              "validation_precision": 0.4206257242178447,
+              "validation_recall": 0.6992353440951572,
+              "median_execution_dd": 0.08820540567415919,
+              "validation_uplift": -0.018358085808580858
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c2",
+              "j": 21,
+              "target": 20,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1617,
+              "validation_precision": 0.4322820037105751,
+              "validation_recall": 0.6669498725573492,
+              "median_execution_dd": 0.09067068622097807,
+              "validation_uplift": 0.014438095238095243
+            }
+          ]
+        }
+      },
+      "train_summary_sha256": "555fbccaf677fa0ecf33ffadc5b09db2ef266385294372c0b9c1259128690993",
+      "validation_summary_sha256": "08f9dc44298f2b8e7a23d57ffa2c1ed710fc9c163d017404c26f0bf0e773dae7"
+    },
+    "US": {
+      "vol_cuts": [
+        0.01160009711641729,
+        0.01573154337275661,
+        0.020935167473005882,
+        0.030161372258344823
+      ],
+      "roles": {
+        "early": {
+          "qualified_count": 2,
+          "candidate": {
+            "signal": "ma5_slope_nonpositive__c2",
+            "j": 13,
+            "target": 10,
+            "failures": [],
+            "validation_n": 2953,
+            "validation_precision": 0.3413477819166949,
+            "validation_recall": 0.6738562091503268,
+            "median_execution_dd": 0.030138328805799697,
+            "validation_uplift": 0.024960917144346017
+          },
+          "status": "development_gates_passed",
+          "all_candidates": [
+            {
+              "signal": "close_below_ma5__c1",
+              "j": 0,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 4908,
+              "validation_precision": 0.26548492257538714,
+              "validation_recall": 0.869281045751634,
+              "median_execution_dd": 0.019332161687170335,
+              "validation_uplift": 0.009174841315637623
+            },
+            {
+              "signal": "close_below_ma5__c2",
+              "j": 1,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3821,
+              "validation_precision": 0.3080345459303847,
+              "validation_recall": 0.7869281045751634,
+              "median_execution_dd": 0.02530703298594622,
+              "validation_uplift": 0.011174624523649408
+            },
+            {
+              "signal": "close_below_ma10__c1",
+              "j": 2,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3502,
+              "validation_precision": 0.3366647629925757,
+              "validation_recall": 0.7875816993464052,
+              "median_execution_dd": 0.02902466660855918,
+              "validation_uplift": 0.006648156717569032
+            },
+            {
+              "signal": "close_below_ma10__c2",
+              "j": 3,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2867,
+              "validation_precision": 0.3711196372514824,
+              "validation_recall": 0.711764705882353,
+              "median_execution_dd": 0.03439742637960885,
+              "validation_uplift": 0.011111111111111113
+            },
+            {
+              "signal": "close_below_ma20__c1",
+              "j": 4,
+              "target": 10,
+              "failures": [
+                "match_coverage",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2369,
+              "validation_precision": 0.41367665681722243,
+              "validation_recall": 0.6568627450980392,
+              "median_execution_dd": 0.04178371716389795,
+              "validation_uplift": 0.006170150987224162
+            },
+            {
+              "signal": "close_below_ma20__c2",
+              "j": 5,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1947,
+              "validation_precision": 0.43605546995377503,
+              "validation_recall": 0.569281045751634,
+              "median_execution_dd": 0.04476873608706411,
+              "validation_uplift": -0.004683195592286498
+            },
+            {
+              "signal": "ma5_below_ma10__c1",
+              "j": 6,
+              "target": 10,
+              "failures": [],
+              "validation_n": 2885,
+              "validation_precision": 0.3535528596187175,
+              "validation_recall": 0.6823529411764706,
+              "median_execution_dd": 0.032637837021143146,
+              "validation_uplift": 0.031522542498152256
+            },
+            {
+              "signal": "ma5_below_ma10__c2",
+              "j": 7,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2604,
+              "validation_precision": 0.35714285714285715,
+              "validation_recall": 0.6228758169934641,
+              "median_execution_dd": 0.03307291666666656,
+              "validation_uplift": -0.005799192152336987
+            },
+            {
+              "signal": "ma5_below_ma20__c1",
+              "j": 8,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1879,
+              "validation_precision": 0.41937200638637573,
+              "validation_recall": 0.5287581699346405,
+              "median_execution_dd": 0.044103547459252046,
+              "validation_uplift": -0.0036245353159851247
+            },
+            {
+              "signal": "ma5_below_ma20__c2",
+              "j": 9,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1703,
+              "validation_precision": 0.4028185554903112,
+              "validation_recall": 0.4620915032679739,
+              "median_execution_dd": 0.0432138979370249,
+              "validation_uplift": -0.018177966101694913
+            },
+            {
+              "signal": "ma10_below_ma20__c1",
+              "j": 10,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1613,
+              "validation_precision": 0.39615623062616245,
+              "validation_recall": 0.43071895424836604,
+              "median_execution_dd": 0.04330392943063355,
+              "validation_uplift": -0.025159143518518515
+            },
+            {
+              "signal": "ma10_below_ma20__c2",
+              "j": 11,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1462,
+              "validation_precision": 0.3789329685362517,
+              "validation_recall": 0.37450980392156863,
+              "median_execution_dd": 0.042075890382569536,
+              "validation_uplift": -0.027064765300059412
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c1",
+              "j": 12,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 3313,
+              "validation_precision": 0.3305161485058859,
+              "validation_recall": 0.7320261437908496,
+              "median_execution_dd": 0.02888423014209185,
+              "validation_uplift": 0.005973715651135011
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c2",
+              "j": 13,
+              "target": 10,
+              "failures": [],
+              "validation_n": 2953,
+              "validation_precision": 0.3413477819166949,
+              "validation_recall": 0.6738562091503268,
+              "median_execution_dd": 0.030138328805799697,
+              "validation_uplift": 0.024960917144346017
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c1",
+              "j": 14,
+              "target": 10,
+              "failures": [
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2375,
+              "validation_precision": 0.38652631578947366,
+              "validation_recall": 0.615686274509804,
+              "median_execution_dd": 0.03802793892786377,
+              "validation_uplift": 0.010442744552619385
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c2",
+              "j": 15,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2140,
+              "validation_precision": 0.3813084112149533,
+              "validation_recall": 0.5470588235294118,
+              "median_execution_dd": 0.03806718773771489,
+              "validation_uplift": 0.004533799533799533
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c1",
+              "j": 16,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1478,
+              "validation_precision": 0.42219215155615697,
+              "validation_recall": 0.4222222222222222,
+              "median_execution_dd": 0.04733678106385225,
+              "validation_uplift": -0.0013157894736842118
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c2",
+              "j": 17,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci"
+              ],
+              "validation_n": 1321,
+              "validation_precision": 0.4072672218016654,
+              "validation_recall": 0.36470588235294116,
+              "median_execution_dd": 0.04735918924186322,
+              "validation_uplift": 0.025769373377827216
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c1",
+              "j": 18,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 1386,
+              "validation_precision": 0.4466089466089466,
+              "validation_recall": 0.4189542483660131,
+              "median_execution_dd": 0.050118616332490595,
+              "validation_uplift": 0.0032435740514075956
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c2",
+              "j": 19,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1194,
+              "validation_precision": 0.44137353433835846,
+              "validation_recall": 0.35751633986928105,
+              "median_execution_dd": 0.0523292916400766,
+              "validation_uplift": 0.018922305764411028
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c1",
+              "j": 20,
+              "target": 10,
+              "failures": [
+                "signal_timing",
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1385,
+              "validation_precision": 0.43826714801444044,
+              "validation_recall": 0.41045751633986927,
+              "median_execution_dd": 0.050143155914272874,
+              "validation_uplift": 0.0046993911719939154
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c2",
+              "j": 21,
+              "target": 10,
+              "failures": [
+                "recall",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1196,
+              "validation_precision": 0.42642140468227424,
+              "validation_recall": 0.3464052287581699,
+              "median_execution_dd": 0.0502128909117604,
+              "validation_uplift": 0.02199681782020685
+            }
+          ]
+        },
+        "exit": {
+          "qualified_count": 0,
+          "candidate": {
+            "signal": "close_below_ma20_and_ma20_down__c2",
+            "j": 19,
+            "target": 20,
+            "failures": [
+              "precision",
+              "symbol_uplift_ci",
+              "time_uplift_ci",
+              "train_uplift"
+            ],
+            "validation_n": 1831,
+            "validation_precision": 0.3085745494265429,
+            "validation_recall": 0.7384259259259259,
+            "median_execution_dd": 0.06956836267181099,
+            "validation_uplift": 0.005629348513598989
+          },
+          "status": "DESCRIPTIVE ONLY: no candidate passed predeclared gates",
+          "all_candidates": [
+            {
+              "signal": "close_below_ma5__c1",
+              "j": 0,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 5054,
+              "validation_precision": 0.13850415512465375,
+              "validation_recall": 0.9467592592592593,
+              "median_execution_dd": 0.01997245179063356,
+              "validation_uplift": -0.009742188997508144
+            },
+            {
+              "signal": "close_below_ma5__c2",
+              "j": 1,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 4064,
+              "validation_precision": 0.16756889763779528,
+              "validation_recall": 0.9178240740740741,
+              "median_execution_dd": 0.026776811338694695,
+              "validation_uplift": 0.0029223290244171918
+            },
+            {
+              "signal": "close_below_ma10__c1",
+              "j": 2,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3743,
+              "validation_precision": 0.18274111675126903,
+              "validation_recall": 0.9212962962962963,
+              "median_execution_dd": 0.030672370851220765,
+              "validation_uplift": 0.0009465394517643514
+            },
+            {
+              "signal": "close_below_ma10__c2",
+              "j": 3,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3187,
+              "validation_precision": 0.20897395669909005,
+              "validation_recall": 0.8923611111111112,
+              "median_execution_dd": 0.03734538278463462,
+              "validation_uplift": 0.010023485992283174
+            },
+            {
+              "signal": "close_below_ma20__c1",
+              "j": 4,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2748,
+              "validation_precision": 0.2423580786026201,
+              "validation_recall": 0.8807870370370371,
+              "median_execution_dd": 0.0471106365941546,
+              "validation_uplift": 0.0009836065573770522
+            },
+            {
+              "signal": "close_below_ma20__c2",
+              "j": 5,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "train_uplift"
+              ],
+              "validation_n": 2406,
+              "validation_precision": 0.2664172901080632,
+              "validation_recall": 0.8449074074074074,
+              "median_execution_dd": 0.05309435238417315,
+              "validation_uplift": 0.030936454849498328
+            },
+            {
+              "signal": "ma5_below_ma10__c1",
+              "j": 6,
+              "target": 20,
+              "failures": [
+                "precision",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3244,
+              "validation_precision": 0.20283600493218248,
+              "validation_recall": 0.8842592592592593,
+              "median_execution_dd": 0.03625421455244171,
+              "validation_uplift": 0.01765536723163842
+            },
+            {
+              "signal": "ma5_below_ma10__c2",
+              "j": 7,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3030,
+              "validation_precision": 0.2132013201320132,
+              "validation_recall": 0.8645833333333334,
+              "median_execution_dd": 0.03819969742813922,
+              "validation_uplift": -0.0003474078033137333
+            },
+            {
+              "signal": "ma5_below_ma20__c1",
+              "j": 8,
+              "target": 20,
+              "failures": [
+                "match_coverage",
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2387,
+              "validation_precision": 0.26225387515710097,
+              "validation_recall": 0.8298611111111112,
+              "median_execution_dd": 0.05411499436302125,
+              "validation_uplift": 0.013917089678511001
+            },
+            {
+              "signal": "ma5_below_ma20__c2",
+              "j": 9,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2288,
+              "validation_precision": 0.2666083916083916,
+              "validation_recall": 0.8078703703703703,
+              "median_execution_dd": 0.054980595084088035,
+              "validation_uplift": -0.01056129985228951
+            },
+            {
+              "signal": "ma10_below_ma20__c1",
+              "j": 10,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2217,
+              "validation_precision": 0.26612539467749213,
+              "validation_recall": 0.7777777777777778,
+              "median_execution_dd": 0.057034220532319435,
+              "validation_uplift": -0.02716450216450216
+            },
+            {
+              "signal": "ma10_below_ma20__c2",
+              "j": 11,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2129,
+              "validation_precision": 0.27101925786754344,
+              "validation_recall": 0.7581018518518519,
+              "median_execution_dd": 0.058042159976898766,
+              "validation_uplift": -0.024208037825059096
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c1",
+              "j": 12,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3629,
+              "validation_precision": 0.1862772113529898,
+              "validation_recall": 0.9097222222222222,
+              "median_execution_dd": 0.031052135419872062,
+              "validation_uplift": 0.005018694276675295
+            },
+            {
+              "signal": "ma5_slope_nonpositive__c2",
+              "j": 13,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 3333,
+              "validation_precision": 0.19831983198319833,
+              "validation_recall": 0.8865740740740741,
+              "median_execution_dd": 0.03447432968922526,
+              "validation_uplift": 0.008016773556980763
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c1",
+              "j": 14,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2800,
+              "validation_precision": 0.2325,
+              "validation_recall": 0.8634259259259259,
+              "median_execution_dd": 0.044040502785907265,
+              "validation_uplift": 0.009596616785946649
+            },
+            {
+              "signal": "ma10_slope_nonpositive__c2",
+              "j": 15,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci"
+              ],
+              "validation_n": 2637,
+              "validation_precision": 0.23814941221084565,
+              "validation_recall": 0.8356481481481481,
+              "median_execution_dd": 0.04587412587412587,
+              "validation_uplift": 0.0029097133076593936
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c1",
+              "j": 16,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 2079,
+              "validation_precision": 0.2833092833092833,
+              "validation_recall": 0.7754629629629629,
+              "median_execution_dd": 0.06050680604186215,
+              "validation_uplift": -0.003578915843066784
+            },
+            {
+              "signal": "ma20_slope_nonpositive__c2",
+              "j": 17,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1970,
+              "validation_precision": 0.28730964467005077,
+              "validation_recall": 0.7418981481481481,
+              "median_execution_dd": 0.06288784012757115,
+              "validation_uplift": 0.004951065054692
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c1",
+              "j": 18,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1981,
+              "validation_precision": 0.2978293791014639,
+              "validation_recall": 0.7743055555555556,
+              "median_execution_dd": 0.0641109386416514,
+              "validation_uplift": -0.009148727984344417
+            },
+            {
+              "signal": "close_below_ma20_and_ma20_down__c2",
+              "j": 19,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1831,
+              "validation_precision": 0.3085745494265429,
+              "validation_recall": 0.7384259259259259,
+              "median_execution_dd": 0.06956836267181099,
+              "validation_uplift": 0.005629348513598989
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c1",
+              "j": 20,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1983,
+              "validation_precision": 0.2950075642965204,
+              "validation_recall": 0.7696759259259259,
+              "median_execution_dd": 0.06494992846924186,
+              "validation_uplift": -0.006657649534114813
+            },
+            {
+              "signal": "ma5_below_ma10_and_ma20_down__c2",
+              "j": 21,
+              "target": 20,
+              "failures": [
+                "precision",
+                "symbol_uplift_ci",
+                "time_uplift_ci",
+                "train_uplift"
+              ],
+              "validation_n": 1848,
+              "validation_precision": 0.3041125541125541,
+              "validation_recall": 0.7349537037037037,
+              "median_execution_dd": 0.06864730046948353,
+              "validation_uplift": -0.0030686445607911537
+            }
+          ]
+        }
+      },
+      "train_summary_sha256": "f72efcac9295911f32a9f9c76108a30f055734c9577854fd6beca9df267f55e9",
+      "validation_summary_sha256": "b5c857f7cb8b0464f3b7ef67139602cf556515aed1ecd9415fc4c2d94f5fa799"
+    }
+  },
+  "basis": "development symbols only; KR/US independent; reserved-symbol outcomes never loaded"
+}

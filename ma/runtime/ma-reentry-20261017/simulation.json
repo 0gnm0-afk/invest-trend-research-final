@@ -1,0 +1,35 @@
+{
+  "protocol_sha256": "981b3843df8143faebbbb9c143f6ddbd0a22f2077c08f77a07aa9ea67de00dfb",
+  "cycles": 644938,
+  "paths": 161244,
+  "cohorts": [
+    {
+      "market": "KR",
+      "period": "full",
+      "n": 200,
+      "stale": 16,
+      "signal_date": "2016-01-04"
+    },
+    {
+      "market": "KR",
+      "period": "oos",
+      "n": 198,
+      "stale": 5,
+      "signal_date": "2023-04-03"
+    },
+    {
+      "market": "US",
+      "period": "full",
+      "n": 720,
+      "stale": 0,
+      "signal_date": "2016-01-04"
+    },
+    {
+      "market": "US",
+      "period": "oos",
+      "n": 1155,
+      "stale": 0,
+      "signal_date": "2023-04-03"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "checks": {
+    "raw_source_hashes_unchanged": 1339,
+    "prior800_overlap": 0,
+    "frozen_selection_unchanged": true,
+    "warning_rows_verified": 178482,
+    "matched_pairs_verified": 120174,
+    "raw_scalar_replays": 40,
+    "post_target_warning_rows_excluded": 41573,
+    "subject_split_disjoint": true,
+    "report_local_links_valid": true
+  },
+  "scope": "offline research artifacts; operating systems never mutated"
+}
