@@ -1380,8 +1380,8 @@
     "sha256": "351cf81fba3052254f2d28957fa34e350800d17893a8564bb8bc925e79aba416"
   },
   "README.md": {
-    "bytes": 2883,
-    "sha256": "db969f393a6a0505b2c9da5decfef8aa60f292ff66cfad8c5faaa23da999eb56"
+    "bytes": 19337,
+    "sha256": "56f473218785abaa46797ef39efb0b9f454e063bb7c9e9c765c0901ec5520219"
   },
   "reference-definitions/downtrend-original-signal-definitions.csv": {
     "bytes": 20281,
@@ -1720,3 +1720,4 @@
     "sha256": "edaf12b97b35a7a29114658e28140b5bd8fa58f555ccb401eedc29bc9e9378fb"
   }
 }
+
